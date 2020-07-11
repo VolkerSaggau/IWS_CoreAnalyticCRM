@@ -14,7 +14,7 @@ view "FV_PN_PRFL"  comment 'Person Profile'(
 "PERSON_ID",
 "LANGUAGE_ID",
 "GEO_ID",
-"CUS_SINCE_PRD_ID"
+"CUS_SINCE_PRD_ID" 
 )
 as
 select
