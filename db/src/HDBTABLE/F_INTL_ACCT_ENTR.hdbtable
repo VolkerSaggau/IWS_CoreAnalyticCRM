@@ -1,0 +1,25 @@
+column table "F_INTL_ACCT_ENTR" (
+"INTL_ACCT_ENTR_ID"    INTEGER   NOT NULL,
+"INTL_ACCT_ID"    INTEGER   NOT NULL   comment 'Chart of Accounts ID',
+"PRD_ID"    INTEGER   NOT NULL   comment 'Completion Date',
+"DOC_TYPE_ID"    INTEGER   NOT NULL   comment 'Document Type ID',
+"REF_ISO_CRCY_ID"    INTEGER   NOT NULL   comment 'Reference ISO Currency ID',
+"ISO_CRCY_ID"    INTEGER   NOT NULL   comment 'Entry ISO Currency',
+"MEASURE_UNIT_ID"    INTEGER   NOT NULL   comment 'Measurement Unit ID',
+"COR_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'Core Reporting Structure ID',
+"ASSET_TYPE_ID"    INTEGER,
+"INTL_ACCT_ENTR_NBR"    VARCHAR(18),
+"ACCT_SYSTEM_CODE"    CHAR(3)    comment 'Accounting System',
+"ENTRY_TYPE"    CHAR(10)   NOT NULL   comment 'Entry Type',
+"ENTRY_DEBIT_CREDIT"    CHAR(1)   NOT NULL   comment 'Entry Debit Credit Indicator',
+"DOC_REF_NBR"    VARCHAR(18)   NOT NULL   comment 'Document Reference ID',
+"DOC_LINE_NUM"    INTEGER   NOT NULL   comment 'Document Line Number',
+"TAXABLE_ENTRY"    CHAR(1)   NOT NULL   comment 'Taxable Entry IND',
+"ASSET_IND"    CHAR(1)   NOT NULL   comment 'Asset IND',
+"ASSET_NBR"    VARCHAR(18)    comment 'Asset ID',
+"ACE_QUANTITY"    DECIMAL    comment 'QUANTITY',
+"ACCT_ENTRY_AMT"    DECIMAL(18,2)    comment 'Accounting Entry Amount',
+"REF_ACCT_ENTRY_AMT"    DECIMAL(18,2),
+primary key cpbtree (INTL_ACCT_ENTR_ID)
+)
+ comment 'Accounting Entry'

@@ -1,0 +1,11 @@
+column table "D_ASSETS" (
+"ASSET_ID"    INTEGER   NOT NULL   comment 'Personal Assets ID',
+"YRS_AT_RES_BAND"    VARCHAR(50)    comment 'Years at Residence Band',
+"NBR_VHCL_BAND"    VARCHAR(50)    comment 'Number of Vehicles Band',
+"PRIM_VHCL_VAL_BAND"    VARCHAR(50)    comment 'Primary Vehicle Value Band',
+"OWN_OFCS_IND"    CHAR(1)    comment 'Own Offices Indicator',
+"PROP_VAL_BAND"    VARCHAR(50)    comment 'Property Value Band',
+"ASSET_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (ASSET_ID)
+)
+ comment 'Assets'

@@ -1,0 +1,20 @@
+column table "D_INTL_ACCOUNT" (
+"INTL_ACCT_ID"    INTEGER   NOT NULL   comment 'Chart of Accounts ID',
+"INTL_ACCT_NBR"    VARCHAR(18),
+"ACCT_SYS_CD"    CHAR(3)   NOT NULL   comment 'Accounting System',
+"ACCT_SYS_NM"    VARCHAR(30),
+"ACCT_START_DT"    TIMESTAMP    comment 'Start Date',
+"ACCT_END_DT"    TIMESTAMP    comment 'End Date Period ID',
+"ACCT_RPT_TYPE"    CHAR(3)    comment 'Account Reporting Type',
+"LEDGER_NM"    VARCHAR(30)    comment 'Ledger',
+"SUBLEDGER_NM"    VARCHAR(30)    comment 'Subledger',
+"ACCT_TYPE"    CHAR(3)    comment 'Account Type',
+"ACCT_CLS"    CHAR(10)    comment 'Account Classification',
+"ACCT_CAT"    CHAR(35)    comment 'Account Category',
+"CPTL_PROJ_IND"    CHAR(1)    comment 'Capital Project  Account Indicator',
+"CPTL_PROJ_NM"    VARCHAR(30)    comment 'Capital Project Name',
+"ACCT_PROD_NAME"    VARCHAR(30)    comment 'Product Name',
+"IA_ALL_ENTR_IND"    CHAR(1),
+primary key cpbtree (INTL_ACCT_ID)
+)
+ comment 'Company Unit Chart Of Accounts'

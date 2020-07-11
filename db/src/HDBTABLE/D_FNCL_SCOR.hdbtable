@@ -1,0 +1,11 @@
+column table "D_FNCL_SCOR" (
+"FNCL_SCOR_ID"    INTEGER   NOT NULL   comment 'Financial Scores ID',
+"INTL_FNCL_SCOR_BND"    VARCHAR(50)    comment 'Internal Financial Score Band',
+"EXPERIAN_SCOR_BND"    VARCHAR(50)    comment 'Experian Score Band',
+"SCOR_N_BAND"    VARCHAR(50)    comment 'Score N Band',
+"PRFT_IND_BAND"    VARCHAR(50)    comment 'Pprofitability Index Band',
+"DEBT_INCM_RATIO_BN"    VARCHAR(50)    comment 'Debt Income Ratio Band',
+"FS_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (FNCL_SCOR_ID)
+)
+ comment 'Financial Scores'

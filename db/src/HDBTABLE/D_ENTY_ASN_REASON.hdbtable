@@ -1,0 +1,8 @@
+column table "D_ENTY_ASN_REASON" (
+"ENTY_ASN_RSN_ID"    INTEGER   NOT NULL   comment 'Entity Association Reason ID',
+"ENTY_ASN_RSN_SN"    VARCHAR(15)    comment 'Entity Association Reason ID',
+"ENTY_ASN_RSN_LN"    VARCHAR(255)    comment 'Entity Association Reason ID',
+"EAR_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (ENTY_ASN_RSN_ID)
+)
+ comment 'Entity Association Reason'

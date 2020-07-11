@@ -1,0 +1,12 @@
+column table "D_CPGN_CNTC_ISTR" (
+"CNTC_ISTR_ID"    INTEGER   NOT NULL   comment 'Contact Instruction ID',
+"PREF_CONTACT_MTHD"    VARCHAR(15)    comment 'Preferred Contact Method',
+"PREF_CNTC_TIME"    VARCHAR(50)    comment 'Preferred Contact Time Band',
+"MAIL_PRMSN_IND"    CHAR(1)    comment 'Mail Permission IND',
+"TELMKT_PRMSN_IND"    CHAR(1)    comment 'Telemarketing Permission Indicator',
+"EMAIL_PRMSN"    CHAR(1)    comment 'E Mail Permission Indicator',
+"FAX_PRMSN"    CHAR(1)    comment 'FAX Permission Indicator',
+"CCI_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (CNTC_ISTR_ID)
+)
+ comment 'Campaign Contact Instructions'

@@ -1,0 +1,18 @@
+column table "F_EMP_KEY_FCTS" (
+"EMP_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"LAST_HIRE_PRD_ID"    INTEGER    comment 'Last Hire Date',
+"LAST_TERM_PRD_ID"    INTEGER    comment 'Last Termination Date',
+"BEGIN_DATE_PRD_ID"    INTEGER    comment 'Employee Key Facts Begin Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'Employee Key Facts End Date Period ID',
+"LAST_RVW_PRD_ID"    INTEGER    comment 'Last Review Date',
+"REHIRE_IND"    CHAR(1)    comment 'Rehire Indicator',
+"WK_IN_LAST_RVW_PRD"    INTEGER    comment 'Weeks In Last Review Period',
+"LAST_INCMT_AMT"    DECIMAL(18,2)    comment 'Last Increment Amount',
+"PAY_SCAL_PERCENTIL"    DECIMAL(4,2)    comment 'Pay Scale Percentile',
+"LAST_PRFM_RATING"    CHAR(2)    comment 'Employee Key Facts End Date Highest Grade',
+"EMPLOYEE_GRADE"    CHAR(35)    comment 'Employee Grade',
+"EMPLOYEE_TITLE"    VARCHAR(15)    comment 'Employee Title',
+"PRM_IND"    CHAR(1)    comment 'Ppromotable Indicator',
+primary key cpbtree (EMP_ID)
+)
+ comment 'Employee Key Facts'

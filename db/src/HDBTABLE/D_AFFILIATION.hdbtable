@@ -1,0 +1,9 @@
+column table "D_AFFILIATION" (
+"AFFILIATION_ID"    INTEGER   NOT NULL   comment 'AFFILIATION ID',
+"AAA_IND"    CHAR(1)    comment 'AAA',
+"AARP_IND"    CHAR(1)    comment 'AARP',
+"NRA_IND"    CHAR(1)    comment 'NRA',
+"AFL_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (AFFILIATION_ID)
+)
+ comment 'Affiliation'

@@ -1,0 +1,28 @@
+column table "F_HR_EVT" (
+"COR_EVT_ID"    INTEGER   NOT NULL   comment 'Core Event ID',
+"COR_EVT_SEQ_NBR"    INTEGER   NOT NULL,
+"ADMIN_ID"    INTEGER   NOT NULL   comment 'ENTITY ID',
+"EVT_EMP_ID"    INTEGER   NOT NULL   comment 'ENTITY ID',
+"EVT_EMP_DEMO_ID"    INTEGER   NOT NULL   comment 'DEMO_ID',
+"EVT_ADMIN_DEMO_ID"    INTEGER   NOT NULL   comment 'DEMO_ID',
+"EMP_ID"    INTEGER   NOT NULL   comment 'Employee ID',
+"COR_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'CORE RPTG STRUCT ID',
+"MEASURE_UNIT_ID"    INTEGER   NOT NULL   comment 'Measurement Unit ID',
+"EVT_DT_PRD_ID"    INTEGER   NOT NULL   comment 'HR EVENT DATE PERIOD ID',
+"EVT_TYP_ID"    INTEGER    comment 'Core Data Warehouse Event Type ID',
+"PN_BHVR_SCOR_ID"    INTEGER   NOT NULL   comment 'PB SCORE ID',
+"GEO_ID"    INTEGER    comment 'Geographic ID',
+"HEX_QUANTITY"    DECIMAL    comment 'QUANTITY',
+"HEX_COMMENT"    VARCHAR(255)    comment 'Comment',
+primary key cpbtree (COR_EVT_ID,
+COR_EVT_SEQ_NBR,
+ADMIN_ID,
+EVT_EMP_ID,
+EVT_EMP_DEMO_ID,
+EVT_ADMIN_DEMO_ID,
+EMP_ID,
+COR_RPT_STRC_ID,
+MEASURE_UNIT_ID,
+PN_BHVR_SCOR_ID)
+)
+ comment 'Human Resources Event Transaction'

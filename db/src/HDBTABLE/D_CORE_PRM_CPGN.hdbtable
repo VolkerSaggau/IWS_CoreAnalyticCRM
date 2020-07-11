@@ -1,0 +1,26 @@
+column table "D_CORE_PRM_CPGN" (
+"PRM_CPGN_ID"    INTEGER   NOT NULL   comment 'Promotion Campaign ID',
+"CPS_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'Core Reporting Structure ID',
+"BEGIN_DATE_PRD_ID"    INTEGER    comment 'Campaign Actual Begin Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'Campaign Actual End Date Period ID',
+"STRTGC_CPGN_ID"    INTEGER    comment 'Strategic Campaign ID',
+"SCHD_BEGIN_DATE"    TIMESTAMP,
+"SCHD_END_DATE"    TIMESTAMP,
+"CPGN_TYPE"    CHAR(3)    comment 'Campaign Type',
+"CPGN_NAME"    VARCHAR(30)    comment 'Campaign Name',
+"PRTY_RANKING"    CHAR(3)    comment 'Campaign Priority Ranking',
+"DSR_CUS_TGT_CNT"    INTEGER    comment 'Campaign Desired Customer Target Counter',
+"ACTL_CUS_TGT_CNT"    INTEGER    comment 'Campaign Actual Customer Target Counter',
+"BUDGETED_COST"    DECIMAL(18,2)    comment 'Campaign Budgeted Cost',
+"ACTL_COST"    DECIMAL(18,2)    comment 'Campaign Actual Cost',
+"CPGN_INCENTIVE"    VARCHAR(35)    comment 'Campaign Incentive',
+"EFF_RATING"    VARCHAR(30)    comment 'Campaign Effectiveness Rating',
+"EST_REVENUE"    DECIMAL(18,2)    comment 'Campaign Estimated Revenue Generation',
+"EST_CUSTOMER"    INTEGER    comment 'Campaign Estimated Customer Generation',
+"CR_CUSTOMER"    INTEGER    comment 'Campaign Credited Customer Generation',
+"CR_REVENUE"    DECIMAL(18,2)    comment 'Campaign Credited Revenue',
+"SEL_CRITERIA"    VARCHAR(255)    comment 'Campaign Selection Criteria',
+"CPC_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PRM_CPGN_ID)
+)
+ comment 'Core Promotional Campaign'

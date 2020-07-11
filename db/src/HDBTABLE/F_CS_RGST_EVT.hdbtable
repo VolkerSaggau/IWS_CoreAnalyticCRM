@@ -1,0 +1,22 @@
+column table "F_CS_RGST_EVT" (
+"USER_ID"    INTEGER   NOT NULL   comment 'User ID',
+"RGST_EVT_SEQ_NBR"    INTEGER   NOT NULL   comment 'Registration Event Sequence Number',
+"PRD_ID"    INTEGER   NOT NULL   comment 'Registration Date Period',
+"HOUR_ID"    INTEGER   NOT NULL   comment 'Hour ID',
+"RGST_INFO_CAT_ID"    INTEGER    comment 'Registration Info Cat ID',
+"ENTRY_PAGE_ID"    INTEGER    comment 'Entry Page ID',
+"EXIT_PAGE_ID"    INTEGER    comment 'Exit Page ID',
+"REFERRAL_ID"    INTEGER    comment 'Referral ID',
+"ISP_ID"    INTEGER    comment 'ISP ID',
+"BANNER_AD_ID"    INTEGER    comment 'Banner Ad ID',
+"CUSTOMER_ID"    INTEGER    comment 'Customer ID',
+"RGST_CPLT_IND"    CHAR(1)    comment 'Registration Completed Indicator',
+"RGST_DRTN"    INTEGER    comment 'Registration Duration',
+"SUBSCRIBED_IND"    CHAR(1)    comment 'Subscribed to Newsletter Indicator',
+"VST_DRTN_BEF_RGST"    INTEGER    comment 'Vistit Duration Before Registration',
+"NBR_VISITS"    INTEGER    comment 'Number of Visits',
+"DAYS_FROM_FST_VST"    INTEGER    comment 'Days From First Visit',
+primary key cpbtree (USER_ID,
+RGST_EVT_SEQ_NBR)
+)
+ comment 'Registration Event'

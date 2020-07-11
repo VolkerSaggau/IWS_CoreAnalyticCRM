@@ -1,0 +1,8 @@
+column table "D_STMT_CYCLE" (
+"STMT_CYCLE_ID"    INTEGER   NOT NULL   comment 'Statement Cycle ID',
+"STMT_CYCLE_CODE"    CHAR(3)    comment 'Statement Cycle Code',
+"STMT_CYCLE_TXT"    VARCHAR(35)    comment 'Statement Cycle Text',
+"SCY_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (STMT_CYCLE_ID)
+)
+ comment 'Statement Cycle'

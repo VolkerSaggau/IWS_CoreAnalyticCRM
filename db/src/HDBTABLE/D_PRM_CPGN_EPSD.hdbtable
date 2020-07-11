@@ -1,0 +1,27 @@
+column table "D_PRM_CPGN_EPSD" (
+"PRM_EPSD_ID"    INTEGER   NOT NULL   comment 'Promotional Episode ID',
+"EPS_RPT_STRC_ID"    INTEGER    comment 'Episode Reporting Structure ID',
+"BEGIN_DATE_PRD_ID"    INTEGER    comment 'Actual Begin Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'Actual End Date Period ID',
+"PRM_CPGN_ID"    INTEGER    comment 'Promotion Campaign ID',
+"SCHD_BEGIN_DATE"    TIMESTAMP    comment 'Scheduled Begin Date',
+"SCHD_END_DATE"    TIMESTAMP    comment 'Scheduled End Date',
+"PE_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"EPSD_TYPE"    CHAR(3)    comment 'Episode Type',
+"EPSD_NAME"    VARCHAR(30)    comment 'Episode Name',
+"EPSD_INCENTIVE"    VARCHAR(35)    comment 'Episode Incentive',
+"EPSD_DSR_CUS_CNT"    INTEGER    comment 'Desired Customer Target Count',
+"EPSD_ACTL_CUS_CNT"    INTEGER    comment 'Actual Customer Target Count',
+"EPSD_BDGT_COST"    DECIMAL(18,2)    comment 'Budgeted Cost',
+"EPSD_ACTL_COST"    DECIMAL(18,2)    comment 'Actual Cost',
+"CPGN_MEDIA_TYP"    CHAR(10)    comment 'Campaign Media Type',
+"RDM_MCHSM"    CHAR(3)    comment 'Redemption Mechanism',
+"EFF_RATING"    VARCHAR(30)    comment 'Episode Effectiveness Rating',
+"EST_REVENUE"    DECIMAL(18,2)    comment 'Episode Estimated Revenue Generation',
+"EST_CUSTOMER"    INTEGER    comment 'Episode Estimated Customer Generation',
+"CR_REVENUE"    DECIMAL(18,2)    comment 'Credited Revenue',
+"CR_CUSTOMER"    INTEGER    comment 'Credited Customer Generation',
+"SEL_CRITERIA"    VARCHAR(255)    comment 'Selection Criteria',
+primary key cpbtree (PRM_EPSD_ID)
+)
+ comment 'Promotional Campaign Episode'

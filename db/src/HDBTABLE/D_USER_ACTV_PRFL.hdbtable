@@ -1,0 +1,24 @@
+column table "D_USER_ACTV_PRFL" (
+"USER_ACTV_PRFL_ID"    INTEGER   NOT NULL   comment 'User Activity Profile ID',
+"VISIT_IND"    CHAR(1)    comment 'Visit Indicator',
+"CTLG_RQST_IND"    CHAR(1)    comment 'Catalog Requested Indicator',
+"PD_INFO_RQST_IND"    CHAR(1)    comment 'Product Info Requested Indicator',
+"CUS_SVC_RQST_IND"    CHAR(1)    comment 'Service Requested Indicator',
+"PURCHASE_IND"    CHAR(1)    comment 'Purchase Made Indicator',
+"CUR_NBR_VST_BAND"    VARCHAR(50)    comment 'Current Number of Visits Band',
+"NBR_VST_60D_BAND"    VARCHAR(50)    comment '60 Days Number of Visits Band',
+"NBR_VST_90D_BAND"    VARCHAR(50)    comment '90 Days Number of Visits Band',
+"CUR_NBR_PRCH_BAND"    VARCHAR(50)    comment 'Current Number of Purchases Band',
+"NBR_PRCH_60D_BAND"    VARCHAR(50)    comment '60 Days Number of Purchases Band',
+"NBR_PRCH_90D_BAND"    VARCHAR(50)    comment '90 Days Number of Purchases Band',
+"CUR_VST_DRTN_BAND"    VARCHAR(50)    comment 'Visit Duration Band',
+"VST_DRTN_60D_BAND"    VARCHAR(50)    comment '60 Days Visit Duration Band',
+"VST_DRTN_90D_BAND"    VARCHAR(50)    comment '90 Days Visit Duration Band',
+"CUR_PRCH_VAL_BAND"    VARCHAR(50)    comment 'Value of Purchase Band',
+"PRCH_VAL_60D_BAND"    VARCHAR(50)    comment '60 Days Value of Purchase Band',
+"PRCH_VAL_90D_BAND"    VARCHAR(50)    comment '90 Days Value of Purchase Band',
+"LT_PRCH_VAL_BAND"    VARCHAR(50)    comment 'Lifetime Purchase Value Band',
+"AVG_PRCH_VAL_BAND"    VARCHAR(50)    comment 'Average Purchase Value Band',
+primary key cpbtree (USER_ACTV_PRFL_ID)
+)
+ comment 'User Activity Profile'

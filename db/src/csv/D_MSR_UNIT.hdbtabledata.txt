@@ -1,0 +1,17 @@
+{
+	"format_version": 1,
+	"imports": [
+    {
+    	"target_table": "D_MSR_UNIT",
+    	"source_data": {
+    		"data_type": "CSV",
+			"file_name": "D_MSR_UNIT.CSV", 
+			"has_header": false,
+        	"type_config": {
+        		"delimiter": ","
+        	}
+    	},
+        "include_filter": []
+    }
+  ]
+}

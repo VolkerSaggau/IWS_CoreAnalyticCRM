@@ -1,0 +1,12 @@
+column table "D_PAGE" (
+"PAGE_ID"    INTEGER   NOT NULL   comment 'Page ID',
+"PAGE_NAME"    VARCHAR(30)    comment 'Page Name',
+"PAGE_DESC"    VARCHAR(35)    comment 'Page Description',
+"PAGE_URL"    VARCHAR(50)    comment 'Page URL',
+"PAGE_SERVER"    VARCHAR(30)    comment 'Page Server',
+"PAGE_SITE"    VARCHAR(50)    comment 'Page Web Site',
+"PAGE_CONTENT_TYPE"    VARCHAR(35)    comment 'Page Content Type',
+"PAGE_CATEGORY"    CHAR(35)    comment 'Page Category',
+primary key cpbtree (PAGE_ID)
+)
+ comment 'Web Page'

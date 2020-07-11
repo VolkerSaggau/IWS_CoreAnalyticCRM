@@ -1,0 +1,8 @@
+column table "D_PYMT_CAT" (
+"PYMT_CAT_ID"    INTEGER   NOT NULL   comment 'Payment Category ID',
+"PYMT_MTHD"    CHAR(35)    comment 'Payment Method',
+"PYMT_FREQ"    CHAR(3)    comment 'Payment Frequency',
+"PY_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PYMT_CAT_ID)
+)
+ comment 'Payment Category'

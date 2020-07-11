@@ -1,0 +1,11 @@
+column table "D_CORE_EVT_TYP" (
+"EVT_TYP_ID"    INTEGER   NOT NULL   comment 'Core Data Warehouse Event Type ID',
+"EVT_TYP_CAT_SNM"    VARCHAR(30)    comment 'Core Event Type Category Short Name',
+"EVT_TYP_CAT_LNM"    VARCHAR(255)    comment 'Core Event Type Category Long Name',
+"EVT_TYP_SHRT_NAM"    VARCHAR(30)    comment 'Core Data Warehouse Event Type Short Name',
+"EVT_TYP_LONG_NAM"    VARCHAR(255)    comment 'Core Data Warehouse Event Type',
+"EVT_TYP_SUBTYP_NAM"    VARCHAR(30)    comment 'Core Data Warehouse Event Type Subtype',
+"CET_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (EVT_TYP_ID)
+)
+ comment 'Core Event Type'

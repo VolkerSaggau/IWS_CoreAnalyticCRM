@@ -1,0 +1,22 @@
+column table "D_GEO_DEMOGRAPHICS" (
+"GEO_ID"    INTEGER   NOT NULL   comment 'Geographic ID',
+"GEO_POSTAL_CODE"    VARCHAR(10)    comment 'Postal Code',
+"POP_SIZE"    INTEGER    comment 'Population Size',
+"NBR_OF_HOUSEHOLDS"    INTEGER    comment 'Number of Households',
+"HH_5YR_GROWTH_RT"    DECIMAL(4,2)    comment 'Household 5 Year Growth Rate',
+"HH_AVG_SIZE"    DECIMAL    comment 'Household Average Size',
+"POP_PCT_UND_5"    DECIMAL(4,2)    comment 'Percentage of Population under Age 5',
+"POP_PCT_5_16_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 5 to 16 Age Range',
+"POP_PCT_17_25_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 17 to 25 Age Range',
+"POP_PCT_26_35_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 26 to 35 Age Range',
+"POP_PCT_36_45_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 36 to 45 Age Range',
+"POP_PCT_46_55_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 46 to 55 Age Range',
+"POP_PCT_56_65_RNG"    DECIMAL(4,2)    comment 'Percentage of Population in the 56 to 65 Age Range',
+"POP_PCT_OVR_65"    DECIMAL(4,2)    comment 'Percentage of Population over Age 65',
+"MDN_HH_INCOME"    DECIMAL(18,2)    comment 'Median Household Income',
+"NO_WORKERS_HH_PCT"    DECIMAL(4,2)    comment 'Percentage of Households with No Workers',
+"WHT_COLLAR_HH_PCT"    DECIMAL(4,2)    comment 'Percentage of Households with White Collar Workers',
+"BLU_COLLAR_HH_PCT"    DECIMAL(4,2)    comment 'Percentage of Households with Blue Collar Workers',
+primary key cpbtree (GEO_ID)
+)
+ comment 'Geo Demographics'

@@ -1,0 +1,18 @@
+column table "D_PLCY" (
+"PLCY_ID"    INTEGER   NOT NULL   comment 'Policy ID',
+"CUSTOMER_NAME"    VARCHAR(30)    comment 'Customer Name',
+"PLCY_NBR"    VARCHAR(18)    comment 'Policy Identifier from an Operations System',
+"PLCY_RSK_GRD"    CHAR(3)    comment 'Policy Risk Grade',
+"POLICY_START_DATE"    TIMESTAMP    comment 'Policy Start Date',
+"PLCY_END_DATE"    TIMESTAMP    comment 'Policy End Date',
+"SIC_CODE"    CHAR(10)    comment 'SIC Code',
+"PROGRAM_CODE"    CHAR(10)    comment 'Program Code',
+"CLASS_CODE"    CHAR(10)    comment 'Class Code',
+"ISO_CLASS"    CHAR(10)    comment 'ISO Class',
+"REINS_CODE"    CHAR(35)    comment 'Reinsurance Code',
+"COVERAGE_CODE"    CHAR(10)    comment 'Coverage Code',
+"IRPM_FACTOR"    DECIMAL    comment 'IRPM Factor',
+"IP_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PLCY_ID)
+)
+ comment 'PC Policy'

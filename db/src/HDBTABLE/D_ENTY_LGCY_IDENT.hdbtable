@@ -1,0 +1,11 @@
+column table "D_ENTY_LGCY_IDENT" (
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"SYS_SEQ_NBR"    INTEGER   NOT NULL   comment 'System Sequence Number',
+"OPER_SYS_NAME"    VARCHAR(30)    comment 'Operational System Name',
+"ENTY_LEGACY_ID"    VARCHAR(18)    comment 'Entity Legacy ID',
+"ID_START_DATE"    TIMESTAMP    comment 'Start Date',
+"ID_END_DATE"    TIMESTAMP    comment 'End Date',
+primary key cpbtree (ENTY_ID,
+SYS_SEQ_NBR)
+)
+ comment 'Entity Legacy Identifier'

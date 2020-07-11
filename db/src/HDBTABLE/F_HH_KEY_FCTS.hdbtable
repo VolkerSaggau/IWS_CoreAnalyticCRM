@@ -1,0 +1,7 @@
+column table "F_HH_KEY_FCTS" (
+"HOUSEHOLD_ID"    INTEGER   NOT NULL   comment 'Household ID',
+"CUS_SINCE_PRD_ID"    INTEGER    comment 'Customer Since Date Period ID',
+"PYMT_MTHD"    CHAR(35),
+primary key cpbtree (HOUSEHOLD_ID)
+)
+ comment 'Household Key Facts'

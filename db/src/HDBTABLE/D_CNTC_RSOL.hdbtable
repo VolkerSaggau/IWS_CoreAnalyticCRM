@@ -1,0 +1,8 @@
+column table "D_CNTC_RSOL" (
+"CNTC_RSOL_ID"    INTEGER   NOT NULL   comment 'Contact Resolution ID',
+"CNTC_RSOL_TYPE"    CHAR(3)    comment 'Contact Resolution Type',
+"CNTC_DESCRIPTION"    VARCHAR(255)    comment 'Description',
+"CR_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (CNTC_RSOL_ID)
+)
+ comment 'Contact Resolution'

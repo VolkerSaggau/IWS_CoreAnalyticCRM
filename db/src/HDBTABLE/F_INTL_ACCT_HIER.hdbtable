@@ -1,0 +1,11 @@
+column table "F_INTL_ACCT_HIER" (
+"INTL_ACCT_ID"    INTEGER   NOT NULL   comment 'Chart of Accounts Hierachy ID',
+"SBRD_INTL_ACCT_ID"    INTEGER   NOT NULL   comment 'Subordinate Account ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Start Date',
+"END_DATE_PRD_ID"    INTEGER    comment 'End Date Period ID',
+"SBRD_ACCT_RSN"    VARCHAR(255),
+primary key cpbtree (INTL_ACCT_ID,
+SBRD_INTL_ACCT_ID,
+BEGIN_DATE_PRD_ID)
+)
+ comment 'Company Internal Account Hierarchy'

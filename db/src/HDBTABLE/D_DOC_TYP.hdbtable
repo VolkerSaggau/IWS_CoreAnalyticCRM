@@ -1,0 +1,8 @@
+column table "D_DOC_TYP" (
+"DOC_TYPE_ID"    INTEGER   NOT NULL   comment 'Documemt Type ID',
+"DOC_TYPE_NAME"    VARCHAR(30),
+"DOC_TYPE_DESC"    VARCHAR(255)    comment 'Description',
+"CDT_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (DOC_TYPE_ID)
+)
+ comment 'Document Type'

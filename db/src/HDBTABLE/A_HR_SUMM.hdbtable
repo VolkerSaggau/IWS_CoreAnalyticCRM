@@ -1,0 +1,16 @@
+column table "A_HR_SUMM" (
+"EVT_EMP_DEMO_ID"    INTEGER   NOT NULL   comment 'DEMO_ID',
+"EVT_ADMIN_DEMO_ID"    INTEGER   NOT NULL   comment 'DEMO_ID',
+"COR_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'CORE RPTG STRUCT ID',
+"MEASURE_UNIT_ID"    INTEGER   NOT NULL   comment 'Measurement Unit ID',
+"EVT_TYP_ID"    INTEGER    comment 'Core Data Warehouse Event Type ID',
+"GEO_ID"    INTEGER    comment 'Geographic ID',
+"MONTH_ID"    INTEGER    comment 'Month ID',
+"HEX_QUANTITY"    DECIMAL    comment 'QUANTITY',
+"SUMM_RECORD_COUNT"    INTEGER    comment 'Summary Record Count',
+primary key cpbtree (EVT_EMP_DEMO_ID,
+EVT_ADMIN_DEMO_ID,
+COR_RPT_STRC_ID,
+MEASURE_UNIT_ID)
+)
+ comment 'Human Resources Event Summary'

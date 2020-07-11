@@ -1,0 +1,8 @@
+column table "D_MEDIA" (
+"MEDIA_ID"    INTEGER   NOT NULL   comment 'Media Type ID',
+"MEDIA_SHRT_NAM"    VARCHAR(15)    comment 'Media Type Short Name',
+"MEDIA_LONG_NAM"    VARCHAR(30)    comment 'Media Type Long Name',
+"M_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (MEDIA_ID)
+)
+ comment 'Media'

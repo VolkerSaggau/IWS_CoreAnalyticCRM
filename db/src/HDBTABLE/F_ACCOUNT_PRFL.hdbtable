@@ -1,0 +1,23 @@
+column table "F_ACCOUNT_PRFL" (
+"ACCOUNT_ID"    INTEGER   NOT NULL   comment 'Account ID',
+"ACCOUNT_NUMBER"    VARCHAR(18)   NOT NULL   comment 'Account Number',
+"ACCOUNT_TYPE_ID"    INTEGER   NOT NULL   comment 'Account Type ID',
+"ACCT_TERMS_ID"    INTEGER   NOT NULL   comment 'Account Terms ID',
+"ACCT_STATUS_ID"    INTEGER   NOT NULL   comment 'Account Status ID',
+"STMT_CYCLE_ID"    INTEGER   NOT NULL   comment 'Statement Cycle ID',
+"CUSTOMER_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"HOUSEHOLD_ID"    INTEGER   NOT NULL   comment 'Household ID',
+"EMP_ID"    INTEGER   NOT NULL   comment 'Relationship Manager Employee ID',
+"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
+"PD_OWNERSHIP_ID"    INTEGER    comment 'Product Ownership ID',
+"COR_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'Core Reporting Structure ID',
+"GEO_ID"    INTEGER   NOT NULL   comment 'Geographic ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL,
+"END_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'End Date Period ID',
+"BEHAVIOR_SCORE_ID"    INTEGER   NOT NULL   comment 'Behavior Score',
+"ACCT_HIER_TYPE"    CHAR(3)    comment 'Account Hierarchy Type',
+"NBR_OF_ACCT_HOLDER"    INTEGER    comment 'Number of Account Holders',
+primary key cpbtree (ACCOUNT_ID,
+BEGIN_DATE_PRD_ID)
+)
+ comment 'Account Profile'

@@ -1,0 +1,11 @@
+column table "D_ACCOUNT_TERMS" (
+"ACCT_TERMS_ID"    INTEGER   NOT NULL   comment 'Account Terms ID',
+"NON_STD_TERMS_IND"    CHAR(1)    comment 'Non Standard Terms Indicator',
+"VAR_INT_RATE_IND"    CHAR(1)    comment 'Variable Interest Rate Indicator',
+"STD_INT_RATE_IND"    CHAR(1)    comment 'Standard Interest Rate Indicator',
+"ANNUAL_FEE_IND"    CHAR(1)    comment 'Annual Fee Indicator',
+"COMBINED_STMT_IND"    CHAR(1)    comment 'Combined Statement Indicator',
+"AT_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (ACCT_TERMS_ID)
+)
+ comment 'Account Terms'

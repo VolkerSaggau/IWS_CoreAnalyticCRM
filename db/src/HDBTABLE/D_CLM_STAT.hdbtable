@@ -1,0 +1,8 @@
+column table "D_CLM_STAT" (
+"CLM_STAT_ID"    INTEGER   NOT NULL   comment 'Claim Status ID',
+"CLM_STAT_NAME"    VARCHAR(30)    comment 'Claim Status Name',
+"CLM_STAT_DESC"    VARCHAR(255)    comment 'Claim Status Description',
+"PCCS_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (CLM_STAT_ID)
+)
+ comment 'Claim Status'

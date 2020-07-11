@@ -1,0 +1,18 @@
+column table "F_ENTY_ASN" (
+"ENTY_1_ID"    INTEGER   NOT NULL   comment 'Entity 1 ID',
+"ENTY_2_ID"    INTEGER   NOT NULL   comment 'Entity 2 ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Entity Association Begin Date',
+"ENTY_ASN_RSN_ID"    INTEGER   NOT NULL   comment 'Entity Association Reason ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'Entity Association End Date',
+"ENTY_1_ROLE_ID"    INTEGER    comment 'Entity 1 Role ID',
+"ENTY_2_ROLE_ID"    INTEGER    comment 'Entity 2 Role ID',
+"MEASURE_UNIT_ID"    INTEGER    comment 'Measurement Unit ID',
+"ENTY_ASN_AMT"    DECIMAL,
+"ENTY_1_TYPE"    CHAR(3)    comment 'Entity 1 Type',
+"ENTY_2_TYPE"    CHAR(3)    comment 'Entity 2 Type',
+primary key cpbtree (ENTY_1_ID,
+ENTY_2_ID,
+BEGIN_DATE_PRD_ID,
+ENTY_ASN_RSN_ID)
+)
+ comment 'Entity Association'

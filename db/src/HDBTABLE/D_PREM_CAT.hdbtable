@@ -1,0 +1,7 @@
+column table "D_PREM_CAT" (
+"PREM_CAT_ID"    INTEGER   NOT NULL   comment 'Premium Category ID',
+"DESCRIPTION"    VARCHAR(255)    comment 'Description',
+"PC_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PREM_CAT_ID)
+)
+ comment 'Premium Category'

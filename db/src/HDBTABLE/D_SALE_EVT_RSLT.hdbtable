@@ -1,0 +1,7 @@
+column table "D_SALE_EVT_RSLT" (
+"SALE_EVT_RSLT_ID"    INTEGER   NOT NULL   comment 'Healthcare Outcome ID',
+"EVT_RSLT_NAME"    VARCHAR(30)    comment 'Outcome Primary Classification',
+"EVT_RSLT_DESC"    VARCHAR(255)    comment 'Outcome Description',
+primary key cpbtree (SALE_EVT_RSLT_ID)
+)
+ comment 'Sale Event Result'

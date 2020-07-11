@@ -1,0 +1,11 @@
+column table "D_REFERRAL" (
+"REFERRAL_ID"    INTEGER   NOT NULL   comment 'Referral ID',
+"REFERRAL_TYPE"    VARCHAR(30)    comment 'Referral Type',
+"REFERRAL_URL"    VARCHAR(50)    comment 'Referral URL',
+"REFERRAL_SITE"    VARCHAR(50)    comment 'Referral Site',
+"REFERRAL_DOMAIN"    VARCHAR(50)    comment 'Referral Domain',
+"RFRL_SRCH_TYPE"    VARCHAR(30)    comment 'Referral Search Type',
+"RFRL_SRCH_SPEC"    VARCHAR(35)    comment 'Referral Search Specification',
+primary key cpbtree (REFERRAL_ID)
+)
+ comment 'Referral'

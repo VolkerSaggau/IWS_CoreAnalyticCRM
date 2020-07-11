@@ -1,0 +1,15 @@
+column table "D_BANNER_AD" (
+"BANNER_AD_ID"    INTEGER   NOT NULL   comment 'Banner Ad ID',
+"BANNER_AD_NAME"    VARCHAR(30)    comment 'Banner Ad Name',
+"BANNER_AD_CAT"    CHAR(35)    comment 'Banner Ad Category',
+"BANNER_AD_DESC"    VARCHAR(255)    comment 'Banner Ad Description',
+"BANNER_AD_FORMAT"    VARCHAR(15)    comment 'Banner Ad Format',
+"BANNER_AD_SHAPE"    VARCHAR(15)    comment 'Banner Ad Shape',
+"BANNER_AD_SIZE"    VARCHAR(35)    comment 'Banner Ad Size',
+"BANNER_AD_GRPH"    VARCHAR(35)    comment 'Banner Ad Graphic',
+"BANNER_AD_COLORS"    VARCHAR(35)    comment 'Banner Ad Colors',
+"BANNER_AD_STYLE"    VARCHAR(35)    comment 'Banner Ad  Style',
+"BANNER_AD_MSG"    VARCHAR(255)    comment 'Banner Ad Message',
+primary key cpbtree (BANNER_AD_ID)
+)
+ comment 'Banner Ad'

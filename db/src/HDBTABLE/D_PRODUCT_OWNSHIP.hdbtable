@@ -1,0 +1,23 @@
+column table "D_PRODUCT_OWNSHIP" (
+"PD_OWNERSHIP_ID"    INTEGER   NOT NULL   comment 'Product Ownership ID',
+"INT_CK_IND"    CHAR(1)    comment 'Interest Checking Indicator',
+"NON_INT_CK_IND"    CHAR(1)    comment 'Non Interest Checking Indicator',
+"SAVINGS_IND"    CHAR(1)    comment 'Regular Savings Indicator',
+"MMA_IND"    CHAR(1)    comment 'Money Market Account Indicator',
+"CD_IND"    CHAR(1)    comment 'CD Indicator',
+"IRA_IND"    CHAR(1)    comment 'IRA Indicator',
+"PERSONAL_LOAN_IND"    CHAR(1)    comment 'Personal Loan Indicator',
+"AUTO_LOAN_IND"    CHAR(1)    comment 'Auto Loan Indicator',
+"MORTGAGE_IND"    CHAR(1)    comment 'Mortgage Indicator',
+"HOME_EQUITY_IND"    CHAR(1)    comment 'Home Equity Loan Indicator',
+"STUDENT_LOAN_IND"    CHAR(1)    comment 'Student Loan Indicator',
+"SPCL_LOAN_IND"    CHAR(1)    comment 'Specialized Loan Indicator',
+"ATM_IND"    CHAR(1)    comment 'ATM Card Indicator',
+"OFFLINE_DEBIT_IND"    CHAR(1)    comment 'Offline Debit Card Indicator',
+"VISA_IND"    CHAR(1)    comment 'Visa Indicator',
+"MASTERCARD_IND"    CHAR(1)    comment 'Mastercard Indicator',
+"BROKERAGE_IND"    CHAR(1)    comment 'Brokerage Account Indicator',
+"PO_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PD_OWNERSHIP_ID)
+)
+ comment 'Product Ownership'

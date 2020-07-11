@@ -1,0 +1,13 @@
+column table "D_USER_CLS" (
+"USER_CLS_ID"    INTEGER   NOT NULL   comment 'User Classification ID',
+"NEW_USER_IND"    CHAR(1)    comment 'New User Indicator',
+"RGST_USER_IND"    CHAR(1)    comment 'Registered User Indicator',
+"NEWS_SBSC_IND"    CHAR(1)    comment 'News Subscriber Indicator',
+"BUYER_IND"    CHAR(1)    comment 'Buyer Indicator',
+"USER_TNR_BAND"    VARCHAR(50)    comment 'User Tenure Band',
+"BUYER_TNR_BAND"    VARCHAR(50)    comment 'Buyer Tenure Band',
+"NEWS_SBSC_TNR_BAND"    VARCHAR(50)    comment 'News Subscriber Tenure Band',
+"RGST_USER_TNR_BAND"    VARCHAR(50)    comment 'Registered User Tenure Band',
+primary key cpbtree (USER_CLS_ID)
+)
+ comment 'User Classification'

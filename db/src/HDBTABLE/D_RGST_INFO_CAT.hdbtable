@@ -1,0 +1,16 @@
+column table "D_RGST_INFO_CAT" (
+"RGST_INFO_CAT_ID"    INTEGER   NOT NULL   comment 'Registration Info Cat ID',
+"EMAIL_ADR_IND"    CHAR(1)    comment 'Email Address Indicator',
+"VRFY_EMAIL_ADR_IND"    CHAR(1)    comment 'Verified Email Indicator',
+"COMPLETE_NAME_IND"    CHAR(1)    comment 'Complete Name Indicator',
+"VRFY_CPLT_NAME_IND"    CHAR(1)    comment 'Verified Complete Name Indicator',
+"OCCUPATION_IND"    CHAR(1)    comment 'Occupation Indicator',
+"AGE_INFO_IND"    CHAR(1)    comment 'Age Info Indicator',
+"HOUSEHOLD_INFO_IND"    CHAR(1)    comment 'Household Info Indicator',
+"PAYMENT_OPT_IND"    CHAR(1)    comment 'Payment Option Info Indicator',
+"VRFY_PYMT_OPT_IND"    CHAR(1)    comment 'Verified Payment Option Indicator',
+"ADR_INFO_IND"    CHAR(1)    comment 'Address Info Indicator',
+"VRFY_ADR_INFO_IND"    CHAR(1)    comment 'Verified Address Indicator',
+primary key cpbtree (RGST_INFO_CAT_ID)
+)
+ comment 'Registration Information Category'

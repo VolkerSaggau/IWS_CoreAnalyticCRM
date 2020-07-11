@@ -1,0 +1,17 @@
+column table "A_SALES_SUMM" (
+"SALES_SUMM_ID"    INTEGER   NOT NULL   comment 'Sales Summary ID',
+"EVT_TYP_ID"    INTEGER    comment 'Core Data Warehouse Event Type ID',
+"COR_RPT_STRC_ID"    INTEGER    comment 'Core Reporting Structure ID',
+"MEASURE_UNIT_ID"    INTEGER    comment 'Measurement Unit ID',
+"DEMO_ID"    INTEGER    comment 'Demographics ID',
+"GEO_ID"    INTEGER    comment 'Geographic ID',
+"FNCL_SCOR_ID"    INTEGER    comment 'Financial Score ID',
+"LANGUAGE_ID"    INTEGER    comment 'Language ID',
+"PRODUCT_ID"    INTEGER    comment 'Product ID',
+"MONTH_ID"    INTEGER    comment 'Month ID',
+"ISO_CRCY_ID"    INTEGER    comment 'ISO Currency ID',
+"SALE_AMT"    DECIMAL(18,2)    comment 'Sale Amount',
+"SUMMARY_RECORD_COU"    INTEGER    comment 'Summary Record Count',
+primary key cpbtree (SALES_SUMM_ID)
+)
+ comment 'Sales Summary'

@@ -1,0 +1,15 @@
+column table "D_USER" (
+"USER_ID"    INTEGER   NOT NULL   comment 'User ID',
+"USER_UNIQUE_ID"    VARCHAR(18)    comment 'User Unique Identifier',
+"USER_CLS"    VARCHAR(30)    comment 'User Classification',
+"USER_NAME_TYPE"    VARCHAR(35)    comment 'User Name Type',
+"USER_LAST_NAME"    VARCHAR(30)    comment 'User Last Name',
+"USER_FIRST_NAME"    VARCHAR(30)    comment 'User First Name',
+"USER_SALUTATION"    VARCHAR(15)    comment 'User Salutation',
+"USER_EMAIL"    VARCHAR(80)    comment 'User Email Address',
+"USER_BIRTH_DATE"    TIMESTAMP    comment 'User Birth Date',
+"USER_BEGIN_DATE"    TIMESTAMP    comment 'User Begin Date',
+"USER_END_DATE"    TIMESTAMP    comment 'User End Date',
+primary key cpbtree (USER_ID)
+)
+ comment 'User'

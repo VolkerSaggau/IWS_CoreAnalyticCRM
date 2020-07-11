@@ -1,0 +1,27 @@
+column table "F_CORE_EVT" (
+"COR_EVT_ID"    INTEGER   NOT NULL   comment 'Core Data Waehouse Event Transaction ID',
+"COR_EVT_SEQ_NBR"    INTEGER   NOT NULL   comment 'Core Event Sequence Number',
+"EVT_TYP_ID"    INTEGER   NOT NULL   comment 'Core Event Type ID',
+"COR_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'Core Reporting Structure ID',
+"PRM_EPSD_ID"    INTEGER,
+"GEO_ID"    INTEGER   NOT NULL   comment 'Geographic ID',
+"MEASURE_UNIT_ID"    INTEGER   NOT NULL   comment 'Measurement Unit ID',
+"FNCL_SCOR_ID"    INTEGER   NOT NULL   comment 'Financial Scores ID',
+"LANGUAGE_ID"    INTEGER   NOT NULL   comment 'Language ID',
+"PN_BHVR_SCOR_ID"    INTEGER   NOT NULL   comment 'Person Behavior Score ID',
+"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
+"DEMO_ID"    INTEGER   NOT NULL   comment 'Demographics ID',
+"EMP_ID"    INTEGER   NOT NULL   comment 'Employee ID',
+"EFF_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Period ID',
+"ENTY2_ID"    INTEGER    comment 'Entity ID',
+"ISO_CRCY_ID"    INTEGER    comment 'ISO Currency ID',
+"HOUR_ID"    INTEGER    comment 'Hour ID',
+"PYMT_METHOD_ID"    INTEGER    comment 'Payment Method ID',
+"AMOUNT"    DECIMAL(18,2)    comment 'Amount',
+"QUANTITY"    INTEGER,
+"ORDER_NBR"    VARCHAR(18),
+"COR_EVT_REF"    VARCHAR(15)    comment 'Core Event Reference',
+primary key cpbtree (COR_EVT_ID,
+COR_EVT_SEQ_NBR)
+)
+ comment 'Core Event'

@@ -1,0 +1,11 @@
+column table "F_CPGN_EPSD_EXCL" (
+"PRM_EPSD_ID"    INTEGER   NOT NULL   comment 'Promotional Episode ID',
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Promotion Exclusion Begin Date',
+"END_DATE_PRD_ID"    INTEGER    comment 'Promotion Exclusion End Date',
+"PRM_EXCL_REASON"    VARCHAR(255)    comment 'Promotion Exclusion Reason',
+primary key cpbtree (PRM_EPSD_ID,
+ENTY_ID,
+BEGIN_DATE_PRD_ID)
+)
+ comment 'Household Campaign Episode Exclusion'

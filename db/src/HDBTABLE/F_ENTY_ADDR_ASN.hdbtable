@@ -1,0 +1,11 @@
+column table "F_ENTY_ADDR_ASN" (
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"ADDRESS_ID"    INTEGER   NOT NULL   comment 'Address ID',
+"BEGIN_DATE_PRD_ID"    INTEGER    comment 'Begin Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'End Date Period ID',
+"ASN_ROLE_SHRT_NM"    VARCHAR(15)    comment 'Entity Address Association Role Short Name',
+"ASN_ROLE_DESC"    VARCHAR(255)    comment 'Entity Address Association Role Description',
+primary key cpbtree (ENTY_ID,
+ADDRESS_ID)
+)
+ comment 'Entity Address Association'

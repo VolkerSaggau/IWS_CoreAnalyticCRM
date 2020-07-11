@@ -1,0 +1,26 @@
+column table "D_UNQUAL_PROSPECT" (
+"UNQUAL_PROSPECT_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"UP_ORIGIN_DATE"    TIMESTAMP    comment 'Origin Date',
+"UP_TYPE"    CHAR(3)    comment 'Entity Type',
+"UP_PREFIX"    CHAR(3)    comment 'Prefix',
+"UP_FIRST_NAME"    VARCHAR(30)    comment 'First Name',
+"UP_SECOND_NAME"    VARCHAR(30)    comment 'Second Name',
+"UP_THIRD_NAME"    VARCHAR(30)    comment 'Third Name',
+"UP_SUFFIX"    VARCHAR(15),
+"UP_PRIMARY_CLS"    CHAR(10)    comment 'Primary Classification',
+"UP_SECONDARY_CLS"    CHAR(10)    comment 'Secondary Classification',
+"UP_TAX_ID"    VARCHAR(11)    comment 'National Identifier',
+"UP_GROUP"    VARCHAR(30)    comment 'Group',
+"UP_REL_STATUS"    VARCHAR(15)    comment 'Relationship Status',
+"UP_PRIMARY_TEL_NBR"    VARCHAR(15)    comment 'Primary Telepone Number',
+"UP_SCNDRY_TEL_NBR"    VARCHAR(15)    comment 'Secondary Telephone Number',
+"UP_FAX_NBR"    VARCHAR(15)    comment 'FAX Number',
+"UP_EMAIL"    VARCHAR(80)    comment 'Email',
+"UP_LIFE_STATUS"    VARCHAR(15)    comment 'Life Status',
+"UP_EMP_MGT_UNIT_IN"    CHAR(1)    comment 'Employee Management Unit Indicator',
+"UP_CAT_NAME"    VARCHAR(30)    comment 'Entity Category Name',
+"UP_SUBCAT_NAME"    VARCHAR(30)    comment 'Entity Subcategory Name',
+"UP_UNIQUE_ID"    VARCHAR(18)    comment 'Entity Unique ID',
+primary key cpbtree (UNQUAL_PROSPECT_ID)
+)
+ comment 'Unqualified Prospect'

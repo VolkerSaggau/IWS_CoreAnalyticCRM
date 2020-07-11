@@ -1,0 +1,27 @@
+column table "D_ENTITY" (
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Entity ID',
+"ORIGIN_DATE"    TIMESTAMP    comment 'Origin Date',
+"ENTY_TYPE"    CHAR(3)    comment 'Entity Type',
+"PREFIX"    CHAR(3)    comment 'Prefix',
+"FIRST_NAME"    VARCHAR(30)    comment 'First Name',
+"SECOND_NAME"    VARCHAR(30)    comment 'Second Name',
+"THIRD_NAME"    VARCHAR(30)    comment 'Third Name',
+"SUFFIX"    VARCHAR(15),
+"PRIMARY_CLS"    CHAR(10)    comment 'Primary Classification',
+"SECONDARY_CLS"    CHAR(10)    comment 'Secondary Classification',
+"TAX_ID"    VARCHAR(11)    comment 'National Identifier',
+"ENTY_GROUP"    CHAR(35)    comment 'Group',
+"REL_STATUS"    VARCHAR(15)    comment 'Relationship Status',
+"PRIMARY_TEL_NBR"    VARCHAR(15)    comment 'Primary Telepone Number',
+"SCNDRY_TEL_NBR"    VARCHAR(15)    comment 'Secondary Telephone Number',
+"FAX_NBR"    VARCHAR(15)    comment 'FAX Number',
+"EMAIL"    VARCHAR(80)    comment 'Email',
+"LIFE_STATUS"    VARCHAR(15)    comment 'Life Status',
+"EMP_MGT_UNIT_IND"    CHAR(1)    comment 'Employee Management Unit Indicator',
+"EN_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"ENTY_CAT_NAME"    VARCHAR(30)    comment 'Entity Category Name',
+"ENTY_SUBCAT_NAME"    VARCHAR(30)    comment 'Entity Subcategory Name',
+"ENTY_UNIQUE_ID"    VARCHAR(18)    comment 'Entity Unique ID',
+primary key cpbtree (ENTY_ID)
+)
+ comment 'Entity'

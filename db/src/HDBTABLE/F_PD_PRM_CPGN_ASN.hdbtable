@@ -1,0 +1,12 @@
+column table "F_PD_PRM_CPGN_ASN" (
+"PRM_EPSD_ID"    INTEGER   NOT NULL   comment 'Promotion Episode ID',
+"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Begin Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'End Date Period ID',
+"PRODUCT_GROUP"    VARCHAR(35)    comment 'Product Group',
+"PRODUCT_NAME"    VARCHAR(255)    comment 'Product Name',
+"EPSD_NAME"    VARCHAR(30)    comment 'Promotional Episode Name',
+primary key cpbtree (PRM_EPSD_ID,
+PRODUCT_ID)
+)
+ comment 'Product Promotional Campaign Association'

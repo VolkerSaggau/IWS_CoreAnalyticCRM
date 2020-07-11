@@ -1,0 +1,20 @@
+column table "D_PRSN_FNCL_STAT" (
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Person Customer ID',
+"DSPSBL_INCM"    DECIMAL(18,2)    comment 'Disposable Income',
+"INCM_FRM_SAL"    DECIMAL(18,2)    comment 'Income From Salary',
+"INCM_FRM_INVSTMT"    DECIMAL(18,2)    comment 'Income From Investments',
+"OTHER_INCOME"    DECIMAL(18,2)    comment 'Other Income',
+"CRDT_RTG"    CHAR(3)    comment 'CREDIT RATING',
+"TOT_DEBT"    DECIMAL(18,2)    comment 'Total Debt',
+"DEBT_INCOME_RATIO"    DECIMAL(4,2)    comment 'Debt Income Ratio',
+"INVST_PREF"    CHAR(3)    comment 'Invetment Preference',
+"PENSION_PLAN_IND"    CHAR(1)    comment 'Pension Plan Indicator',
+"FNCL_ACORN_CLS"    CHAR(10)    comment 'Finacail Acorn Classification',
+"ACORN_CLS"    CHAR(10)    comment 'Acorn Classification',
+"LIFE_CYCLE_CLS"    CHAR(10)    comment 'Life Cycle Classification',
+"PFS_BEGIN_DATE"    TIMESTAMP    comment 'Begin Date Period ID',
+"PFS_END_DATE"    TIMESTAMP    comment 'End Date Period ID',
+"PFS_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (ENTY_ID)
+)
+ comment 'Person Finacial Statistics'

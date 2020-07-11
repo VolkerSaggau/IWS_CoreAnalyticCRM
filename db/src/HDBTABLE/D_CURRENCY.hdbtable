@@ -1,0 +1,11 @@
+column table "D_CURRENCY" (
+"ISO_CRCY_ID"    INTEGER   NOT NULL   comment 'ISO Currency ID',
+"SHORT_NAME"    VARCHAR(15)    comment 'Currency Short Name',
+"LONG_NAME"    VARCHAR(35)    comment 'Currency Long Name',
+"COUNTRY_NAME"    VARCHAR(30),
+"ISO_NUMERIC_CODE"    CHAR(3)    comment 'ISO Numeric Country Code',
+"ISO_ALPHA_CODE"    CHAR(3)    comment 'ISO 2 Position Alpha Code',
+"ISO_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (ISO_CRCY_ID)
+)
+ comment 'Currency'

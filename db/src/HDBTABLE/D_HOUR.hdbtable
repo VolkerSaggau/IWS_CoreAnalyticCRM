@@ -1,0 +1,11 @@
+column table "D_HOUR" (
+"HOUR_ID"    INTEGER   NOT NULL   comment 'Hour ID',
+"HOUR_NUMBER"    DECIMAL    comment 'Hour Number',
+"AMPM_FLAG"    SMALLINT    comment 'AMPM FLAG',
+"HOUR_RANGE"    VARCHAR(50)    comment 'HOUR RANGE',
+"MINUTE_IN_HOUR"    INTEGER,
+"MINUTE_RANGE"    VARCHAR(50),
+"H_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (HOUR_ID)
+)
+ comment 'Hour'

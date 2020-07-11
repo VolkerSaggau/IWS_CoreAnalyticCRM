@@ -1,0 +1,9 @@
+column table "D_ISP" (
+"ISP_ID"    INTEGER   NOT NULL   comment 'ISP ID',
+"ISP_NAME"    VARCHAR(30)    comment 'ISP Name',
+"ISP_CATEGORY"    CHAR(35)    comment 'ISP Category',
+"ISP_DESCRIPTION"    VARCHAR(35)    comment 'ISP Description',
+"ISP_URL"    VARCHAR(50)    comment 'ISP URL',
+primary key cpbtree (ISP_ID)
+)
+ comment 'Internet Service Provider'

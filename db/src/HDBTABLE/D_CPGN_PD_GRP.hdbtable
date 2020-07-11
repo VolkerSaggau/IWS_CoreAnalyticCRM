@@ -1,0 +1,9 @@
+column table "D_CPGN_PD_GRP" (
+"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
+"PRM_EPSD_ID"    INTEGER   NOT NULL   comment 'Promotional Episode ID',
+"CPG_DESC"    VARCHAR(35)    comment 'Campaign Product Group Description',
+"CP_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+primary key cpbtree (PRODUCT_ID,
+PRM_EPSD_ID)
+)
+ comment 'Campaign Product Group'

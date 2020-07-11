@@ -1,0 +1,10 @@
+column table "D_BHVR_SCORE" (
+"PN_BHVR_SCOR_ID"    INTEGER   NOT NULL   comment 'Personal Behavior Score ID',
+"SCORE1_BAND"    VARCHAR(50)    comment 'Personal Behavior Score 1 Band',
+"SCORE_N_BAND"    VARCHAR(50)    comment 'Personal Behavior Score N Band',
+"BS_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"RFM_CODE"    CHAR(3)    comment 'RFM Code',
+"RFM_DESC"    VARCHAR(35)    comment 'RFM Description',
+primary key cpbtree (PN_BHVR_SCOR_ID)
+)
+ comment 'Person Behavior Scores'

@@ -1,0 +1,11 @@
+column table "F_CUS_PRM_EXCL" (
+"PRM_CPGN_ID"    INTEGER   NOT NULL   comment 'Promotion Campaign ID',
+"ENTY_ID"    INTEGER   NOT NULL   comment 'Customer Profile ID',
+"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Promotion Exclusion Date Period ID',
+"END_DATE_PRD_ID"    INTEGER    comment 'Promotion Exclusion End Date Period ID',
+"PRM_EXCL_REASON"    VARCHAR(255)    comment 'Promotion Exclusion Reason',
+primary key cpbtree (PRM_CPGN_ID,
+ENTY_ID,
+BEGIN_DATE_PRD_ID)
+)
+ comment 'Customer Promotion Exclusion'
