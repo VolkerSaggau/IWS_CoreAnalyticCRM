@@ -1,2 +1,2 @@
 # IWS_CoreAnalyticCRM
-Integrated Warehouse Studion ported to HANA Cloud
+Integrated Warehouse Studio ported to HANA Cloud
