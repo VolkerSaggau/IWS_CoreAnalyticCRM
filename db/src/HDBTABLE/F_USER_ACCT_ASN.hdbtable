@@ -1,8 +1,8 @@
 column table "F_USER_ACCT_ASN" (
-"USER_ID"    INTEGER   NOT NULL   comment 'User ID',
-"ACCOUNT_ID"    INTEGER   NOT NULL   comment 'Account ID',
-"END_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'End Date Period ID',
-"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Begin Date Period ID',
+"USER_ID"    BIGINT   NOT NULL   comment 'User ID',
+"ACCOUNT_ID"    BIGINT   NOT NULL   comment 'Account ID',
+"END_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'End Date Period ID',
+"BEGIN_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Begin Date Period ID',
 primary key cpbtree (USER_ID,
 ACCOUNT_ID)
 )

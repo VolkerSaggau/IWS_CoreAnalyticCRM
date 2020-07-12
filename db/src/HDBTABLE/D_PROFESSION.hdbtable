@@ -1,11 +1,11 @@
 column table "D_PROFESSION" (
-"PROFESSION_ID"    INTEGER   NOT NULL   comment 'Profession ID',
-"PROFESSION_GRP"    VARCHAR(35)    comment 'Profession Group',
-"PROFESSION_IDST"    VARCHAR(35)    comment 'Profession Industry',
-"PROFESSION_NAME"    VARCHAR(35)    comment 'Profession Name',
-"PROFESSION_CD"    CHAR(3)    comment 'Profession Code',
-"PROFESSION_TITLE"    VARCHAR(15)    comment 'Profession Title',
-"PRF_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+"PROFESSION_ID"    BIGINT   NOT NULL   comment 'Profession ID',
+"PROFESSION_GRP"    NVARCHAR(35)    comment 'Profession Group',
+"PROFESSION_IDST"    NVARCHAR(35)    comment 'Profession Industry',
+"PROFESSION_NAME"    NVARCHAR(35)    comment 'Profession Name',
+"PROFESSION_CD"    NCHAR(3)    comment 'Profession Code',
+"PROFESSION_TITLE"    NVARCHAR(15)    comment 'Profession Title',
+"PRF_ALL_ENTRIES_IN"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (PROFESSION_ID)
 )
  comment 'Profession'

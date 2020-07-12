@@ -1,9 +1,9 @@
 column table "D_LANGUAGE" (
-"LANGUAGE_ID"    INTEGER   NOT NULL   comment 'Language ID',
-"ISO_LANG_CODE"    CHAR(3)    comment 'ISO Language Code',
-"ISO_LANG_NAME"    VARCHAR(30)    comment 'ISO Language Name',
-"LANG_GROUP"    VARCHAR(30)    comment 'LANGUAGE GROUP',
-"LNG_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
+"LANGUAGE_ID"    BIGINT   NOT NULL   comment 'Language ID',
+"ISO_LANG_CODE"    NCHAR(3)    comment 'ISO Language Code',
+"ISO_LANG_NAME"    NVARCHAR(30)    comment 'ISO Language Name',
+"LANG_GROUP"    NVARCHAR(30)    comment 'LANGUAGE GROUP',
+"LNG_ALL_ENTRIES_IN"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (LANGUAGE_ID)
 )
  comment 'Language'

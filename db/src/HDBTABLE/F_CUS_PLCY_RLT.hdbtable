@@ -1,9 +1,9 @@
 column table "F_CUS_PLCY_RLT" (
-"CUSTOMER_ID"    INTEGER   NOT NULL   comment 'Insured Party ID',
-"PLCY_ID"    INTEGER   NOT NULL   comment 'Policy ID',
-"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Effective Date Period ID',
-"END_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'End Date Period ID',
-"PLCY_RLT_DESC"    VARCHAR(255)    comment 'POLICY RELATIONSHIP TEXT',
+"CUSTOMER_ID"    BIGINT   NOT NULL   comment 'Insured Party ID',
+"PLCY_ID"    BIGINT   NOT NULL   comment 'Policy ID',
+"BEGIN_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Effective Date Period ID',
+"END_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'End Date Period ID',
+"PLCY_RLT_DESC"    NVARCHAR(255)    comment 'POLICY RELATIONSHIP TEXT',
 primary key cpbtree (CUSTOMER_ID,
 PLCY_ID,
 BEGIN_DATE_PRD_ID)

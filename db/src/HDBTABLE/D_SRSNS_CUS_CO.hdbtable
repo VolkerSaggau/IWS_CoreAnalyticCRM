@@ -1,8 +1,8 @@
 column table "D_SRSNS_CUS_CO" (
-"SRSNS_CUS_CO_ID"    INTEGER   NOT NULL   comment 'Seriousness Customer Company ID',
-"SCC_ALL_ENTRIES_IN"    CHAR(1)    comment 'All Entries Indicator',
-"SRSNS_TO_CO"    CHAR(1)    comment 'Seriousness to Company',
-"SRSNS_TO_CUS"    CHAR(1)    comment 'Seriousness to Customer',
+"SRSNS_CUS_CO_ID"    BIGINT   NOT NULL   comment 'Seriousness Customer Company ID',
+"SCC_ALL_ENTRIES_IN"    NCHAR(1)    comment 'All Entries Indicator',
+"SRSNS_TO_CO"    NCHAR(1)    comment 'Seriousness to Company',
+"SRSNS_TO_CUS"    NCHAR(1)    comment 'Seriousness to Customer',
 primary key cpbtree (SRSNS_CUS_CO_ID)
 )
  comment 'Seriousness to Customer and Company'

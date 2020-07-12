@@ -1,7 +1,7 @@
 column table "D_PYMT_METHOD" (
-"PYMT_METHOD_ID"    INTEGER   NOT NULL   comment 'Payment Method ID',
-"PYMT_METHOD_NAME"    VARCHAR(30)    comment 'Payment Method Name',
-"PYMT_METHOD_DESC"    VARCHAR(255)    comment 'Payment Method Description',
+"PYMT_METHOD_ID"    BIGINT   NOT NULL   comment 'Payment Method ID',
+"PYMT_METHOD_NAME"    NVARCHAR(30)    comment 'Payment Method Name',
+"PYMT_METHOD_DESC"    NVARCHAR(255)    comment 'Payment Method Description',
 primary key cpbtree (PYMT_METHOD_ID)
 )
  comment 'Payment Method'

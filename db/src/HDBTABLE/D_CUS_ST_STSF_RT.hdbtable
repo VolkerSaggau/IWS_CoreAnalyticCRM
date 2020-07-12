@@ -1,7 +1,7 @@
 column table "D_CUS_ST_STSF_RT" (
-"CUS_STSF_RT_ID"    INTEGER   NOT NULL   comment 'Customer Satisfaction Rating ID',
-"DESCRIPTION"    VARCHAR(255)    comment 'Description',
-"CSSR_ALL_ENTRIES_I"    CHAR(1)    comment 'All Entries Indicator',
+"CUS_STSF_RT_ID"    BIGINT   NOT NULL   comment 'Customer Satisfaction Rating ID',
+"DESCRIPTION"    NVARCHAR(255)    comment 'Description',
+"CSSR_ALL_ENTRIES_I"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (CUS_STSF_RT_ID)
 )
  comment 'Customer Stated Satisfaction Rating'

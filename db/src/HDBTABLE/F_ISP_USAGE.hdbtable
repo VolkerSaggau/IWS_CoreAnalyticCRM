@@ -1,7 +1,7 @@
 column table "F_ISP_USAGE" (
-"USER_ID"    INTEGER   NOT NULL   comment 'User ID',
-"MONTH_ID"    INTEGER   NOT NULL   comment 'Month ID',
-"ISP_ID"    INTEGER   NOT NULL   comment 'ISP ID',
+"USER_ID"    BIGINT   NOT NULL   comment 'User ID',
+"MONTH_ID"    BIGINT   NOT NULL   comment 'Month ID',
+"ISP_ID"    BIGINT   NOT NULL   comment 'ISP ID',
 "USAGE_TIME"    INTEGER    comment 'Usage Time',
 primary key cpbtree (USER_ID,
 MONTH_ID,

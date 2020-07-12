@@ -1,16 +1,16 @@
 column table "F_UWRT_PRFL" (
-"UWRT_PRFL_ID"    INTEGER   NOT NULL   comment 'Underwriter Profile ID',
-"UNDERWRITER_ID"    INTEGER   NOT NULL   comment 'Insurance Agent ID',
-"UWRT_RPT_STRC_ID"    INTEGER   NOT NULL   comment 'External Producer Reporting Structure ID',
-"STRT_SVC_PRD_ID"    INTEGER   NOT NULL   comment 'Period ID',
-"END_SVC_PRD_ID"    INTEGER   NOT NULL   comment 'Period ID',
-"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Period ID',
-"END_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Period ID',
-"UWRT_SPCL_TYPE"    CHAR(3)    comment 'Underwriter Specialization',
-"LIC_NBR"    VARCHAR(18)    comment 'License Number',
-"LIC_AGCY"    CHAR(3)    comment 'License Agency',
+"UWRT_PRFL_ID"    BIGINT   NOT NULL   comment 'Underwriter Profile ID',
+"UNDERWRITER_ID"    BIGINT   NOT NULL   comment 'Insurance Agent ID',
+"UWRT_RPT_STRC_ID"    BIGINT   NOT NULL   comment 'External Producer Reporting Structure ID',
+"STRT_SVC_PRD_ID"    BIGINT   NOT NULL   comment 'Period ID',
+"END_SVC_PRD_ID"    BIGINT   NOT NULL   comment 'Period ID',
+"BEGIN_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Period ID',
+"END_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Period ID',
+"UWRT_SPCL_TYPE"    NCHAR(3)    comment 'Underwriter Specialization',
+"LIC_NBR"    NVARCHAR(18)    comment 'License Number',
+"LIC_AGCY"    NCHAR(3)    comment 'License Agency',
 "EXPRC_YEAR_NBR"    INTEGER    comment 'Number of Years in Underwriting',
-"OT_TRNG"    CHAR(35)    comment 'Other Training',
+"OT_TRNG"    NCHAR(35)    comment 'Other Training',
 primary key cpbtree (UWRT_PRFL_ID)
 )
  comment 'Underwriter Profile'

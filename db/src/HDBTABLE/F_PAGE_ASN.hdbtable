@@ -1,8 +1,8 @@
 column table "F_PAGE_ASN" (
-"PAGE_ID"    INTEGER   NOT NULL   comment 'Page ID',
-"LINKED_PAGE_ID"    INTEGER   NOT NULL   comment 'Linked to Page ID',
-"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Begin Period ID',
-"END_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'End Period ID',
+"PAGE_ID"    BIGINT   NOT NULL   comment 'Page ID',
+"LINKED_PAGE_ID"    BIGINT   NOT NULL   comment 'Linked to Page ID',
+"BEGIN_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Begin Period ID',
+"END_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'End Period ID',
 primary key cpbtree (PAGE_ID,
 LINKED_PAGE_ID,
 BEGIN_DATE_PRD_ID)

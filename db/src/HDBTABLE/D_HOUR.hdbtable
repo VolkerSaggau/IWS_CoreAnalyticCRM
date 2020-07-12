@@ -1,11 +1,11 @@
 column table "D_HOUR" (
-"HOUR_ID"    INTEGER   NOT NULL   comment 'Hour ID',
-"HOUR_NUMBER"    DECIMAL    comment 'Hour Number',
-"AMPM_FLAG"    SMALLINT    comment 'AMPM FLAG',
-"HOUR_RANGE"    VARCHAR(50)    comment 'HOUR RANGE',
+"HOUR_ID"    BIGINT   NOT NULL   comment 'Hour ID',
+"HOUR_NUMBER"    DECIMAL(22,4)    comment 'Hour Number',
+"AMPM_FLAG"    TINYINT    comment 'AMPM FLAG',
+"HOUR_RANGE"    NVARCHAR(50)    comment 'HOUR RANGE',
 "MINUTE_IN_HOUR"    INTEGER,
-"MINUTE_RANGE"    VARCHAR(50),
-"H_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"MINUTE_RANGE"    NVARCHAR(50),
+"H_ALL_ENTRIES_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (HOUR_ID)
 )
  comment 'Hour'

@@ -1,13 +1,13 @@
 column table "D_MONTH" (
-"MONTH_ID"    INTEGER   NOT NULL   comment 'Month ID',
-"MONTH_NAME"    CHAR(10)    comment 'Month Name',
+"MONTH_ID"    BIGINT   NOT NULL   comment 'Month ID',
+"MONTH_NAME"    NCHAR(20)    comment 'Month Name',
 "MONTH_IN_YEAR"    INTEGER    comment 'Month in Quarter',
 "MONTH_IN_QUARTER"    INTEGER    comment 'Month in Quarter',
 "CALENDAR_QTR"    INTEGER    comment 'CALENDAR QUARTER',
 "FISCAL_QUARTER"    INTEGER    comment 'Fiscal Quarter',
 "YEAR"    INTEGER    comment 'YEAR',
-"YEAR_NAME"    VARCHAR(30),
-"MO_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"YEAR_NAME"    NVARCHAR(30),
+"MO_ALL_ENTRIES_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (MONTH_ID)
 )
  comment 'Month'

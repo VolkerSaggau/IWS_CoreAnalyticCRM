@@ -1,11 +1,11 @@
 column table "D_QUARTER" (
-"QUARTER_ID"    INTEGER   NOT NULL   comment 'Quarter ID',
-"QUARTER_NAME"    VARCHAR(30)    comment 'Quarter Name',
+"QUARTER_ID"    BIGINT   NOT NULL   comment 'Quarter ID',
+"QUARTER_NAME"    NVARCHAR(30)    comment 'Quarter Name',
 "CALENDAR_QTR"    INTEGER    comment 'Calendar Quarter',
 "FISCAL_QUARTER"    INTEGER    comment 'Fiscal Quarter',
 "YEAR"    INTEGER    comment 'Year',
-"YEAR_NAME"    VARCHAR(30)    comment 'Year Name',
-"QT_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+"YEAR_NAME"    NVARCHAR(30)    comment 'Year Name',
+"QT_ALL_ENTR_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (QUARTER_ID)
 )
  comment 'Quarter'

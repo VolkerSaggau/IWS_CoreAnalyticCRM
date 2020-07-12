@@ -1,9 +1,9 @@
 column table "F_CUS_PD_ASN" (
-"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
-"ENTY_ID"    INTEGER   NOT NULL   comment 'Entity ID',
-"QUANTITY"    DECIMAL    comment 'Quantity',
-"BEGIN_DATE_PRD_ID"    INTEGER    comment 'Begin Date Period ID',
-"END_DATE_PRD_ID"    INTEGER    comment 'End Date Period ID',
+"PRODUCT_ID"    BIGINT   NOT NULL   comment 'Product ID',
+"ENTY_ID"    BIGINT   NOT NULL   comment 'Entity ID',
+"QUANTITY"    DECIMAL(22,4)    comment 'Quantity',
+"BEGIN_DATE_PRD_ID"    BIGINT    comment 'Begin Date Period ID',
+"END_DATE_PRD_ID"    BIGINT    comment 'End Date Period ID',
 primary key cpbtree (PRODUCT_ID,
 ENTY_ID)
 )

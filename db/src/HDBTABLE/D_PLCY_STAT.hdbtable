@@ -1,8 +1,8 @@
 column table "D_PLCY_STAT" (
-"PLCY_STAT_ID"    INTEGER   NOT NULL   comment 'Policy Life Cycle Status ID',
-"STAT_NAME"    VARCHAR(30),
-"STAT_DESC"    VARCHAR(255)    comment 'Description',
-"PS_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"PLCY_STAT_ID"    BIGINT   NOT NULL   comment 'Policy Life Cycle Status ID',
+"STAT_NAME"    NVARCHAR(30),
+"STAT_DESC"    NVARCHAR(255)    comment 'Description',
+"PS_ALL_ENTRIES_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (PLCY_STAT_ID)
 )
  comment 'Policy Life Cycle Status'

@@ -1,7 +1,7 @@
 column table "D_ACCOUNT_STATUS" (
-"ACCT_STATUS_ID"    INTEGER   NOT NULL   comment 'Account Status ID',
-"ACCT_STATUS_DESC"    VARCHAR(255)    comment 'Account Status Description',
-"ACCT_STAT_ALL_ENTR"    CHAR(1)    comment 'All Entries Indicator',
+"ACCT_STATUS_ID"    BIGINT   NOT NULL   comment 'Account Status ID',
+"ACCT_STATUS_DESC"    NVARCHAR(255)    comment 'Account Status Description',
+"ACCT_STAT_ALL_ENTR"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (ACCT_STATUS_ID)
 )
  comment 'Account Status'

@@ -1,8 +1,8 @@
 column table "D_ACCT_BHVR_SCOR" (
-"BEHAVIOR_SCORE_ID"    INTEGER   NOT NULL   comment 'Behavior Score',
-"BHVR_SCORE_BAND"    VARCHAR(50),
-"BHVR_SCOR_DESC"    VARCHAR(35)   NOT NULL   comment 'Behavior Score Band Description',
-"BABS_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+"BEHAVIOR_SCORE_ID"    BIGINT   NOT NULL   comment 'Behavior Score',
+"BHVR_SCORE_BAND"    NVARCHAR(50),
+"BHVR_SCOR_DESC"    NVARCHAR(35)   NOT NULL   comment 'Behavior Score Band Description',
+"BABS_ALL_ENTR_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (BEHAVIOR_SCORE_ID)
 )
  comment 'Account Behavior Score'

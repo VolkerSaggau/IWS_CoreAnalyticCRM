@@ -1,7 +1,7 @@
 column table "D_RFM" (
-"RFM_ID"    INTEGER   NOT NULL,
-"RFM_CODE"    CHAR(3),
-"RFM_DESC"    VARCHAR(35),
-"RFM_DECILE"    CHAR(10),
+"RFM_ID"    BIGINT   NOT NULL,
+"RFM_CODE"    NCHAR(3),
+"RFM_DESC"    NVARCHAR(35),
+"RFM_DECILE"    NCHAR(10),
 primary key cpbtree (RFM_ID)
 )

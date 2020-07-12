@@ -1,7 +1,7 @@
 column table "D_STRTGC_CPGN" (
-"STRTGC_CPGN_ID"    INTEGER   NOT NULL   comment 'Strategic Campaign ID',
-"STGC_ALL_ENTRIES_I"    CHAR(1)    comment 'All Entries Indicator',
-"DESCRIPTION"    VARCHAR(255)    comment 'Description',
+"STRTGC_CPGN_ID"    BIGINT   NOT NULL   comment 'Strategic Campaign ID',
+"STGC_ALL_ENTRIES_I"    NCHAR(1)    comment 'All Entries Indicator',
+"DESCRIPTION"    NVARCHAR(255)    comment 'Description',
 primary key cpbtree (STRTGC_CPGN_ID)
 )
  comment 'Strategic Campaign'

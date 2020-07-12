@@ -1,14 +1,14 @@
 column table "D_SESSION_PRFL" (
-"SESSION_PRFL_ID"    INTEGER   NOT NULL   comment 'Session Activity Profile ID',
-"SESSION_CATEGORY"    CHAR(35)    comment 'Session Category',
-"PRCH_IND"    CHAR(1)    comment 'Purchase Made Indicator',
-"FIRST_PRCH_IND"    CHAR(1)    comment 'First Purchase Indicator',
-"CTLG_RQST_IND"    CHAR(1)    comment 'Catalog Requested Indicator',
-"PD_INFO_RQST_IND"    CHAR(1)    comment 'Product Info Requested Indicator',
-"CUS_SVC_RQST_IND"    CHAR(1)    comment 'Service Requested Indicator',
-"PRCH_VAL_BAND"    VARCHAR(50)    comment 'Purchase Value Band',
-"SESS_DRTN_BAND"    VARCHAR(50)    comment 'Session Duration Band',
-"PAGES_VST_BAND"    VARCHAR(50)    comment 'Pages Visited Band',
+"SESSION_PRFL_ID"    BIGINT   NOT NULL   comment 'Session Activity Profile ID',
+"SESSION_CATEGORY"    NCHAR(35)    comment 'Session Category',
+"PRCH_IND"    NCHAR(1)    comment 'Purchase Made Indicator',
+"FIRST_PRCH_IND"    NCHAR(1)    comment 'First Purchase Indicator',
+"CTLG_RQST_IND"    NCHAR(1)    comment 'Catalog Requested Indicator',
+"PD_INFO_RQST_IND"    NCHAR(1)    comment 'Product Info Requested Indicator',
+"CUS_SVC_RQST_IND"    NCHAR(1)    comment 'Service Requested Indicator',
+"PRCH_VAL_BAND"    NVARCHAR(50)    comment 'Purchase Value Band',
+"SESS_DRTN_BAND"    NVARCHAR(50)    comment 'Session Duration Band',
+"PAGES_VST_BAND"    NVARCHAR(50)    comment 'Pages Visited Band',
 primary key cpbtree (SESSION_PRFL_ID)
 )
  comment 'Session Profile'

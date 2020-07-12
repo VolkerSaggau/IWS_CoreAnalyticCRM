@@ -1,12 +1,12 @@
 column table "D_USER_CVSN_PRFL" (
-"USER_CVSN_PRFL_ID"    INTEGER   NOT NULL   comment 'User Conversion Profile ID',
-"CTLG_RQST_IND"    CHAR(1)    comment 'Catalog Requested Indicator',
-"PD_INFO_RQST_IND"    CHAR(1)    comment 'Product Info Requested Indicator',
-"SVC_RQST_IND"    CHAR(1)    comment 'Customer Service Requested Indicator',
-"NBR_VISITS_BAND"    VARCHAR(50)    comment 'Number of Visits Band',
-"DAY_CTLG_RQST_BAND"    VARCHAR(50)    comment 'Days Since Catalog Requested Band',
-"DAY_SVC_RQST_BAND"    VARCHAR(50)    comment 'Days Since Service Requested Band',
-"DAY_INFO_RQST_BAND"    VARCHAR(50)    comment 'Days Since Product Info Requested Band',
+"USER_CVSN_PRFL_ID"    BIGINT   NOT NULL   comment 'User Conversion Profile ID',
+"CTLG_RQST_IND"    NCHAR(1)    comment 'Catalog Requested Indicator',
+"PD_INFO_RQST_IND"    NCHAR(1)    comment 'Product Info Requested Indicator',
+"SVC_RQST_IND"    NCHAR(1)    comment 'Customer Service Requested Indicator',
+"NBR_VISITS_BAND"    NVARCHAR(50)    comment 'Number of Visits Band',
+"DAY_CTLG_RQST_BAND"    NVARCHAR(50)    comment 'Days Since Catalog Requested Band',
+"DAY_SVC_RQST_BAND"    NVARCHAR(50)    comment 'Days Since Service Requested Band',
+"DAY_INFO_RQST_BAND"    NVARCHAR(50)    comment 'Days Since Product Info Requested Band',
 primary key cpbtree (USER_CVSN_PRFL_ID)
 )
  comment 'User to Conversion Profile'

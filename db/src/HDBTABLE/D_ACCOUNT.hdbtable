@@ -1,11 +1,11 @@
 column table "D_ACCOUNT" (
-"ACCOUNT_ID"    INTEGER   NOT NULL   comment 'Account ID',
-"ACCT_BEGIN_DATE"    TIMESTAMP,
-"ACCT_END_DATE"    TIMESTAMP    comment 'End Date Period ID',
-"ACCOUNT_NUMBER"    VARCHAR(18),
-"ACCOUNT_DESC"    VARCHAR(255),
-"DEROG_CODE"    CHAR(3),
-"ACCT_ALL_ENTRIES_I"    CHAR(1)    comment 'All Entries Indicator',
+"ACCOUNT_ID"    BIGINT   NOT NULL   comment 'Account ID',
+"ACCT_BEGIN_DATE"    DATE,
+"ACCT_END_DATE"    DATE    comment 'End Date Period ID',
+"ACCOUNT_NUMBER"    NVARCHAR(18),
+"ACCOUNT_DESC"    NVARCHAR(255),
+"DEROG_CODE"    NCHAR(3),
+"ACCT_ALL_ENTRIES_I"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (ACCOUNT_ID)
 )
  comment 'Account'

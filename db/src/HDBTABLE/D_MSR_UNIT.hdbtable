@@ -1,8 +1,8 @@
 column table "D_MSR_UNIT" (
-"MEASURE_UNIT_ID"    INTEGER   NOT NULL   comment 'Measurement Unit ID',
-"SHRT_DESC"    VARCHAR(15)    comment 'Measurement Unit Short Description',
-"LONG_DESC"    VARCHAR(35),
-"MU_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+"MEASURE_UNIT_ID"    BIGINT   NOT NULL   comment 'Measurement Unit ID',
+"SHRT_DESC"    NVARCHAR(15)    comment 'Measurement Unit Short Description',
+"LONG_DESC"    NVARCHAR(35),
+"MU_ALL_ENTR_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (MEASURE_UNIT_ID)
 )
  comment 'Measure Unit'

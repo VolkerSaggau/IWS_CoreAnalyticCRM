@@ -1,12 +1,12 @@
 column table "D_DECILE_RANK" (
-"DECILE_RANK_ID"    INTEGER   NOT NULL   comment 'Decile Ranking ID',
+"DECILE_RANK_ID"    BIGINT   NOT NULL   comment 'Decile Ranking ID',
 "DECILE_RANK"    INTEGER    comment 'Decile Ranking',
-"DECILE_RANK_DESC"    VARCHAR(35)    comment 'Decile Ranking Description',
-"DECILE_RANK_BAND"    VARCHAR(50)    comment 'Decile Ranking Band',
+"DECILE_RANK_DESC"    NVARCHAR(35)    comment 'Decile Ranking Description',
+"DECILE_RANK_BAND"    NVARCHAR(50)    comment 'Decile Ranking Band',
 "DECILE_PCTL"    DECIMAL(4,2)    comment 'Decile Ranking Percentile',
-"DECILE_PCTL_DESC"    VARCHAR(35)    comment 'Decile Percentile Description',
-"DECILE_PCTL_BAND"    VARCHAR(50)    comment 'Decile Percentile Band',
-"DECILE_ALL_ENTR_IN"    CHAR(1)    comment 'Decile Ranking All Entries Indicator',
+"DECILE_PCTL_DESC"    NVARCHAR(35)    comment 'Decile Percentile Description',
+"DECILE_PCTL_BAND"    NVARCHAR(50)    comment 'Decile Percentile Band',
+"DECILE_ALL_ENTR_IN"    NCHAR(1)    comment 'Decile Ranking All Entries Indicator',
 primary key cpbtree (DECILE_RANK_ID)
 )
  comment 'Decile Rankings'

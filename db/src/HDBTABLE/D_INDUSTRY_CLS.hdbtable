@@ -1,10 +1,10 @@
 column table "D_INDUSTRY_CLS" (
-"IDSTY_CLS_ID"    INTEGER   NOT NULL   comment 'SIC Industry Classification ID',
-"MJR_IDSTY_CLS"    CHAR(10)    comment 'Primary Industry Classification',
-"MJR_IDSTY_DESC"    VARCHAR(255)    comment 'Primary Industry Description',
-"SEC_IDSTY_CLS"    CHAR(10)    comment 'Secondary Industry Classification',
-"SEC_IDSTY_DESC"    VARCHAR(255)    comment 'Secondary Industry Description',
-"IC_ALL_ENTRIES_IND"    CHAR(1)    comment 'All Entries Indicator',
+"IDSTY_CLS_ID"    BIGINT   NOT NULL   comment 'SIC Industry Classification ID',
+"MJR_IDSTY_CLS"    NCHAR(10)    comment 'Primary Industry Classification',
+"MJR_IDSTY_DESC"    NVARCHAR(255)    comment 'Primary Industry Description',
+"SEC_IDSTY_CLS"    NCHAR(10)    comment 'Secondary Industry Classification',
+"SEC_IDSTY_DESC"    NVARCHAR(255)    comment 'Secondary Industry Description',
+"IC_ALL_ENTRIES_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (IDSTY_CLS_ID)
 )
  comment 'Industry Classification'

@@ -1,11 +1,11 @@
 column table "D_INS_CUS_GROUP" (
-"CUS_GROUP_ID"    INTEGER   NOT NULL   comment 'Insured Customer Group ID',
-"CUS_GROUP_NAME"    VARCHAR(30)    comment 'Customer Group Name',
-"CUS_GROUP_DESC"    VARCHAR(255)    comment 'Customer Group Description',
-"CUS_GROUP_TYPE"    CHAR(3)    comment 'Customer Group Type',
-"CUS_GROUP_SUBTYPE"    CHAR(3)    comment 'Customer Group Subtype',
-"CUS_RISK_RATE_CAT"    CHAR(35)    comment 'Customer Risk Rate Category',
-"PCCU_ALL_ENTR_IND"    CHAR(1)    comment 'All Entries Indicator',
+"CUS_GROUP_ID"    BIGINT   NOT NULL   comment 'Insured Customer Group ID',
+"CUS_GROUP_NAME"    NVARCHAR(30)    comment 'Customer Group Name',
+"CUS_GROUP_DESC"    NVARCHAR(255)    comment 'Customer Group Description',
+"CUS_GROUP_TYPE"    NCHAR(3)    comment 'Customer Group Type',
+"CUS_GROUP_SUBTYPE"    NCHAR(3)    comment 'Customer Group Subtype',
+"CUS_RISK_RATE_CAT"    NCHAR(35)    comment 'Customer Risk Rate Category',
+"PCCU_ALL_ENTR_IND"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (CUS_GROUP_ID)
 )
  comment 'Insured Customer Group'

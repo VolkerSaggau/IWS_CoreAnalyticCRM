@@ -1,10 +1,10 @@
 column table "A_PD_USAGE_SUMM" (
-"PRODUCT_ID"    INTEGER   NOT NULL   comment 'Product ID',
-"BEGIN_DATE_PRD_ID"    INTEGER   NOT NULL   comment 'Product Usage Begin Date Period ID',
-"MEASURE_UNIT_ID"    INTEGER    comment 'Measurement Unit ID',
-"ENTY_PD_USE_SCOR"    VARCHAR(50)    comment 'Entity Product Usage Score',
-"MONTH_ID"    INTEGER    comment 'Month ID',
-"ENTY_PD_USE_AMT"    VARCHAR(50)    comment 'Entity Product Usage Amount',
+"PRODUCT_ID"    BIGINT   NOT NULL   comment 'Product ID',
+"BEGIN_DATE_PRD_ID"    BIGINT   NOT NULL   comment 'Product Usage Begin Date Period ID',
+"MEASURE_UNIT_ID"    BIGINT    comment 'Measurement Unit ID',
+"ENTY_PD_USE_SCOR"    NVARCHAR(50)    comment 'Entity Product Usage Score',
+"MONTH_ID"    BIGINT    comment 'Month ID',
+"ENTY_PD_USE_AMT"    NVARCHAR(50)    comment 'Entity Product Usage Amount',
 "SUMM_RECORD_COUNT"    INTEGER    comment 'Summary Record Count',
 primary key cpbtree (PRODUCT_ID,
 BEGIN_DATE_PRD_ID)

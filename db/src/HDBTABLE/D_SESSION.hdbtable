@@ -1,12 +1,12 @@
 column table "D_SESSION" (
-"SESSION_ID"    INTEGER   NOT NULL   comment 'Session ID',
-"SESSION_STATUS"    VARCHAR(30)    comment 'Session Status',
-"DEVICE_TYPE"    VARCHAR(30)    comment 'Device Type',
-"PLATFORM"    VARCHAR(30)    comment 'Client Platform',
-"COOKIE_AVL_IND"    CHAR(1)    comment 'Cookie Available Indicator',
-"BROWSER"    VARCHAR(30)    comment 'Client Browser',
-"SESSION_CONTEXT"    VARCHAR(30)    comment 'Overall Session Context',
-"PAGE_DRVD_CNTXT"    VARCHAR(30)    comment 'Page Derived Context',
+"SESSION_ID"    BIGINT   NOT NULL   comment 'Session ID',
+"SESSION_STATUS"    NVARCHAR(30)    comment 'Session Status',
+"DEVICE_TYPE"    NVARCHAR(30)    comment 'Device Type',
+"PLATFORM"    NVARCHAR(30)    comment 'Client Platform',
+"COOKIE_AVL_IND"    NCHAR(1)    comment 'Cookie Available Indicator',
+"BROWSER"    NVARCHAR(30)    comment 'Client Browser',
+"SESSION_CONTEXT"    NVARCHAR(30)    comment 'Overall Session Context',
+"PAGE_DRVD_CNTXT"    NVARCHAR(30)    comment 'Page Derived Context',
 primary key cpbtree (SESSION_ID)
 )
  comment 'Session'
