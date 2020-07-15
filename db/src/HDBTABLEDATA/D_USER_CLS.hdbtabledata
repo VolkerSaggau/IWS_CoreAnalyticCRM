@@ -1,0 +1,29 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_USER_CLS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_USER_CLS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "USER_CLS_ID"                       : 1,
+            "NEW_USER_IND"                      : 2,
+            "RGST_USER_IND"                     : 3,
+            "NEWS_SBSC_IND"                     : 4,
+            "BUYER_IND"                         : 5,
+            "USER_TNR_BAND"                     : 6,
+            "BUYER_TNR_BAND"                    : 7,
+            "NEWS_SBSC_TNR_BAND"                : 8,
+            "RGST_USER_TNR_BAND"                : 9
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ACCOUNT_TERMS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ACCOUNT_TERMS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ACCT_TERMS_ID"                     : 1,
+            "NON_STD_TERMS_IND"                 : 2,
+            "VAR_INT_RATE_IND"                  : 3,
+            "STD_INT_RATE_IND"                  : 4,
+            "ANNUAL_FEE_IND"                    : 5,
+            "COMBINED_STMT_IND"                 : 6,
+            "AT_ALL_ENTRIES_IND"                : 7
+         
+         }
+      }
+   ]
+}

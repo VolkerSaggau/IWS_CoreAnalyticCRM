@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_MSR_UNIT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_MSR_UNIT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "MEASURE_UNIT_ID"                   : 1,
+            "SHRT_DESC"                         : 2,
+            "LONG_DESC"                         : 3,
+            "MU_ALL_ENTR_IND"                   : 4
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,55 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_CPGN_CNTC_EVT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_CPGN_CNTC_EVT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CNTC_EVT_ID"                       : 1,
+            "CNTC_COUNT"                        : 2,
+            "PRM_EPSD_ID"                       : 3,
+            "ENTY_ID"                           : 4,
+            "CNTC_DT_PRD_ID"                    : 5,
+            "COR_RPT_STRC_ID"                   : 6,
+            "GEO_ID"                            : 7,
+            "MEASURE_UNIT_ID"                   : 8,
+            "FNCL_SCOR_ID"                      : 9,
+            "LANGUAGE_ID"                       : 10,
+            "AFFILIATION_ID"                    : 11,
+            "PN_BHVR_SCOR_ID"                   : 12,
+            "PRODUCT_ID"                        : 13,
+            "DEMO_ID"                           : 14,
+            "EMP_ID"                            : 15,
+            "PSYCH_ID"                          : 16,
+            "EVT_TYP_ID"                        : 17,
+            "ASSET_ID"                          : 18,
+            "PRM_CPGN_ID"                       : 19,
+            "PROFESSION_ID"                     : 20,
+            "ADDRESS_ID"                        : 21,
+            "MEDIA_ID"                          : 22,
+            "UNQUAL_PROSPECT_ID"                : 23,
+            "UNQUAL_PROSP_IND"                  : 24,
+            "CNTC_EVT_NUMBER"                   : 25,
+            "CPGN_EVT_SEQ_NBR"                  : 26,
+            "CPGN_TYP"                          : 27,
+            "COST_AMT"                          : 28,
+            "REVENUE_AMT"                       : 29,
+            "QUANTITY"                          : 30,
+            "COMM_DIR_ACTN"                     : 31,
+            "CNTC_COMM_DIR"                     : 32,
+            "TGT_GROUP"                         : 33,
+            "CNTC_CTL_GRP_IND"                  : 34,
+            "CPGN_CNTC_RESULT"                  : 35
+         
+         }
+      }
+   ]
+}

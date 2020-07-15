@@ -1,0 +1,23 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_HH_KEY_FCTS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_HH_KEY_FCTS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "HOUSEHOLD_ID"                      : 1,
+            "CUS_SINCE_PRD_ID"                  : 2,
+            "PYMT_MTHD"                         : 3
+         
+         }
+      }
+   ]
+}

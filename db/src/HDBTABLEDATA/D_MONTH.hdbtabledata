@@ -1,0 +1,29 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_MONTH",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_MONTH.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "MONTH_ID"                          : 1,
+            "MONTH_NAME"                        : 2,
+            "MONTH_IN_YEAR"                     : 3,
+            "MONTH_IN_QUARTER"                  : 4,
+            "CALENDAR_QTR"                      : 5,
+            "FISCAL_QUARTER"                    : 6,
+            "YEAR"                              : 7,
+            "YEAR_NAME"                         : 8,
+            "MO_ALL_ENTRIES_IND"                : 9
+         
+         }
+      }
+   ]
+}

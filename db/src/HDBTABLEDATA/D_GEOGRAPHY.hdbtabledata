@@ -1,0 +1,53 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_GEOGRAPHY",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_GEOGRAPHY.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "GEO_ID"                            : 1,
+            "GEO_BEGIN_DATE"                    : 2,
+            "GEO_END_DATE"                      : 3,
+            "GEO_POSTAL_CODE"                   : 4,
+            "GEO_CITY"                          : 5,
+            "POSTAL_CD_PFX"                     : 6,
+            "HZRD_WTHR_AREA_IND"                : 7,
+            "HZRD_STORM_IND"                    : 8,
+            "HZRD_FLOOD_IND"                    : 9,
+            "HZRD_TORNADO_IND"                  : 10,
+            "HZRD_HURRICANE_IND"                : 11,
+            "HZRD_EARTHQK_IND"                  : 12,
+            "HZRD_DIS_IND"                      : 13,
+            "HZRD_RADON_IND"                    : 14,
+            "HZRD_ENVR_IND"                     : 15,
+            "OTHER_HZRD_IND"                    : 16,
+            "DMA_CODE"                          : 17,
+            "SMSA_CODE"                         : 18,
+            "ST_PROV_AREA"                      : 19,
+            "TV_REGION"                         : 20,
+            "NTL_RADIO_AREA"                    : 21,
+            "LCL_RADIO_AREA"                    : 22,
+            "GEO_REGION"                        : 23,
+            "GEO_COUNTRY"                       : 24,
+            "CONTINENT_ABR"                     : 25,
+            "SUB_CNTNT_ABR"                     : 26,
+            "CENSUS_TRACT"                      : 27,
+            "CENSUS_BLOCK_GRP"                  : 28,
+            "ECMC_REGION"                       : 29,
+            "CITY_PLCL_UNIT"                    : 30,
+            "COUNTY_PLCL_UNIT"                  : 31,
+            "ST_PROV_PLCL_UNIT"                 : 32,
+            "GEO_ALL_ENTRIES_IN"                : 33
+         
+         }
+      }
+   ]
+}

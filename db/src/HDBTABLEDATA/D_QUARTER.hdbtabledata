@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_QUARTER",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_QUARTER.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "QUARTER_ID"                        : 1,
+            "QUARTER_NAME"                      : 2,
+            "CALENDAR_QTR"                      : 3,
+            "FISCAL_QUARTER"                    : 4,
+            "YEAR"                              : 5,
+            "YEAR_NAME"                         : 6,
+            "QT_ALL_ENTR_IND"                   : 7
+         
+         }
+      }
+   ]
+}

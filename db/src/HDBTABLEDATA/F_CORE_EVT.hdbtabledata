@@ -1,0 +1,42 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_CORE_EVT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_CORE_EVT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "COR_EVT_ID"                        : 1,
+            "COR_EVT_SEQ_NBR"                   : 2,
+            "EVT_TYP_ID"                        : 3,
+            "COR_RPT_STRC_ID"                   : 4,
+            "PRM_EPSD_ID"                       : 5,
+            "GEO_ID"                            : 6,
+            "MEASURE_UNIT_ID"                   : 7,
+            "FNCL_SCOR_ID"                      : 8,
+            "LANGUAGE_ID"                       : 9,
+            "PN_BHVR_SCOR_ID"                   : 10,
+            "PRODUCT_ID"                        : 11,
+            "DEMO_ID"                           : 12,
+            "EMP_ID"                            : 13,
+            "EFF_DATE_PRD_ID"                   : 14,
+            "ENTY2_ID"                          : 15,
+            "ISO_CRCY_ID"                       : 16,
+            "HOUR_ID"                           : 17,
+            "PYMT_METHOD_ID"                    : 18,
+            "AMOUNT"                            : 19,
+            "QUANTITY"                          : 20,
+            "ORDER_NBR"                         : 21,
+            "COR_EVT_REF"                       : 22
+         
+         }
+      }
+   ]
+}

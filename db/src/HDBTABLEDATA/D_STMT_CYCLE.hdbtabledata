@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_STMT_CYCLE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_STMT_CYCLE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "STMT_CYCLE_ID"                     : 1,
+            "STMT_CYCLE_CODE"                   : 2,
+            "STMT_CYCLE_TXT"                    : 3,
+            "SCY_ALL_ENTRIES_IN"                : 4
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_LANGUAGE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_LANGUAGE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "LANGUAGE_ID"                       : 1,
+            "ISO_LANG_CODE"                     : 2,
+            "ISO_LANG_NAME"                     : 3,
+            "LANG_GROUP"                        : 4,
+            "LNG_ALL_ENTRIES_IN"                : 5
+         
+         }
+      }
+   ]
+}

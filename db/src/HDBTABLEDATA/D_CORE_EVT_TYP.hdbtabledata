@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CORE_EVT_TYP",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CORE_EVT_TYP.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "EVT_TYP_ID"                        : 1,
+            "EVT_TYP_CAT_SNM"                   : 2,
+            "EVT_TYP_CAT_LNM"                   : 3,
+            "EVT_TYP_SHRT_NAM"                  : 4,
+            "EVT_TYP_LONG_NAM"                  : 5,
+            "EVT_TYP_SUBTYP_NAM"                : 6,
+            "CET_ALL_ENTRIES_IN"                : 7
+         
+         }
+      }
+   ]
+}

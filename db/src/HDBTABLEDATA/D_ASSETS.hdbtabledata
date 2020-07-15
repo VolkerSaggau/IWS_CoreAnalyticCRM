@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ASSETS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ASSETS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ASSET_ID"                          : 1,
+            "YRS_AT_RES_BAND"                   : 2,
+            "NBR_VHCL_BAND"                     : 3,
+            "PRIM_VHCL_VAL_BAND"                : 4,
+            "OWN_OFCS_IND"                      : 5,
+            "PROP_VAL_BAND"                     : 6,
+            "ASSET_ALL_ENTR_IND"                : 7
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,500 @@
+1,77,743,1435,Wrong gender
+2,1627,826,1330,Non-payment
+3,3444,677,1274,Too old
+4,1948,770,1519,Salary too low
+5,483,771,1369,Too difficult to contact
+6,559,899,1574,Too difficult to contact
+7,4278,751,1434,Salary too low
+8,467,693,1527,Too difficult to contact
+9,1549,956,1590,Billing dispute
+10,1233,639,1309,Billing dispute
+11,3311,803,1264,Too old
+12,4530,1084,1511,Personal wealth too high
+13,3912,622,1405,Personal wealth too low
+14,1021,1025,1294,Too young
+15,3663,701,1102,Personal wealth too low
+16,1973,899,1586,Poor credit rating
+17,3240,1070,1572,Deceased
+18,4806,647,1635,Too old
+19,3667,1051,1398,Billing dispute
+20,3565,898,1313,Salary too low
+21,1989,885,1592,Non-payment
+22,3782,568,1624,Wrong gender
+23,2840,799,1537,Too young
+24,1875,644,1319,Salary too low
+25,3232,962,1538,Poor credit rating
+26,2860,702,1437,Salary too high
+27,18,1037,1227,Salary too high
+28,2253,730,1618,Billing dispute
+29,4853,805,1514,Too old
+30,4323,689,1464,Billing dispute
+31,3179,1080,1522,Too young
+32,4836,885,1300,Non-payment
+33,4878,749,1444,Billing dispute
+34,2912,965,1337,Too difficult to contact
+35,2984,1063,1158,Deceased
+36,3987,738,1256,Personal wealth too low
+37,1240,968,1394,Billing dispute
+38,4976,1096,1557,Salary too low
+39,4574,946,1204,Poor credit rating
+40,4075,1017,1456,Non-payment
+41,1737,960,1301,Poor credit rating
+42,1846,940,1567,Poor credit rating
+43,4648,870,1631,Personal wealth too high
+44,2993,1004,1565,Too young
+45,2486,775,1417,Too old
+46,108,622,1548,Personal wealth too high
+47,3354,968,1160,Non-payment
+48,2332,975,1362,Too young
+49,642,583,1217,Personal wealth too high
+50,3900,1040,1252,Salary too low
+51,3030,648,1535,Deceased
+52,606,1068,1512,Deceased
+53,4659,904,1401,Billing dispute
+54,1919,885,1492,Too young
+55,3317,919,1261,Non-payment
+56,3445,932,1155,Wrong gender
+57,2893,669,1235,Billing dispute
+58,4277,667,1602,Salary too high
+59,4683,1024,1352,Too old
+60,2156,895,1104,Personal wealth too high
+61,3807,917,1353,Wrong gender
+62,1865,967,1241,Salary too high
+63,4888,615,1522,Poor credit rating
+64,4558,801,1411,Salary too low
+65,3572,870,1518,Salary too high
+66,3388,1010,1487,Deceased
+67,414,923,1167,Deceased
+68,4496,1091,1576,Salary too low
+69,4343,772,1277,Personal wealth too low
+70,2714,670,1540,Deceased
+71,2407,825,1102,Wrong gender
+72,3953,618,1454,Billing dispute
+73,3985,984,1228,Salary too low
+74,1712,1068,1320,Salary too low
+75,4137,976,1208,Wrong gender
+76,4141,724,1272,Non-payment
+77,545,751,1319,Wrong gender
+78,1217,810,1361,Non-payment
+79,4539,959,1482,Salary too low
+80,4508,729,1568,Salary too low
+81,2228,924,1584,Too young
+82,286,588,1508,Too young
+83,4839,971,1631,Too old
+84,1039,962,1444,Poor credit rating
+85,1187,919,1163,Billing dispute
+86,1410,578,1326,Personal wealth too low
+87,2809,667,1220,Personal wealth too high
+88,2779,663,1437,Personal wealth too high
+89,1879,753,1593,Too old
+90,1817,609,1537,Billing dispute
+91,1683,662,1559,Poor credit rating
+92,2967,842,1174,Salary too low
+93,2292,644,1412,Billing dispute
+94,3544,715,1178,Billing dispute
+95,3260,950,1459,Salary too low
+96,3705,555,1404,Too old
+97,3812,789,1245,Personal wealth too high
+98,2421,1054,1304,Poor credit rating
+99,2227,643,1198,Too difficult to contact
+100,548,1042,1126,Poor credit rating
+101,3011,930,1472,Non-payment
+102,3629,1011,1151,Wrong gender
+103,1240,963,1362,Poor credit rating
+104,941,707,1593,Too old
+105,1143,684,1218,Salary too high
+106,3986,863,1432,Too young
+107,3776,552,1556,Deceased
+108,2897,881,1336,Too old
+109,4627,787,1622,Personal wealth too low
+110,3615,875,1220,Salary too low
+111,4314,910,1569,Salary too low
+112,2819,947,1111,Too young
+113,2293,759,1274,Personal wealth too low
+114,2159,659,1455,Too difficult to contact
+115,2849,632,1215,Deceased
+116,3891,589,1270,Too old
+117,2683,796,1584,Too young
+118,2189,804,1515,Poor credit rating
+119,3294,625,1415,Too old
+120,3921,884,1147,Salary too high
+121,2179,672,1199,Salary too low
+122,4964,822,1360,Salary too low
+123,2781,620,1125,Personal wealth too low
+124,4062,637,1584,Wrong gender
+125,2238,713,1628,Personal wealth too low
+126,1205,905,1155,Wrong gender
+127,1406,958,1423,Non-payment
+128,2297,1045,1566,Deceased
+129,1532,896,1531,Wrong gender
+130,2034,1002,1559,Billing dispute
+131,4444,896,1508,Poor credit rating
+132,3119,848,1582,Personal wealth too low
+133,1245,977,1287,Billing dispute
+134,2732,852,1541,Too old
+135,1567,857,1206,Too difficult to contact
+136,2288,1071,1411,Personal wealth too low
+137,4340,966,1343,Deceased
+138,4479,1075,1275,Wrong gender
+139,94,962,1310,Wrong gender
+140,3089,966,1111,Poor credit rating
+141,2053,1006,1141,Too old
+142,1728,737,1495,Salary too high
+143,1804,1076,1557,Personal wealth too high
+144,2988,995,1112,Poor credit rating
+145,3410,553,1307,Wrong gender
+146,370,791,1394,Personal wealth too low
+147,347,726,1273,Salary too high
+148,2090,1003,1443,Wrong gender
+149,1038,832,1121,Too young
+150,4345,616,1234,Deceased
+151,3783,846,1387,Wrong gender
+152,2323,674,1476,Salary too low
+153,4062,589,1608,Too young
+154,858,865,1344,Wrong gender
+155,4272,766,1329,Non-payment
+156,3724,840,1285,Salary too high
+157,1357,635,1339,Salary too low
+158,1853,954,1481,Salary too low
+159,4469,629,1592,Billing dispute
+160,1763,651,1106,Salary too high
+161,947,634,1312,Personal wealth too high
+162,1907,573,1535,Deceased
+163,2617,1007,1616,Salary too high
+164,2094,716,1625,Salary too high
+165,3826,875,1621,Too difficult to contact
+166,189,659,1551,Billing dispute
+167,915,566,1587,Salary too high
+168,1647,626,1560,Deceased
+169,2985,697,1350,Billing dispute
+170,1659,621,1472,Deceased
+171,4153,574,1106,Billing dispute
+172,2455,969,1336,Non-payment
+173,925,857,1378,Billing dispute
+174,137,949,1337,Salary too high
+175,3170,630,1117,Salary too high
+176,2145,1009,1609,Personal wealth too high
+177,1434,924,1277,Salary too high
+178,3425,881,1233,Salary too low
+179,153,996,1504,Too difficult to contact
+180,2476,1014,1612,Personal wealth too low
+181,3924,654,1470,Too difficult to contact
+182,3123,794,1180,Too difficult to contact
+183,316,851,1306,Salary too high
+184,4841,978,1440,Deceased
+185,1080,816,1307,Billing dispute
+186,4294,657,1367,Poor credit rating
+187,1984,708,1618,Too old
+188,4141,865,1161,Too old
+189,3140,900,1473,Too young
+190,2646,909,1248,Salary too low
+191,4623,1064,1132,Too difficult to contact
+192,4934,716,1444,Billing dispute
+193,4554,702,1392,Too old
+194,4373,937,1219,Too old
+195,1830,588,1402,Poor credit rating
+196,1264,800,1322,Too old
+197,1317,1012,1130,Personal wealth too high
+198,1326,979,1544,Too difficult to contact
+199,3839,719,1350,Wrong gender
+200,4077,702,1613,Too old
+201,4772,1092,1205,Too young
+202,1652,967,1157,Salary too high
+203,1544,788,1395,Non-payment
+204,2635,825,1397,Billing dispute
+205,125,771,1595,Poor credit rating
+206,3580,1057,1424,Poor credit rating
+207,1601,958,1102,Too old
+208,3828,797,1563,Personal wealth too high
+209,504,1003,1552,Salary too low
+210,2489,637,1583,Personal wealth too low
+211,4616,927,1419,Too young
+212,791,1026,1168,Too old
+213,4794,866,1538,Billing dispute
+214,3925,561,1384,Poor credit rating
+215,966,729,1434,Billing dispute
+216,4737,770,1170,Personal wealth too low
+217,65,727,1196,Salary too low
+218,2726,1022,1460,Too old
+219,1273,896,1252,Billing dispute
+220,1408,625,1293,Wrong gender
+221,1862,779,1266,Too difficult to contact
+222,900,905,1621,Personal wealth too high
+223,1073,641,1489,Too young
+224,1051,613,1273,Too young
+225,3129,851,1153,Poor credit rating
+226,4426,889,1296,Personal wealth too low
+227,1700,641,1105,Billing dispute
+228,3324,656,1581,Too old
+229,62,563,1160,Poor credit rating
+230,1620,806,1216,Too old
+231,1929,861,1619,Non-payment
+232,1044,660,1160,Non-payment
+233,671,779,1102,Poor credit rating
+234,3237,655,1261,Poor credit rating
+235,2391,553,1341,Salary too high
+236,4178,966,1521,Too old
+237,4319,1054,1547,Non-payment
+238,1951,689,1215,Too difficult to contact
+239,2318,719,1356,Salary too low
+240,2978,942,1597,Too young
+241,3037,618,1625,Billing dispute
+242,1380,675,1564,Personal wealth too high
+243,617,843,1437,Too old
+244,1685,842,1436,Salary too low
+245,2882,856,1271,Personal wealth too high
+246,2308,868,1207,Personal wealth too high
+247,837,582,1564,Salary too low
+248,1682,892,1361,Too old
+249,1130,946,1306,Too difficult to contact
+250,1261,956,1263,Salary too low
+251,2029,974,1493,Non-payment
+252,527,1073,1505,Wrong gender
+253,2577,1069,1544,Non-payment
+254,4087,615,1453,Deceased
+255,56,1045,1452,Billing dispute
+256,759,1034,1500,Too difficult to contact
+257,732,991,1295,Poor credit rating
+258,4712,675,1514,Non-payment
+259,1373,813,1325,Salary too high
+260,4877,884,1407,Deceased
+261,2186,774,1360,Deceased
+262,1709,860,1240,Personal wealth too high
+263,3803,558,1411,Too old
+264,422,630,1452,Salary too high
+265,4939,731,1452,Salary too low
+266,2851,775,1224,Non-payment
+267,1348,755,1563,Wrong gender
+268,1537,680,1130,Personal wealth too high
+269,3952,800,1488,Salary too high
+270,299,656,1147,Salary too high
+271,2572,786,1261,Personal wealth too low
+272,945,601,1253,Billing dispute
+273,4733,853,1211,Deceased
+274,1574,875,1547,Too difficult to contact
+275,4569,811,1242,Non-payment
+276,3713,762,1295,Wrong gender
+277,3206,987,1118,Poor credit rating
+278,3988,562,1536,Too difficult to contact
+279,2064,1079,1580,Too difficult to contact
+280,1749,765,1627,Personal wealth too low
+281,2671,605,1338,Wrong gender
+282,2665,906,1116,Personal wealth too low
+283,3671,875,1223,Too old
+284,406,923,1363,Too young
+285,1121,802,1438,Billing dispute
+286,4835,892,1120,Deceased
+287,4840,687,1541,Wrong gender
+288,1110,703,1401,Too old
+289,4702,636,1098,Salary too low
+290,535,904,1222,Personal wealth too high
+291,4527,1044,1376,Personal wealth too low
+292,1433,936,1193,Non-payment
+293,596,579,1329,Too young
+294,2384,852,1621,Too old
+295,112,1035,1472,Salary too low
+296,1488,968,1566,Salary too high
+297,109,981,1250,Wrong gender
+298,4588,587,1192,Salary too low
+299,2601,926,1399,Salary too high
+300,3075,844,1578,Billing dispute
+301,250,626,1620,Billing dispute
+302,3831,758,1538,Poor credit rating
+303,1648,948,1378,Salary too high
+304,483,803,1188,Too young
+305,4572,750,1346,Poor credit rating
+306,2204,928,1508,Non-payment
+307,2415,643,1424,Salary too low
+308,4338,1036,1556,Wrong gender
+309,1561,956,1472,Non-payment
+310,4833,766,1494,Personal wealth too low
+311,3813,716,1450,Deceased
+312,2422,581,1603,Wrong gender
+313,1363,636,1219,Too old
+314,2359,586,1513,Salary too high
+315,151,826,1328,Deceased
+316,3857,1026,1272,Poor credit rating
+317,4113,1084,1126,Non-payment
+318,929,1031,1428,Salary too low
+319,724,739,1266,Deceased
+320,563,756,1367,Salary too high
+321,662,550,1160,Too old
+322,4856,897,1571,Personal wealth too high
+323,4371,1016,1481,Too young
+324,2407,762,1623,Personal wealth too high
+325,3979,984,1160,Salary too low
+326,4593,577,1147,Salary too high
+327,3538,794,1539,Salary too low
+328,4927,605,1144,Personal wealth too low
+329,1999,618,1354,Deceased
+330,195,804,1461,Poor credit rating
+331,4867,889,1640,Deceased
+332,1057,641,1226,Salary too low
+333,222,1028,1545,Too difficult to contact
+334,2909,882,1489,Too old
+335,860,1014,1260,Salary too low
+336,754,602,1527,Poor credit rating
+337,4816,602,1643,Poor credit rating
+338,58,886,1578,Personal wealth too low
+339,4630,988,1288,Deceased
+340,4929,766,1131,Poor credit rating
+341,4526,888,1580,Too young
+342,871,1045,1179,Salary too high
+343,2282,743,1225,Poor credit rating
+344,2588,752,1485,Too young
+345,2163,1027,1097,Salary too high
+346,3419,615,1459,Personal wealth too low
+347,4952,796,1410,Poor credit rating
+348,2600,1088,1383,Wrong gender
+349,3950,707,1279,Too old
+350,309,962,1418,Wrong gender
+351,38,743,1318,Personal wealth too low
+352,3982,909,1259,Salary too low
+353,2514,555,1206,Salary too low
+354,3291,887,1124,Too young
+355,3646,703,1124,Deceased
+356,1121,808,1480,Billing dispute
+357,1804,683,1447,Salary too high
+358,4443,1014,1226,Salary too high
+359,3794,549,1434,Salary too high
+360,2830,888,1489,Salary too high
+361,4707,1081,1202,Personal wealth too low
+362,4080,857,1387,Salary too low
+363,1394,760,1244,Wrong gender
+364,1656,847,1464,Deceased
+365,1656,738,1362,Poor credit rating
+366,3053,1000,1625,Non-payment
+367,3554,811,1641,Deceased
+368,2326,923,1317,Wrong gender
+369,1009,857,1390,Personal wealth too high
+370,4580,610,1493,Personal wealth too high
+371,1220,596,1597,Too old
+372,759,644,1416,Wrong gender
+373,4462,787,1186,Salary too high
+374,3284,1050,1118,Deceased
+375,699,784,1593,Too old
+376,2541,821,1491,Too young
+377,3311,828,1343,Too old
+378,1581,879,1208,Deceased
+379,1088,1046,1429,Personal wealth too high
+380,2263,763,1586,Billing dispute
+381,3812,1083,1423,Poor credit rating
+382,1073,698,1107,Salary too low
+383,2144,807,1376,Personal wealth too low
+384,2638,554,1501,Wrong gender
+385,2442,628,1181,Billing dispute
+386,4113,915,1340,Too young
+387,4623,916,1249,Deceased
+388,4801,920,1483,Non-payment
+389,4322,992,1632,Poor credit rating
+390,3193,1035,1503,Non-payment
+391,2624,1027,1612,Personal wealth too low
+392,3696,647,1179,Deceased
+393,611,671,1549,Wrong gender
+394,3304,1084,1577,Wrong gender
+395,4962,944,1176,Personal wealth too high
+396,4953,1090,1233,Deceased
+397,3125,563,1120,Personal wealth too low
+398,4937,620,1354,Deceased
+399,107,729,1148,Too old
+400,2172,719,1265,Too young
+401,1974,1020,1192,Salary too high
+402,2871,872,1145,Salary too low
+403,1723,697,1280,Too old
+404,1011,767,1355,Billing dispute
+405,4507,1084,1627,Too old
+406,3413,1064,1170,Salary too high
+407,4325,1029,1134,Poor credit rating
+408,3982,1096,1303,Salary too low
+409,1325,883,1454,Salary too low
+410,234,1073,1171,Non-payment
+411,1103,1030,1159,Too difficult to contact
+412,2377,749,1517,Salary too low
+413,2662,767,1581,Too old
+414,1472,889,1487,Wrong gender
+415,3434,1057,1209,Wrong gender
+416,4207,946,1439,Deceased
+417,910,900,1257,Deceased
+418,3251,836,1638,Deceased
+419,4106,568,1511,Poor credit rating
+420,4583,893,1545,Salary too low
+421,2564,912,1109,Salary too low
+422,2261,691,1504,Poor credit rating
+423,3805,783,1518,Too difficult to contact
+424,2426,580,1552,Personal wealth too low
+425,373,584,1184,Too young
+426,2584,1086,1146,Poor credit rating
+427,2882,1041,1113,Billing dispute
+428,4932,947,1411,Poor credit rating
+429,3978,639,1362,Too young
+430,4392,982,1612,Poor credit rating
+431,2928,628,1234,Wrong gender
+432,3673,811,1548,Too old
+433,4819,752,1331,Poor credit rating
+434,4689,608,1127,Billing dispute
+435,206,624,1269,Deceased
+436,3770,630,1283,Too old
+437,3586,998,1448,Too difficult to contact
+438,2751,911,1621,Too young
+439,450,590,1254,Personal wealth too low
+440,17,1017,1172,Personal wealth too high
+441,1007,1096,1152,Too young
+442,423,703,1362,Salary too low
+443,2075,1043,1279,Personal wealth too high
+444,1381,597,1103,Wrong gender
+445,240,931,1175,Too difficult to contact
+446,4918,623,1242,Too young
+447,2333,1087,1214,Salary too low
+448,2774,827,1533,Poor credit rating
+449,1665,559,1278,Personal wealth too high
+450,4289,863,1593,Deceased
+451,3428,1052,1379,Too young
+452,506,1019,1323,Personal wealth too low
+453,3343,970,1410,Personal wealth too high
+454,3220,671,1180,Personal wealth too low
+455,3143,580,1232,Non-payment
+456,332,1055,1223,Billing dispute
+457,2933,1077,1307,Deceased
+458,4296,825,1556,Too young
+459,1995,945,1642,Personal wealth too low
+460,4485,1039,1520,Too difficult to contact
+461,4350,983,1486,Deceased
+462,2407,671,1566,Too difficult to contact
+463,1456,932,1246,Too difficult to contact
+464,1615,598,1264,Wrong gender
+465,4929,963,1215,Wrong gender
+466,2446,761,1637,Too difficult to contact
+467,271,1095,1214,Billing dispute
+468,1031,772,1274,Wrong gender
+469,1401,720,1334,Salary too high
+470,2951,1046,1544,Too difficult to contact
+471,3397,785,1253,Non-payment
+472,160,792,1364,Poor credit rating
+473,439,977,1474,Wrong gender
+474,852,733,1402,Too old
+475,611,575,1185,Personal wealth too high
+476,1621,904,1108,Too difficult to contact
+477,2071,984,1220,Too young
+478,4975,721,1124,Wrong gender
+479,4296,1058,1330,Poor credit rating
+480,3826,802,1163,Billing dispute
+481,1735,593,1310,Too young
+482,3470,1022,1480,Salary too low
+483,3455,768,1230,Salary too low
+484,1517,992,1312,Too difficult to contact
+485,4252,1025,1279,Wrong gender
+486,2800,650,1463,Too old
+487,3476,651,1465,Deceased
+488,128,1024,1562,Too difficult to contact
+489,515,913,1150,Too young
+490,3469,620,1136,Too young
+491,3675,838,1516,Personal wealth too low
+492,411,841,1377,Wrong gender
+493,154,944,1385,Deceased
+494,124,1096,1363,Billing dispute
+495,2163,989,1164,Wrong gender
+496,2190,797,1172,Deceased
+497,973,1071,1571,Personal wealth too high
+498,1213,987,1386,Too difficult to contact
+499,47,927,1121,Wrong gender
+500,3693,587,1149,Too difficult to contact

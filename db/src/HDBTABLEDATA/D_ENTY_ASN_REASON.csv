@@ -1,0 +1,501 @@
+1,Household,Member of Household,
+2,HH Member,Is Member of Household,T
+3,Employee,Is Employ of,T
+4,Employee,Is Employ of,T
+5,Employee,Is Employ of,T
+6,Prospect,Is Prospect of,T
+7,Employee,Is Employ of,T
+8,Employee,Is Employ of,T
+9,Employee,Is Employ of,T
+10,Employee,Is Employ of,T
+11,Prospect,Is Prospect of,T
+12,Customer,Is Customer of,T
+13,Prospect,Is Prospect of,T
+14,HH Member,Is Member of Household,T
+15,HH Member,Is Member of Household,T
+16,HH Member,Is Member of Household,T
+17,Prospect,Is Prospect of,T
+18,HH Member,Is Member of Household,T
+19,Customer,Is Customer of,T
+20,Employee,Is Employ of,T
+21,Employee,Is Employ of,T
+22,Prospect,Is Prospect of,T
+23,HH Member,Is Member of Household,T
+24,Prospect,Is Prospect of,T
+25,Customer,Is Customer of,T
+26,Customer,Is Customer of,T
+27,HH Member,Is Member of Household,T
+28,Employee,Is Employ of,T
+29,Prospect,Is Prospect of,T
+30,HH Member,Is Member of Household,T
+31,Prospect,Is Prospect of,T
+32,Employee,Is Employ of,T
+33,Prospect,Is Prospect of,T
+34,Prospect,Is Prospect of,T
+35,Customer,Is Customer of,T
+36,HH Member,Is Member of Household,T
+37,HH Member,Is Member of Household,T
+38,Prospect,Is Prospect of,T
+39,Employee,Is Employ of,T
+40,Employee,Is Employ of,T
+41,Customer,Is Customer of,T
+42,Prospect,Is Prospect of,T
+43,HH Member,Is Member of Household,T
+44,Prospect,Is Prospect of,T
+45,Employee,Is Employ of,T
+46,Customer,Is Customer of,T
+47,Customer,Is Customer of,T
+48,Prospect,Is Prospect of,T
+49,Customer,Is Customer of,T
+50,Customer,Is Customer of,T
+51,Employee,Is Employ of,T
+52,HH Member,Is Member of Household,T
+53,Prospect,Is Prospect of,T
+54,Customer,Is Customer of,T
+55,Customer,Is Customer of,T
+56,Prospect,Is Prospect of,T
+57,Prospect,Is Prospect of,T
+58,Prospect,Is Prospect of,T
+59,Prospect,Is Prospect of,T
+60,Prospect,Is Prospect of,T
+61,HH Member,Is Member of Household,T
+62,Employee,Is Employ of,T
+63,Employee,Is Employ of,T
+64,Prospect,Is Prospect of,T
+65,Employee,Is Employ of,T
+66,Prospect,Is Prospect of,T
+67,HH Member,Is Member of Household,T
+68,Customer,Is Customer of,T
+69,Prospect,Is Prospect of,T
+70,Customer,Is Customer of,T
+71,Prospect,Is Prospect of,T
+72,Customer,Is Customer of,T
+73,Prospect,Is Prospect of,T
+74,Employee,Is Employ of,T
+75,Employee,Is Employ of,T
+76,Prospect,Is Prospect of,T
+77,Employee,Is Employ of,T
+78,HH Member,Is Member of Household,T
+79,Customer,Is Customer of,T
+80,Customer,Is Customer of,T
+81,Prospect,Is Prospect of,T
+82,Employee,Is Employ of,T
+83,HH Member,Is Member of Household,T
+84,Prospect,Is Prospect of,T
+85,HH Member,Is Member of Household,T
+86,Employee,Is Employ of,T
+87,Prospect,Is Prospect of,T
+88,Prospect,Is Prospect of,T
+89,Prospect,Is Prospect of,T
+90,HH Member,Is Member of Household,T
+91,Employee,Is Employ of,T
+92,Prospect,Is Prospect of,T
+93,Prospect,Is Prospect of,T
+94,Customer,Is Customer of,T
+95,Prospect,Is Prospect of,T
+96,Customer,Is Customer of,T
+97,HH Member,Is Member of Household,T
+98,Customer,Is Customer of,T
+99,Customer,Is Customer of,T
+100,Employee,Is Employ of,T
+101,Employee,Is Employ of,T
+102,Prospect,Is Prospect of,T
+103,Prospect,Is Prospect of,T
+104,Prospect,Is Prospect of,T
+105,HH Member,Is Member of Household,T
+106,Employee,Is Employ of,T
+107,Customer,Is Customer of,T
+108,HH Member,Is Member of Household,T
+109,Customer,Is Customer of,T
+110,Employee,Is Employ of,T
+111,Prospect,Is Prospect of,T
+112,HH Member,Is Member of Household,T
+113,Prospect,Is Prospect of,T
+114,HH Member,Is Member of Household,T
+115,Employee,Is Employ of,T
+116,Employee,Is Employ of,T
+117,Customer,Is Customer of,T
+118,Customer,Is Customer of,T
+119,Customer,Is Customer of,T
+120,HH Member,Is Member of Household,T
+121,Prospect,Is Prospect of,T
+122,HH Member,Is Member of Household,T
+123,HH Member,Is Member of Household,T
+124,Customer,Is Customer of,T
+125,Prospect,Is Prospect of,T
+126,Employee,Is Employ of,T
+127,Employee,Is Employ of,T
+128,HH Member,Is Member of Household,T
+129,Employee,Is Employ of,T
+130,HH Member,Is Member of Household,T
+131,Prospect,Is Prospect of,T
+132,Customer,Is Customer of,T
+133,HH Member,Is Member of Household,T
+134,HH Member,Is Member of Household,T
+135,HH Member,Is Member of Household,T
+136,Customer,Is Customer of,T
+137,Prospect,Is Prospect of,T
+138,Prospect,Is Prospect of,T
+139,HH Member,Is Member of Household,T
+140,Prospect,Is Prospect of,T
+141,HH Member,Is Member of Household,T
+142,Prospect,Is Prospect of,T
+143,Prospect,Is Prospect of,T
+144,Employee,Is Employ of,T
+145,Employee,Is Employ of,T
+146,Prospect,Is Prospect of,T
+147,Employee,Is Employ of,T
+148,Customer,Is Customer of,T
+149,Employee,Is Employ of,T
+150,Employee,Is Employ of,T
+151,Employee,Is Employ of,T
+152,Customer,Is Customer of,T
+153,Customer,Is Customer of,T
+154,Customer,Is Customer of,T
+155,HH Member,Is Member of Household,T
+156,Employee,Is Employ of,T
+157,HH Member,Is Member of Household,T
+158,Prospect,Is Prospect of,T
+159,Prospect,Is Prospect of,T
+160,Employee,Is Employ of,T
+161,HH Member,Is Member of Household,T
+162,Prospect,Is Prospect of,T
+163,Customer,Is Customer of,T
+164,Prospect,Is Prospect of,T
+165,Employee,Is Employ of,T
+166,Customer,Is Customer of,T
+167,Employee,Is Employ of,T
+168,Customer,Is Customer of,T
+169,Customer,Is Customer of,T
+170,Customer,Is Customer of,T
+171,Customer,Is Customer of,T
+172,HH Member,Is Member of Household,T
+173,Customer,Is Customer of,T
+174,Customer,Is Customer of,T
+175,Prospect,Is Prospect of,T
+176,Prospect,Is Prospect of,T
+177,HH Member,Is Member of Household,T
+178,Employee,Is Employ of,T
+179,Employee,Is Employ of,T
+180,Employee,Is Employ of,T
+181,Prospect,Is Prospect of,T
+182,Prospect,Is Prospect of,T
+183,Prospect,Is Prospect of,T
+184,Customer,Is Customer of,T
+185,Customer,Is Customer of,T
+186,HH Member,Is Member of Household,T
+187,Employee,Is Employ of,T
+188,Employee,Is Employ of,T
+189,Employee,Is Employ of,T
+190,Employee,Is Employ of,T
+191,Prospect,Is Prospect of,T
+192,Prospect,Is Prospect of,T
+193,Prospect,Is Prospect of,T
+194,Prospect,Is Prospect of,T
+195,Employee,Is Employ of,T
+196,Prospect,Is Prospect of,T
+197,HH Member,Is Member of Household,T
+198,HH Member,Is Member of Household,T
+199,Customer,Is Customer of,T
+200,Prospect,Is Prospect of,T
+201,Prospect,Is Prospect of,T
+202,Prospect,Is Prospect of,T
+203,Customer,Is Customer of,T
+204,Employee,Is Employ of,T
+205,Employee,Is Employ of,T
+206,HH Member,Is Member of Household,T
+207,Employee,Is Employ of,T
+208,Employee,Is Employ of,T
+209,Employee,Is Employ of,T
+210,Customer,Is Customer of,T
+211,Prospect,Is Prospect of,T
+212,HH Member,Is Member of Household,T
+213,Prospect,Is Prospect of,T
+214,Customer,Is Customer of,T
+215,Prospect,Is Prospect of,T
+216,Employee,Is Employ of,T
+217,HH Member,Is Member of Household,T
+218,Customer,Is Customer of,T
+219,HH Member,Is Member of Household,T
+220,Prospect,Is Prospect of,T
+221,Prospect,Is Prospect of,T
+222,Prospect,Is Prospect of,T
+223,Employee,Is Employ of,T
+224,HH Member,Is Member of Household,T
+225,Customer,Is Customer of,T
+226,HH Member,Is Member of Household,T
+227,Prospect,Is Prospect of,T
+228,Employee,Is Employ of,T
+229,Employee,Is Employ of,T
+230,Prospect,Is Prospect of,T
+231,HH Member,Is Member of Household,T
+232,Customer,Is Customer of,T
+233,HH Member,Is Member of Household,T
+234,Prospect,Is Prospect of,T
+235,Employee,Is Employ of,T
+236,Prospect,Is Prospect of,T
+237,HH Member,Is Member of Household,T
+238,Prospect,Is Prospect of,T
+239,Customer,Is Customer of,T
+240,Prospect,Is Prospect of,T
+241,Customer,Is Customer of,T
+242,HH Member,Is Member of Household,T
+243,Employee,Is Employ of,T
+244,HH Member,Is Member of Household,T
+245,HH Member,Is Member of Household,T
+246,HH Member,Is Member of Household,T
+247,HH Member,Is Member of Household,T
+248,Employee,Is Employ of,T
+249,Employee,Is Employ of,T
+250,Prospect,Is Prospect of,T
+251,HH Member,Is Member of Household,T
+252,Employee,Is Employ of,T
+253,Prospect,Is Prospect of,T
+254,Customer,Is Customer of,T
+255,HH Member,Is Member of Household,T
+256,Employee,Is Employ of,T
+257,Employee,Is Employ of,T
+258,Employee,Is Employ of,T
+259,Employee,Is Employ of,T
+260,Customer,Is Customer of,T
+261,Employee,Is Employ of,T
+262,Employee,Is Employ of,T
+263,Prospect,Is Prospect of,T
+264,Prospect,Is Prospect of,T
+265,Prospect,Is Prospect of,T
+266,Prospect,Is Prospect of,T
+267,Prospect,Is Prospect of,T
+268,Customer,Is Customer of,T
+269,Customer,Is Customer of,T
+270,Employee,Is Employ of,T
+271,Prospect,Is Prospect of,T
+272,Employee,Is Employ of,T
+273,Employee,Is Employ of,T
+274,Prospect,Is Prospect of,T
+275,Employee,Is Employ of,T
+276,Customer,Is Customer of,T
+277,HH Member,Is Member of Household,T
+278,HH Member,Is Member of Household,T
+279,Prospect,Is Prospect of,T
+280,Customer,Is Customer of,T
+281,HH Member,Is Member of Household,T
+282,Employee,Is Employ of,T
+283,Customer,Is Customer of,T
+284,HH Member,Is Member of Household,T
+285,Employee,Is Employ of,T
+286,Prospect,Is Prospect of,T
+287,Prospect,Is Prospect of,T
+288,HH Member,Is Member of Household,T
+289,Customer,Is Customer of,T
+290,HH Member,Is Member of Household,T
+291,Prospect,Is Prospect of,T
+292,Customer,Is Customer of,T
+293,Prospect,Is Prospect of,T
+294,Employee,Is Employ of,T
+295,Customer,Is Customer of,T
+296,HH Member,Is Member of Household,T
+297,Prospect,Is Prospect of,T
+298,Employee,Is Employ of,T
+299,Employee,Is Employ of,T
+300,HH Member,Is Member of Household,T
+301,Customer,Is Customer of,T
+302,HH Member,Is Member of Household,T
+303,HH Member,Is Member of Household,T
+304,Prospect,Is Prospect of,T
+305,Customer,Is Customer of,T
+306,Customer,Is Customer of,T
+307,Prospect,Is Prospect of,T
+308,HH Member,Is Member of Household,T
+309,Prospect,Is Prospect of,T
+310,Prospect,Is Prospect of,T
+311,Prospect,Is Prospect of,T
+312,Employee,Is Employ of,T
+313,Customer,Is Customer of,T
+314,HH Member,Is Member of Household,T
+315,Employee,Is Employ of,T
+316,Employee,Is Employ of,T
+317,Prospect,Is Prospect of,T
+318,Prospect,Is Prospect of,T
+319,HH Member,Is Member of Household,T
+320,Customer,Is Customer of,T
+321,HH Member,Is Member of Household,T
+322,Prospect,Is Prospect of,T
+323,Customer,Is Customer of,T
+324,Prospect,Is Prospect of,T
+325,Customer,Is Customer of,T
+326,Customer,Is Customer of,T
+327,Customer,Is Customer of,T
+328,Prospect,Is Prospect of,T
+329,Employee,Is Employ of,T
+330,Prospect,Is Prospect of,T
+331,Prospect,Is Prospect of,T
+332,Employee,Is Employ of,T
+333,Customer,Is Customer of,T
+334,HH Member,Is Member of Household,T
+335,Prospect,Is Prospect of,T
+336,Employee,Is Employ of,T
+337,Customer,Is Customer of,T
+338,Customer,Is Customer of,T
+339,Prospect,Is Prospect of,T
+340,HH Member,Is Member of Household,T
+341,Prospect,Is Prospect of,T
+342,Prospect,Is Prospect of,T
+343,Customer,Is Customer of,T
+344,Customer,Is Customer of,T
+345,HH Member,Is Member of Household,T
+346,Employee,Is Employ of,T
+347,HH Member,Is Member of Household,T
+348,Prospect,Is Prospect of,T
+349,Customer,Is Customer of,T
+350,Customer,Is Customer of,T
+351,Prospect,Is Prospect of,T
+352,HH Member,Is Member of Household,T
+353,Prospect,Is Prospect of,T
+354,Prospect,Is Prospect of,T
+355,HH Member,Is Member of Household,T
+356,Employee,Is Employ of,T
+357,Employee,Is Employ of,T
+358,Prospect,Is Prospect of,T
+359,HH Member,Is Member of Household,T
+360,Customer,Is Customer of,T
+361,Customer,Is Customer of,T
+362,Prospect,Is Prospect of,T
+363,Employee,Is Employ of,T
+364,Prospect,Is Prospect of,T
+365,Customer,Is Customer of,T
+366,Prospect,Is Prospect of,T
+367,Employee,Is Employ of,T
+368,HH Member,Is Member of Household,T
+369,Customer,Is Customer of,T
+370,Customer,Is Customer of,T
+371,Employee,Is Employ of,T
+372,Prospect,Is Prospect of,T
+373,Customer,Is Customer of,T
+374,Prospect,Is Prospect of,T
+375,Prospect,Is Prospect of,T
+376,Customer,Is Customer of,T
+377,Customer,Is Customer of,T
+378,HH Member,Is Member of Household,T
+379,Prospect,Is Prospect of,T
+380,Customer,Is Customer of,T
+381,Prospect,Is Prospect of,T
+382,Customer,Is Customer of,T
+383,Prospect,Is Prospect of,T
+384,Employee,Is Employ of,T
+385,Customer,Is Customer of,T
+386,Customer,Is Customer of,T
+387,HH Member,Is Member of Household,T
+388,HH Member,Is Member of Household,T
+389,Customer,Is Customer of,T
+390,Employee,Is Employ of,T
+391,Customer,Is Customer of,T
+392,Prospect,Is Prospect of,T
+393,Customer,Is Customer of,T
+394,Customer,Is Customer of,T
+395,HH Member,Is Member of Household,T
+396,Prospect,Is Prospect of,T
+397,Customer,Is Customer of,T
+398,Customer,Is Customer of,T
+399,Prospect,Is Prospect of,T
+400,Customer,Is Customer of,T
+401,HH Member,Is Member of Household,T
+402,Employee,Is Employ of,T
+403,Customer,Is Customer of,T
+404,HH Member,Is Member of Household,T
+405,HH Member,Is Member of Household,T
+406,Prospect,Is Prospect of,T
+407,Employee,Is Employ of,T
+408,Employee,Is Employ of,T
+409,Prospect,Is Prospect of,T
+410,Prospect,Is Prospect of,T
+411,Customer,Is Customer of,T
+412,HH Member,Is Member of Household,T
+413,HH Member,Is Member of Household,T
+414,Customer,Is Customer of,T
+415,Prospect,Is Prospect of,T
+416,Employee,Is Employ of,T
+417,Customer,Is Customer of,T
+418,HH Member,Is Member of Household,T
+419,Employee,Is Employ of,T
+420,Prospect,Is Prospect of,T
+421,HH Member,Is Member of Household,T
+422,Prospect,Is Prospect of,T
+423,Customer,Is Customer of,T
+424,Prospect,Is Prospect of,T
+425,Customer,Is Customer of,T
+426,Prospect,Is Prospect of,T
+427,Prospect,Is Prospect of,T
+428,HH Member,Is Member of Household,T
+429,Employee,Is Employ of,T
+430,Employee,Is Employ of,T
+431,Employee,Is Employ of,T
+432,Employee,Is Employ of,T
+433,HH Member,Is Member of Household,T
+434,Customer,Is Customer of,T
+435,Customer,Is Customer of,T
+436,HH Member,Is Member of Household,T
+437,Employee,Is Employ of,T
+438,Customer,Is Customer of,T
+439,Customer,Is Customer of,T
+440,Employee,Is Employ of,T
+441,Prospect,Is Prospect of,T
+442,Employee,Is Employ of,T
+443,Prospect,Is Prospect of,T
+444,Customer,Is Customer of,T
+445,Prospect,Is Prospect of,T
+446,Prospect,Is Prospect of,T
+447,Prospect,Is Prospect of,T
+448,Employee,Is Employ of,T
+449,Customer,Is Customer of,T
+450,Employee,Is Employ of,T
+451,Employee,Is Employ of,T
+452,Customer,Is Customer of,T
+453,Prospect,Is Prospect of,T
+454,Customer,Is Customer of,T
+455,HH Member,Is Member of Household,T
+456,Employee,Is Employ of,T
+457,HH Member,Is Member of Household,T
+458,HH Member,Is Member of Household,T
+459,HH Member,Is Member of Household,T
+460,HH Member,Is Member of Household,T
+461,Prospect,Is Prospect of,T
+462,Employee,Is Employ of,T
+463,Employee,Is Employ of,T
+464,Employee,Is Employ of,T
+465,HH Member,Is Member of Household,T
+466,Prospect,Is Prospect of,T
+467,HH Member,Is Member of Household,T
+468,HH Member,Is Member of Household,T
+469,Prospect,Is Prospect of,T
+470,Customer,Is Customer of,T
+471,Customer,Is Customer of,T
+472,Employee,Is Employ of,T
+473,Customer,Is Customer of,T
+474,Employee,Is Employ of,T
+475,Customer,Is Customer of,T
+476,Customer,Is Customer of,T
+477,HH Member,Is Member of Household,T
+478,HH Member,Is Member of Household,T
+479,Prospect,Is Prospect of,T
+480,HH Member,Is Member of Household,T
+481,Employee,Is Employ of,T
+482,HH Member,Is Member of Household,T
+483,HH Member,Is Member of Household,T
+484,Prospect,Is Prospect of,T
+485,HH Member,Is Member of Household,T
+486,Customer,Is Customer of,T
+487,HH Member,Is Member of Household,T
+488,Employee,Is Employ of,T
+489,Prospect,Is Prospect of,T
+490,Customer,Is Customer of,T
+491,Prospect,Is Prospect of,T
+492,Prospect,Is Prospect of,T
+493,HH Member,Is Member of Household,T
+494,Customer,Is Customer of,T
+495,HH Member,Is Member of Household,T
+496,Prospect,Is Prospect of,T
+497,HH Member,Is Member of Household,T
+498,HH Member,Is Member of Household,T
+499,Prospect,Is Prospect of,T
+500,Prospect,Is Prospect of,T
+501,Customer,Is Customer of,T

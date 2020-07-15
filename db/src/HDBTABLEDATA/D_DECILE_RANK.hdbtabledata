@@ -1,0 +1,28 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_DECILE_RANK",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_DECILE_RANK.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "DECILE_RANK_ID"                    : 1,
+            "DECILE_RANK"                       : 2,
+            "DECILE_RANK_DESC"                  : 3,
+            "DECILE_RANK_BAND"                  : 4,
+            "DECILE_PCTL"                       : 5,
+            "DECILE_PCTL_DESC"                  : 6,
+            "DECILE_PCTL_BAND"                  : 7,
+            "DECILE_ALL_ENTR_IN"                : 8
+         
+         }
+      }
+   ]
+}

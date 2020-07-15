@@ -1,0 +1,42 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CORE_PRM_CPGN",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CORE_PRM_CPGN.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRM_CPGN_ID"                       : 1,
+            "CPS_RPT_STRC_ID"                   : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "END_DATE_PRD_ID"                   : 4,
+            "STRTGC_CPGN_ID"                    : 5,
+            "SCHD_BEGIN_DATE"                   : 6,
+            "SCHD_END_DATE"                     : 7,
+            "CPGN_TYPE"                         : 8,
+            "CPGN_NAME"                         : 9,
+            "PRTY_RANKING"                      : 10,
+            "DSR_CUS_TGT_CNT"                   : 11,
+            "ACTL_CUS_TGT_CNT"                  : 12,
+            "BUDGETED_COST"                     : 13,
+            "ACTL_COST"                         : 14,
+            "CPGN_INCENTIVE"                    : 15,
+            "EFF_RATING"                        : 16,
+            "EST_REVENUE"                       : 17,
+            "EST_CUSTOMER"                      : 18,
+            "CR_CUSTOMER"                       : 19,
+            "CR_REVENUE"                        : 20,
+            "SEL_CRITERIA"                      : 21,
+            "CPC_ALL_ENTRIES_IN"                : 22
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CLAIM",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CLAIM.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CLAIM_ID"                          : 1,
+            "CLAIM_NBR"                         : 2,
+            "CLAIM_DESC"                        : 3,
+            "CLAIM_TYPE"                        : 4,
+            "CLM_AMT_BND"                       : 5,
+            "REINS_AMT_BND"                     : 6,
+            "INSC_ALL_ENTR_IND"                 : 7
+         
+         }
+      }
+   ]
+}

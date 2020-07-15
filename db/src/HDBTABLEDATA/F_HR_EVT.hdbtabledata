@@ -1,0 +1,35 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_HR_EVT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_HR_EVT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "COR_EVT_ID"                        : 1,
+            "COR_EVT_SEQ_NBR"                   : 2,
+            "ADMIN_ID"                          : 3,
+            "EVT_EMP_ID"                        : 4,
+            "EVT_EMP_DEMO_ID"                   : 5,
+            "EVT_ADMIN_DEMO_ID"                 : 6,
+            "EMP_ID"                            : 7,
+            "COR_RPT_STRC_ID"                   : 8,
+            "MEASURE_UNIT_ID"                   : 9,
+            "EVT_DT_PRD_ID"                     : 10,
+            "EVT_TYP_ID"                        : 11,
+            "PN_BHVR_SCOR_ID"                   : 12,
+            "GEO_ID"                            : 13,
+            "HEX_QUANTITY"                      : 14,
+            "HEX_COMMENT"                       : 15
+         
+         }
+      }
+   ]
+}

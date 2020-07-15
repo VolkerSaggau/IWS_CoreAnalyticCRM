@@ -1,0 +1,39 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_PRODUCT_OWNSHIP",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_PRODUCT_OWNSHIP.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PD_OWNERSHIP_ID"                   : 1,
+            "INT_CK_IND"                        : 2,
+            "NON_INT_CK_IND"                    : 3,
+            "SAVINGS_IND"                       : 4,
+            "MMA_IND"                           : 5,
+            "CD_IND"                            : 6,
+            "IRA_IND"                           : 7,
+            "PERSONAL_LOAN_IND"                 : 8,
+            "AUTO_LOAN_IND"                     : 9,
+            "MORTGAGE_IND"                      : 10,
+            "HOME_EQUITY_IND"                   : 11,
+            "STUDENT_LOAN_IND"                  : 12,
+            "SPCL_LOAN_IND"                     : 13,
+            "ATM_IND"                           : 14,
+            "OFFLINE_DEBIT_IND"                 : 15,
+            "VISA_IND"                          : 16,
+            "MASTERCARD_IND"                    : 17,
+            "BROKERAGE_IND"                     : 18,
+            "PO_ALL_ENTRIES_IND"                : 19
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,28 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CPGN_CNTC_ISTR",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CPGN_CNTC_ISTR.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CNTC_ISTR_ID"                      : 1,
+            "PREF_CONTACT_MTHD"                 : 2,
+            "PREF_CNTC_TIME"                    : 3,
+            "MAIL_PRMSN_IND"                    : 4,
+            "TELMKT_PRMSN_IND"                  : 5,
+            "EMAIL_PRMSN"                       : 6,
+            "FAX_PRMSN"                         : 7,
+            "CCI_ALL_ENTRIES_IN"                : 8
+         
+         }
+      }
+   ]
+}

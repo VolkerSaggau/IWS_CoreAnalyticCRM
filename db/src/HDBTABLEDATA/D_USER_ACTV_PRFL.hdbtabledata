@@ -1,0 +1,40 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_USER_ACTV_PRFL",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_USER_ACTV_PRFL.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "USER_ACTV_PRFL_ID"                 : 1,
+            "VISIT_IND"                         : 2,
+            "CTLG_RQST_IND"                     : 3,
+            "PD_INFO_RQST_IND"                  : 4,
+            "CUS_SVC_RQST_IND"                  : 5,
+            "PURCHASE_IND"                      : 6,
+            "CUR_NBR_VST_BAND"                  : 7,
+            "NBR_VST_60D_BAND"                  : 8,
+            "NBR_VST_90D_BAND"                  : 9,
+            "CUR_NBR_PRCH_BAND"                 : 10,
+            "NBR_PRCH_60D_BAND"                 : 11,
+            "NBR_PRCH_90D_BAND"                 : 12,
+            "CUR_VST_DRTN_BAND"                 : 13,
+            "VST_DRTN_60D_BAND"                 : 14,
+            "VST_DRTN_90D_BAND"                 : 15,
+            "CUR_PRCH_VAL_BAND"                 : 16,
+            "PRCH_VAL_60D_BAND"                 : 17,
+            "PRCH_VAL_90D_BAND"                 : 18,
+            "LT_PRCH_VAL_BAND"                  : 19,
+            "AVG_PRCH_VAL_BAND"                 : 20
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_CUS_PRM_EXCL",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_CUS_PRM_EXCL.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRM_CPGN_ID"                       : 1,
+            "ENTY_ID"                           : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "END_DATE_PRD_ID"                   : 4,
+            "PRM_EXCL_REASON"                   : 5
+         
+         }
+      }
+   ]
+}

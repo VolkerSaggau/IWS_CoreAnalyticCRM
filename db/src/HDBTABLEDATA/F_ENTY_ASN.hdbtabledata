@@ -1,0 +1,31 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_ENTY_ASN",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_ENTY_ASN.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ENTY_1_ID"                         : 1,
+            "ENTY_2_ID"                         : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "ENTY_ASN_RSN_ID"                   : 4,
+            "END_DATE_PRD_ID"                   : 5,
+            "ENTY_1_ROLE_ID"                    : 6,
+            "ENTY_2_ROLE_ID"                    : 7,
+            "MEASURE_UNIT_ID"                   : 8,
+            "ENTY_ASN_AMT"                      : 9,
+            "ENTY_1_TYPE"                       : 10,
+            "ENTY_2_TYPE"                       : 11
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,31 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_BANNER_AD",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_BANNER_AD.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "BANNER_AD_ID"                      : 1,
+            "BANNER_AD_NAME"                    : 2,
+            "BANNER_AD_CAT"                     : 3,
+            "BANNER_AD_DESC"                    : 4,
+            "BANNER_AD_FORMAT"                  : 5,
+            "BANNER_AD_SHAPE"                   : 6,
+            "BANNER_AD_SIZE"                    : 7,
+            "BANNER_AD_GRPH"                    : 8,
+            "BANNER_AD_COLORS"                  : 9,
+            "BANNER_AD_STYLE"                   : 10,
+            "BANNER_AD_MSG"                     : 11
+         
+         }
+      }
+   ]
+}

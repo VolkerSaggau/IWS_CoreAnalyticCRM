@@ -1,0 +1,36 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_PRODUCT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_PRODUCT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRODUCT_ID"                        : 1,
+            "PD_BEGIN_DATE"                     : 2,
+            "PD_END_DATE"                       : 3,
+            "PRODUCT_ACCT_CLS"                  : 4,
+            "PD_MKT_SEGMENT"                    : 5,
+            "PRODUCT_LINE"                      : 6,
+            "PRODUCT_GROUP"                     : 7,
+            "PRODUCT_CODE"                      : 8,
+            "PRODUCT_NAME"                      : 9,
+            "PRODUCT_TYPE"                      : 10,
+            "PRODUCT_CLASS"                     : 11,
+            "PRODUCT_CATEGORY"                  : 12,
+            "PRODUCT_SUBCATEGOR"                : 13,
+            "PD_VARIANT_CODE"                   : 14,
+            "PRODUCT_VARIANT"                   : 15,
+            "PD_ALL_ENTRIES_IND"                : 16
+         
+         }
+      }
+   ]
+}

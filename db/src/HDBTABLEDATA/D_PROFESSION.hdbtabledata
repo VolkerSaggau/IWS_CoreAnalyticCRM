@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_PROFESSION",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_PROFESSION.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PROFESSION_ID"                     : 1,
+            "PROFESSION_GRP"                    : 2,
+            "PROFESSION_IDST"                   : 3,
+            "PROFESSION_NAME"                   : 4,
+            "PROFESSION_CD"                     : 5,
+            "PROFESSION_TITLE"                  : 6,
+            "PRF_ALL_ENTRIES_IN"                : 7
+         
+         }
+      }
+   ]
+}

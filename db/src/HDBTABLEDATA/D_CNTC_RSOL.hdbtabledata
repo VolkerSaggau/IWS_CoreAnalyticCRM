@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CNTC_RSOL",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CNTC_RSOL.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CNTC_RSOL_ID"                      : 1,
+            "CNTC_RSOL_TYPE"                    : 2,
+            "CNTC_DESCRIPTION"                  : 3,
+            "CR_ALL_ENTRIES_IND"                : 4
+         
+         }
+      }
+   ]
+}

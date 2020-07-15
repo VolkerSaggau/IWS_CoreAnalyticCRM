@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ACCOUNT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ACCOUNT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ACCOUNT_ID"                        : 1,
+            "ACCT_BEGIN_DATE"                   : 2,
+            "ACCT_END_DATE"                     : 3,
+            "ACCOUNT_NUMBER"                    : 4,
+            "ACCOUNT_DESC"                      : 5,
+            "DEROG_CODE"                        : 6,
+            "ACCT_ALL_ENTRIES_I"                : 7
+         
+         }
+      }
+   ]
+}

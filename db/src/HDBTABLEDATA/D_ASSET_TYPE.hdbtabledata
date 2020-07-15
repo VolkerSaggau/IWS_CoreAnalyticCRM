@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ASSET_TYPE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ASSET_TYPE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ASSET_TYPE_ID"                     : 1,
+            "ASSET_TYPE_NAME"                   : 2,
+            "ASSET_TYPE_DESCR"                  : 3,
+            "AT_ALL_ENTR_IND"                   : 4
+         
+         }
+      }
+   ]
+}

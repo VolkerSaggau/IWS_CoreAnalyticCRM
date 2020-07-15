@@ -1,0 +1,6 @@
+1,Active,Transaction Performed,T
+2,Active,Transaction Accepted,T
+3,Active,Transaction Closed,T
+4,Pending,Work in Process,T
+5,Pending,Pending Investigation,T
+6,Other,Miscellaneous,T

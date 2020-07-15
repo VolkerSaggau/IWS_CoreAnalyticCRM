@@ -1,0 +1,512 @@
+1,,Not Implemented,T
+2,,could not fix,T
+3,,could not reach customer,T
+4,,fixed,T
+5,,fixed problems over the phone,T
+6,,Under Review,T
+7,,Implemented,T
+8,,resolved,T
+9,,user error,T
+10,,visited client site,T
+11,T2 ,Replaced,T
+12,T9 ,Fixed,T
+13,T3 ,Closed,T
+14,T5 ,Resolved,T
+15,T3 ,Fixed problem over the phone,T
+16,T1 ,Could not reach customer,T
+17,T3 ,In progress,T
+18,T4 ,Closed,T
+19,T2 ,Visited client site,T
+20,T4 ,Fixed problem over the phone,T
+21,T10,Resolved,T
+22,T4 ,User error,T
+23,T1 ,Fixed,T
+24,T8 ,Closed,T
+25,T3 ,Fixed problem over the phone,T
+26,T6 ,Replaced,T
+27,T10,Could not fix,T
+28,T9 ,Visited client site,T
+29,T3 ,Could not fix,T
+30,T7 ,Fixed,T
+31,T6 ,Could not fix,T
+32,T6 ,Fixed problem over the phone,T
+33,T3 ,Visited client site,T
+34,T7 ,User error,T
+35,T10,Resolved,T
+36,T1 ,Replaced,T
+37,T4 ,Could not fix,T
+38,T3 ,User error,T
+39,T9 ,User error,T
+40,T8 ,In progress,T
+41,T8 ,Closed,T
+42,T7 ,Resolved,T
+43,T6 ,Replaced,T
+44,T1 ,Closed,T
+45,T10,Closed,T
+46,T3 ,Visited client site,T
+47,T10,Resolved,T
+48,T6 ,In progress,T
+49,T9 ,Could not reach customer,T
+50,T1 ,Could not fix,T
+51,T8 ,In progress,T
+52,T9 ,Fixed,T
+53,T5 ,Could not reach customer,T
+54,T6 ,User error,T
+55,T3 ,Could not reach customer,T
+56,T2 ,In progress,T
+57,T4 ,User error,T
+58,T5 ,Closed,T
+59,T3 ,Could not fix,T
+60,T7 ,Could not fix,T
+61,T9 ,Could not reach customer,T
+62,T10,Fixed problem over the phone,T
+63,T3 ,Could not fix,T
+64,T3 ,Closed,T
+65,T1 ,Fixed,T
+66,T7 ,Closed,T
+67,T10,Closed,T
+68,T6 ,Replaced,T
+69,T3 ,Fixed problem over the phone,T
+70,T8 ,Closed,T
+71,T3 ,Replaced,T
+72,T9 ,Replaced,T
+73,T7 ,Could not fix,T
+74,T3 ,User error,T
+75,T6 ,Replaced,T
+76,T4 ,Visited client site,T
+77,T10,Could not reach customer,T
+78,T9 ,Resolved,T
+79,T3 ,Fixed,T
+80,T3 ,Could not fix,T
+81,T7 ,Fixed problem over the phone,T
+82,T6 ,Visited client site,T
+83,T7 ,Fixed,T
+84,T10,Could not reach customer,T
+85,T1 ,Could not fix,T
+86,T9 ,In progress,T
+87,T1 ,Fixed problem over the phone,T
+88,T3 ,User error,T
+89,T3 ,Fixed,T
+90,T2 ,In progress,T
+91,T3 ,Could not reach customer,T
+92,T1 ,Resolved,T
+93,T9 ,Closed,T
+94,T5 ,User error,T
+95,T1 ,User error,T
+96,T8 ,User error,T
+97,T8 ,Resolved,T
+98,T7 ,Resolved,T
+99,T1 ,Visited client site,T
+100,T10,User error,T
+101,T8 ,Could not fix,T
+102,T3 ,Could not reach customer,T
+103,T2 ,Closed,T
+104,T2 ,Fixed problem over the phone,T
+105,T2 ,In progress,T
+106,T10,User error,T
+107,T10,Closed,T
+108,T7 ,User error,T
+109,T4 ,User error,T
+110,T6 ,Could not reach customer,T
+111,T5 ,Resolved,T
+112,T5 ,In progress,T
+113,T4 ,User error,T
+114,T8 ,Replaced,T
+115,T2 ,Visited client site,T
+116,T7 ,Could not reach customer,T
+117,T4 ,Replaced,T
+118,T5 ,Resolved,T
+119,T7 ,User error,T
+120,T6 ,Replaced,T
+121,T4 ,In progress,T
+122,T7 ,Fixed problem over the phone,T
+123,T6 ,In progress,T
+124,T4 ,Could not fix,T
+125,T8 ,Fixed problem over the phone,T
+126,T2 ,In progress,T
+127,T9 ,In progress,T
+128,T7 ,Visited client site,T
+129,T1 ,User error,T
+130,T5 ,Fixed problem over the phone,T
+131,T1 ,In progress,T
+132,T4 ,User error,T
+133,T1 ,Could not reach customer,T
+134,T10,Replaced,T
+135,T8 ,In progress,T
+136,T10,Fixed problem over the phone,T
+137,T7 ,Fixed,T
+138,T10,Visited client site,T
+139,T5 ,In progress,T
+140,T10,In progress,T
+141,T4 ,In progress,T
+142,T4 ,Could not fix,T
+143,T6 ,Fixed problem over the phone,T
+144,T3 ,Could not reach customer,T
+145,T10,Fixed problem over the phone,T
+146,T6 ,Visited client site,T
+147,T6 ,Replaced,T
+148,T7 ,Could not reach customer,T
+149,T4 ,User error,T
+150,T7 ,In progress,T
+151,T7 ,Replaced,T
+152,T4 ,In progress,T
+153,T3 ,Visited client site,T
+154,T4 ,In progress,T
+155,T1 ,Fixed problem over the phone,T
+156,T1 ,Replaced,T
+157,T2 ,In progress,T
+158,T5 ,In progress,T
+159,T7 ,In progress,T
+160,T3 ,Resolved,T
+161,T5 ,Fixed,T
+162,T1 ,Fixed,T
+163,T7 ,In progress,T
+164,T5 ,User error,T
+165,T5 ,User error,T
+166,T5 ,Fixed problem over the phone,T
+167,T3 ,Closed,T
+168,T2 ,Closed,T
+169,T8 ,Closed,T
+170,T1 ,Could not fix,T
+171,T10,Could not reach customer,T
+172,T9 ,Fixed,T
+173,T8 ,Fixed,T
+174,T2 ,Could not fix,T
+175,T2 ,In progress,T
+176,T9 ,Could not fix,T
+177,T3 ,Could not fix,T
+178,T6 ,Could not reach customer,T
+179,T5 ,User error,T
+180,T4 ,Replaced,T
+181,T2 ,Resolved,T
+182,T8 ,Resolved,T
+183,T6 ,Replaced,T
+184,T9 ,Could not reach customer,T
+185,T5 ,User error,T
+186,T8 ,Could not reach customer,T
+187,T7 ,Could not fix,T
+188,T2 ,Fixed problem over the phone,T
+189,T8 ,Fixed problem over the phone,T
+190,T1 ,Could not reach customer,T
+191,T7 ,Could not fix,T
+192,T2 ,User error,T
+193,T6 ,Fixed problem over the phone,T
+194,T1 ,Resolved,T
+195,T4 ,Could not reach customer,T
+196,T9 ,Resolved,T
+197,T1 ,Replaced,T
+198,T6 ,Replaced,T
+199,T8 ,Fixed problem over the phone,T
+200,T8 ,Fixed,T
+201,T7 ,Fixed problem over the phone,T
+202,T2 ,Resolved,T
+203,T1 ,Fixed,T
+204,T10,In progress,T
+205,T5 ,Closed,T
+206,T10,Fixed problem over the phone,T
+207,T5 ,Could not reach customer,T
+208,T3 ,Could not reach customer,T
+209,T4 ,Resolved,T
+210,T4 ,In progress,T
+211,T1 ,Resolved,T
+212,T1 ,Fixed problem over the phone,T
+213,T7 ,Replaced,T
+214,T4 ,User error,T
+215,T6 ,Fixed problem over the phone,T
+216,T3 ,Fixed,T
+217,T3 ,Could not reach customer,T
+218,T5 ,User error,T
+219,T4 ,Fixed problem over the phone,T
+220,T5 ,Resolved,T
+221,T9 ,Could not reach customer,T
+222,T7 ,Could not fix,T
+223,T2 ,Could not reach customer,T
+224,T7 ,Could not fix,T
+225,T2 ,Could not fix,T
+226,T9 ,Could not reach customer,T
+227,T2 ,Could not fix,T
+228,T6 ,Visited client site,T
+229,T1 ,Could not fix,T
+230,T1 ,Closed,T
+231,T8 ,In progress,T
+232,T8 ,Could not fix,T
+233,T7 ,Could not reach customer,T
+234,T8 ,User error,T
+235,T10,Visited client site,T
+236,T7 ,Replaced,T
+237,T10,Resolved,T
+238,T6 ,Could not reach customer,T
+239,T2 ,In progress,T
+240,T1 ,User error,T
+241,T8 ,Fixed problem over the phone,T
+242,T5 ,Replaced,T
+243,T1 ,Could not reach customer,T
+244,T9 ,In progress,T
+245,T5 ,Visited client site,T
+246,T1 ,Resolved,T
+247,T4 ,Fixed problem over the phone,T
+248,T10,Could not reach customer,T
+249,T3 ,In progress,T
+250,T3 ,Resolved,T
+251,T5 ,In progress,T
+252,T2 ,Visited client site,T
+253,T3 ,Visited client site,T
+254,T9 ,Could not reach customer,T
+255,T9 ,User error,T
+256,T3 ,Could not fix,T
+257,T5 ,Replaced,T
+258,T5 ,Visited client site,T
+259,T1 ,User error,T
+260,T6 ,Fixed,T
+261,T7 ,User error,T
+262,T7 ,Fixed,T
+263,T1 ,Fixed problem over the phone,T
+264,T5 ,Resolved,T
+265,T8 ,Fixed,T
+266,T1 ,Replaced,T
+267,T10,Replaced,T
+268,T10,Could not reach customer,T
+269,T4 ,Fixed,T
+270,T2 ,User error,T
+271,T2 ,Resolved,T
+272,T1 ,Closed,T
+273,T5 ,Closed,T
+274,T2 ,Visited client site,T
+275,T8 ,Fixed,T
+276,T2 ,Could not reach customer,T
+277,T1 ,Closed,T
+278,T1 ,Could not fix,T
+279,T5 ,Replaced,T
+280,T5 ,Resolved,T
+281,T2 ,Replaced,T
+282,T5 ,Closed,T
+283,T6 ,Fixed,T
+284,T5 ,User error,T
+285,T4 ,Could not reach customer,T
+286,T1 ,User error,T
+287,T10,Fixed,T
+288,T2 ,Visited client site,T
+289,T6 ,Fixed problem over the phone,T
+290,T4 ,User error,T
+291,T3 ,Fixed problem over the phone,T
+292,T10,Could not reach customer,T
+293,T2 ,Closed,T
+294,T2 ,Resolved,T
+295,T3 ,Could not fix,T
+296,T8 ,User error,T
+297,T7 ,Could not reach customer,T
+298,T5 ,Fixed,T
+299,T2 ,Resolved,T
+300,T10,Could not fix,T
+301,T2 ,Could not reach customer,T
+302,T10,Visited client site,T
+303,T1 ,Fixed problem over the phone,T
+304,T7 ,Visited client site,T
+305,T7 ,Could not reach customer,T
+306,T9 ,Resolved,T
+307,T2 ,Resolved,T
+308,T10,Could not fix,T
+309,T2 ,Replaced,T
+310,T7 ,Could not reach customer,T
+311,T3 ,Resolved,T
+312,T9 ,Replaced,T
+313,T2 ,Could not fix,T
+314,T8 ,User error,T
+315,T1 ,User error,T
+316,T10,Closed,T
+317,T9 ,Fixed problem over the phone,T
+318,T4 ,Closed,T
+319,T7 ,Closed,T
+320,T10,Closed,T
+321,T8 ,Replaced,T
+322,T6 ,In progress,T
+323,T3 ,Could not fix,T
+324,T7 ,Fixed problem over the phone,T
+325,T5 ,Could not reach customer,T
+326,T2 ,In progress,T
+327,T5 ,Replaced,T
+328,T5 ,Replaced,T
+329,T10,Fixed,T
+330,T3 ,Visited client site,T
+331,T10,Could not reach customer,T
+332,T7 ,Fixed problem over the phone,T
+333,T9 ,Resolved,T
+334,T4 ,Replaced,T
+335,T2 ,Fixed problem over the phone,T
+336,T8 ,Visited client site,T
+337,T9 ,Fixed,T
+338,T2 ,Closed,T
+339,T3 ,Fixed problem over the phone,T
+340,T8 ,Visited client site,T
+341,T4 ,Closed,T
+342,T4 ,User error,T
+343,T10,Resolved,T
+344,T2 ,Could not reach customer,T
+345,T9 ,User error,T
+346,T8 ,User error,T
+347,T10,In progress,T
+348,T8 ,Fixed problem over the phone,T
+349,T10,Closed,T
+350,T1 ,Fixed,T
+351,T1 ,Replaced,T
+352,T2 ,In progress,T
+353,T1 ,Could not reach customer,T
+354,T6 ,Resolved,T
+355,T8 ,Replaced,T
+356,T7 ,Visited client site,T
+357,T10,Replaced,T
+358,T8 ,Fixed,T
+359,T10,Closed,T
+360,T10,Visited client site,T
+361,T7 ,In progress,T
+362,T9 ,Fixed,T
+363,T6 ,Closed,T
+364,T4 ,User error,T
+365,T2 ,Could not fix,T
+366,T3 ,Could not fix,T
+367,T7 ,Could not fix,T
+368,T8 ,Could not fix,T
+369,T9 ,Could not reach customer,T
+370,T6 ,In progress,T
+371,T2 ,Visited client site,T
+372,T5 ,Fixed problem over the phone,T
+373,T1 ,Visited client site,T
+374,T7 ,Fixed,T
+375,T7 ,Could not fix,T
+376,T5 ,Fixed problem over the phone,T
+377,T8 ,Fixed,T
+378,T10,Fixed,T
+379,T1 ,Could not reach customer,T
+380,T5 ,Fixed problem over the phone,T
+381,T9 ,Fixed problem over the phone,T
+382,T8 ,Fixed,T
+383,T3 ,In progress,T
+384,T10,Fixed problem over the phone,T
+385,T7 ,Could not reach customer,T
+386,T2 ,Could not fix,T
+387,T4 ,Fixed problem over the phone,T
+388,T9 ,Fixed problem over the phone,T
+389,T9 ,Could not reach customer,T
+390,T5 ,Fixed,T
+391,T6 ,Replaced,T
+392,T2 ,Could not reach customer,T
+393,T6 ,Could not reach customer,T
+394,T7 ,Could not reach customer,T
+395,T7 ,Fixed problem over the phone,T
+396,T2 ,Resolved,T
+397,T1 ,Fixed,T
+398,T3 ,Fixed problem over the phone,T
+399,T10,Closed,T
+400,T5 ,Resolved,T
+401,T9 ,Visited client site,T
+402,T2 ,User error,T
+403,T4 ,In progress,T
+404,T7 ,Could not fix,T
+405,T9 ,Resolved,T
+406,T2 ,Visited client site,T
+407,T10,Resolved,T
+408,T3 ,Fixed problem over the phone,T
+409,T4 ,In progress,T
+410,T10,Replaced,T
+411,T6 ,Fixed problem over the phone,T
+412,T3 ,Fixed,T
+413,T6 ,Closed,T
+414,T5 ,Fixed,T
+415,T3 ,Visited client site,T
+416,T1 ,Replaced,T
+417,T5 ,Closed,T
+418,T8 ,Visited client site,T
+419,T8 ,Closed,T
+420,T5 ,Fixed,T
+421,T5 ,Replaced,T
+422,T1 ,Could not reach customer,T
+423,T2 ,Could not fix,T
+424,T2 ,In progress,T
+425,T1 ,User error,T
+426,T9 ,Could not fix,T
+427,T9 ,Replaced,T
+428,T1 ,Visited client site,T
+429,T5 ,Replaced,T
+430,T5 ,Fixed,T
+431,T9 ,Resolved,T
+432,T8 ,Resolved,T
+433,T7 ,Fixed problem over the phone,T
+434,T8 ,Resolved,T
+435,T1 ,Resolved,T
+436,T4 ,Replaced,T
+437,T9 ,Fixed problem over the phone,T
+438,T1 ,Resolved,T
+439,T4 ,Fixed problem over the phone,T
+440,T2 ,Replaced,T
+441,T3 ,In progress,T
+442,T4 ,Fixed problem over the phone,T
+443,T6 ,Visited client site,T
+444,T7 ,Replaced,T
+445,T9 ,Fixed problem over the phone,T
+446,T5 ,User error,T
+447,T3 ,Resolved,T
+448,T6 ,In progress,T
+449,T10,Visited client site,T
+450,T6 ,User error,T
+451,T5 ,Fixed problem over the phone,T
+452,T1 ,Fixed problem over the phone,T
+453,T5 ,In progress,T
+454,T6 ,Closed,T
+455,T2 ,Could not reach customer,T
+456,T10,Visited client site,T
+457,T10,Visited client site,T
+458,T7 ,Fixed,T
+459,T1 ,Fixed,T
+460,T1 ,Fixed,T
+461,T6 ,Visited client site,T
+462,T7 ,Visited client site,T
+463,T10,Replaced,T
+464,T2 ,User error,T
+465,T9 ,Closed,T
+466,T8 ,Visited client site,T
+467,T9 ,Resolved,T
+468,T9 ,Fixed problem over the phone,T
+469,T2 ,In progress,T
+470,T5 ,Visited client site,T
+471,T4 ,Closed,T
+472,T4 ,Could not fix,T
+473,T9 ,Resolved,T
+474,T8 ,Closed,T
+475,T7 ,Closed,T
+476,T8 ,User error,T
+477,T4 ,Could not reach customer,T
+478,T5 ,Replaced,T
+479,T2 ,Closed,T
+480,T2 ,Fixed problem over the phone,T
+481,T8 ,Replaced,T
+482,T8 ,Could not fix,T
+483,T3 ,Replaced,T
+484,T1 ,User error,T
+485,T5 ,Replaced,T
+486,T3 ,Resolved,T
+487,T6 ,Closed,T
+488,T6 ,Could not fix,T
+489,T4 ,Could not reach customer,T
+490,T9 ,Visited client site,T
+491,T10,Resolved,T
+492,T7 ,Visited client site,T
+493,T10,Could not reach customer,T
+494,T9 ,Fixed,T
+495,T1 ,Replaced,T
+496,T1 ,User error,T
+497,T9 ,Fixed problem over the phone,T
+498,T5 ,Could not reach customer,T
+499,T1 ,Could not fix,T
+500,T5 ,User error,T
+501,T4 ,Closed,T
+502,T10,Closed,T
+503,T1 ,Resolved,T
+504,T5 ,Resolved,T
+505,T7 ,Could not reach customer,T
+506,T8 ,Closed,T
+507,T5 ,In progress,T
+508,T2 ,Fixed,T
+509,T6 ,Could not reach customer,T
+510,T1 ,User error,T
+511,T2 ,Implemented,T
+512,T9 ,Rejected,T

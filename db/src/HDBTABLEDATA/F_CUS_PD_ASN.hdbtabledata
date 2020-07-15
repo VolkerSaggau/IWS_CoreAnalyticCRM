@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_CUS_PD_ASN",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_CUS_PD_ASN.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRODUCT_ID"                        : 1,
+            "ENTY_ID"                           : 2,
+            "QUANTITY"                          : 3,
+            "BEGIN_DATE_PRD_ID"                 : 4,
+            "END_DATE_PRD_ID"                   : 5
+         
+         }
+      }
+   ]
+}

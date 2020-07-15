@@ -1,0 +1,36 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_INTL_ACCOUNT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_INTL_ACCOUNT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "INTL_ACCT_ID"                      : 1,
+            "INTL_ACCT_NBR"                     : 2,
+            "ACCT_SYS_CD"                       : 3,
+            "ACCT_SYS_NM"                       : 4,
+            "ACCT_START_DT"                     : 5,
+            "ACCT_END_DT"                       : 6,
+            "ACCT_RPT_TYPE"                     : 7,
+            "LEDGER_NM"                         : 8,
+            "SUBLEDGER_NM"                      : 9,
+            "ACCT_TYPE"                         : 10,
+            "ACCT_CLS"                          : 11,
+            "ACCT_CAT"                          : 12,
+            "CPTL_PROJ_IND"                     : 13,
+            "CPTL_PROJ_NM"                      : 14,
+            "ACCT_PROD_NAME"                    : 15,
+            "IA_ALL_ENTR_IND"                   : 16
+         
+         }
+      }
+   ]
+}

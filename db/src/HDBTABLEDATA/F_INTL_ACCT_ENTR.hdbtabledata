@@ -1,0 +1,41 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_INTL_ACCT_ENTR",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_INTL_ACCT_ENTR.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "INTL_ACCT_ENTR_ID"                 : 1,
+            "INTL_ACCT_ID"                      : 2,
+            "PRD_ID"                            : 3,
+            "DOC_TYPE_ID"                       : 4,
+            "REF_ISO_CRCY_ID"                   : 5,
+            "ISO_CRCY_ID"                       : 6,
+            "MEASURE_UNIT_ID"                   : 7,
+            "COR_RPT_STRC_ID"                   : 8,
+            "ASSET_TYPE_ID"                     : 9,
+            "INTL_ACCT_ENTR_NBR"                : 10,
+            "ACCT_SYSTEM_CODE"                  : 11,
+            "ENTRY_TYPE"                        : 12,
+            "ENTRY_DEBIT_CREDIT"                : 13,
+            "DOC_REF_NBR"                       : 14,
+            "DOC_LINE_NUM"                      : 15,
+            "TAXABLE_ENTRY"                     : 16,
+            "ASSET_IND"                         : 17,
+            "ASSET_NBR"                         : 18,
+            "ACE_QUANTITY"                      : 19,
+            "ACCT_ENTRY_AMT"                    : 20,
+            "REF_ACCT_ENTRY_AMT"                : 21
+         
+         }
+      }
+   ]
+}

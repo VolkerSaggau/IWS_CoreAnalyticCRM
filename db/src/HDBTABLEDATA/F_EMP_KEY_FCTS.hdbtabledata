@@ -1,0 +1,34 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_EMP_KEY_FCTS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_EMP_KEY_FCTS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "EMP_ID"                            : 1,
+            "LAST_HIRE_PRD_ID"                  : 2,
+            "LAST_TERM_PRD_ID"                  : 3,
+            "BEGIN_DATE_PRD_ID"                 : 4,
+            "END_DATE_PRD_ID"                   : 5,
+            "LAST_RVW_PRD_ID"                   : 6,
+            "REHIRE_IND"                        : 7,
+            "WK_IN_LAST_RVW_PRD"                : 8,
+            "LAST_INCMT_AMT"                    : 9,
+            "PAY_SCAL_PERCENTIL"                : 10,
+            "LAST_PRFM_RATING"                  : 11,
+            "EMPLOYEE_GRADE"                    : 12,
+            "EMPLOYEE_TITLE"                    : 13,
+            "PRM_IND"                           : 14
+         
+         }
+      }
+   ]
+}

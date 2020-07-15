@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CURRENCY",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CURRENCY.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ISO_CRCY_ID"                       : 1,
+            "SHORT_NAME"                        : 2,
+            "LONG_NAME"                         : 3,
+            "COUNTRY_NAME"                      : 4,
+            "ISO_NUMERIC_CODE"                  : 5,
+            "ISO_ALPHA_CODE"                    : 6,
+            "ISO_ALL_ENTR_IND"                  : 7
+         
+         }
+      }
+   ]
+}

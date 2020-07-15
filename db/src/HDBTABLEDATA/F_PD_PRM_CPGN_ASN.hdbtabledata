@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_PD_PRM_CPGN_ASN",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_PD_PRM_CPGN_ASN.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRM_EPSD_ID"                       : 1,
+            "PRODUCT_ID"                        : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "END_DATE_PRD_ID"                   : 4,
+            "PRODUCT_GROUP"                     : 5,
+            "PRODUCT_NAME"                      : 6,
+            "EPSD_NAME"                         : 7
+         
+         }
+      }
+   ]
+}

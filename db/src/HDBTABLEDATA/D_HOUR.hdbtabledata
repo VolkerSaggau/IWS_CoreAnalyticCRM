@@ -1,0 +1,27 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_HOUR",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_HOUR.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "HOUR_ID"                           : 1,
+            "HOUR_NUMBER"                       : 2,
+            "AMPM_FLAG"                         : 3,
+            "HOUR_RANGE"                        : 4,
+            "MINUTE_IN_HOUR"                    : 5,
+            "MINUTE_RANGE"                      : 6,
+            "H_ALL_ENTRIES_IND"                 : 7
+         
+         }
+      }
+   ]
+}

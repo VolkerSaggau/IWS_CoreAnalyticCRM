@@ -1,0 +1,43 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ENTITY",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ENTITY.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ENTY_ID"                           : 1,
+            "ORIGIN_DATE"                       : 2,
+            "ENTY_TYPE"                         : 3,
+            "PREFIX"                            : 4,
+            "FIRST_NAME"                        : 5,
+            "SECOND_NAME"                       : 6,
+            "THIRD_NAME"                        : 7,
+            "SUFFIX"                            : 8,
+            "PRIMARY_CLS"                       : 9,
+            "SECONDARY_CLS"                     : 10,
+            "TAX_ID"                            : 11,
+            "ENTY_GROUP"                        : 12,
+            "REL_STATUS"                        : 13,
+            "PRIMARY_TEL_NBR"                   : 14,
+            "SCNDRY_TEL_NBR"                    : 15,
+            "FAX_NBR"                           : 16,
+            "EMAIL"                             : 17,
+            "LIFE_STATUS"                       : 18,
+            "EMP_MGT_UNIT_IND"                  : 19,
+            "EN_ALL_ENTRIES_IND"                : 20,
+            "ENTY_CAT_NAME"                     : 21,
+            "ENTY_SUBCAT_NAME"                  : 22,
+            "ENTY_UNIQUE_ID"                    : 23
+         
+         }
+      }
+   ]
+}

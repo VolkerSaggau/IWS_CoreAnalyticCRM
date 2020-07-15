@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ENTY_ASN_REASON",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ENTY_ASN_REASON.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ENTY_ASN_RSN_ID"                   : 1,
+            "ENTY_ASN_RSN_SN"                   : 2,
+            "ENTY_ASN_RSN_LN"                   : 3,
+            "EAR_ALL_ENTRIES_IN"                : 4
+         
+         }
+      }
+   ]
+}

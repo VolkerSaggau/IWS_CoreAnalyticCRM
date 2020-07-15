@@ -1,0 +1,23 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ACCOUNT_STATUS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ACCOUNT_STATUS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ACCT_STATUS_ID"                    : 1,
+            "ACCT_STATUS_DESC"                  : 2,
+            "ACCT_STAT_ALL_ENTR"                : 3
+         
+         }
+      }
+   ]
+}

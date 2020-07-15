@@ -1,0 +1,25 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_AFFILIATION",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_AFFILIATION.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "AFFILIATION_ID"                    : 1,
+            "AAA_IND"                           : 2,
+            "AARP_IND"                          : 3,
+            "NRA_IND"                           : 4,
+            "AFL_ALL_ENTRIES_IN"                : 5
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,28 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_PD_USAGE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_PD_USAGE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRODUCT_ID"                        : 1,
+            "CUSTOMER_ID"                       : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "END_DATE_PRD_ID"                   : 4,
+            "MEASURE_UNIT_ID"                   : 5,
+            "ENTY_PD_USE_SCOR"                  : 6,
+            "ENTY_PD_USE_AMT"                   : 7,
+            "PRODUCT_NAME"                      : 8
+         
+         }
+      }
+   ]
+}

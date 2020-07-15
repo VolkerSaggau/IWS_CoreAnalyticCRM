@@ -1,0 +1,31 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_USER",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_USER.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "USER_ID"                           : 1,
+            "USER_UNIQUE_ID"                    : 2,
+            "USER_CLS"                          : 3,
+            "USER_NAME_TYPE"                    : 4,
+            "USER_LAST_NAME"                    : 5,
+            "USER_FIRST_NAME"                   : 6,
+            "USER_SALUTATION"                   : 7,
+            "USER_EMAIL"                        : 8,
+            "USER_BIRTH_DATE"                   : 9,
+            "USER_BEGIN_DATE"                   : 10,
+            "USER_END_DATE"                     : 11
+         
+         }
+      }
+   ]
+}

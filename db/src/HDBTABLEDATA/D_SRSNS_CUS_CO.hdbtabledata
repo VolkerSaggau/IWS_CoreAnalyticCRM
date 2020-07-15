@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_SRSNS_CUS_CO",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_SRSNS_CUS_CO.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "SRSNS_CUS_CO_ID"                   : 1,
+            "SCC_ALL_ENTRIES_IN"                : 2,
+            "SRSNS_TO_CO"                       : 3,
+            "SRSNS_TO_CUS"                      : 4
+         
+         }
+      }
+   ]
+}

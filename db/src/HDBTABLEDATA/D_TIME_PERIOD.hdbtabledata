@@ -1,0 +1,53 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_TIME_PERIOD",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_TIME_PERIOD.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRD_ID"                            : 1,
+            "DATE_NA"                           : 2,
+            "PRD_DATE"                          : 3,
+            "DAY_NAME"                          : 4,
+            "DAY_ABR"                           : 5,
+            "DAY_IN_WEEK"                       : 6,
+            "DAY_IN_MONTH"                      : 7,
+            "DAY_IN_YEAR"                       : 8,
+            "WEEK_IN_MONTH"                     : 9,
+            "WEEK_IN_YEAR"                      : 10,
+            "CLNT_SVC_WK_IN_YR"                 : 11,
+            "MONTH_NAME"                        : 12,
+            "MONTH_ABR"                         : 13,
+            "MONTH_IN_YEAR"                     : 14,
+            "CALENDAR_QTR"                      : 15,
+            "MONTH_IN_QTR"                      : 16,
+            "WEEK_IN_QTR"                       : 17,
+            "DAY_IN_QTR"                        : 18,
+            "FINANCIAL_QTR"                     : 19,
+            "COMPETITOR_FSCL_YR"                : 20,
+            "MONTH_IN_FNCL_QTR"                 : 21,
+            "WEEK_IN_FNCL_QTR"                  : 22,
+            "DAY_IN_FNCL_QTR"                   : 23,
+            "SEMI_YEARLY"                       : 24,
+            "YEAR_NAME"                         : 25,
+            "YEAR"                              : 26,
+            "SEASON_NAME"                       : 27,
+            "SEASON_ABR"                        : 28,
+            "NBR_DAYS_SINCE_90"                 : 29,
+            "HLDY_IND"                          : 30,
+            "XMAS_HLDY_IND"                     : 31,
+            "EASTER_HLDY_IND"                   : 32,
+            "PRD_ALL_ENTR_IND"                  : 33
+         
+         }
+      }
+   ]
+}

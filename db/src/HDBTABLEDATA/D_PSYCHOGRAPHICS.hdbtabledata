@@ -1,0 +1,36 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_PSYCHOGRAPHICS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_PSYCHOGRAPHICS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PSYCH_ID"                          : 1,
+            "PSYCH_ENTY_TYP"                    : 2,
+            "PSY_ALL_ENTRIES_IN"                : 3,
+            "CULTURE"                           : 4,
+            "PURCHASING"                        : 5,
+            "FISHING_IND"                       : 6,
+            "CAMPING_IND"                       : 7,
+            "SMOKER_IND"                        : 8,
+            "STOCK_MARKET_IND"                  : 9,
+            "DRV_VACATION_IND"                  : 10,
+            "PET_OWNR_IND"                      : 11,
+            "CAT_OWNR_IND"                      : 12,
+            "DOG_OWNR_IND"                      : 13,
+            "OTHER_PET_OWNR_IND"                : 14,
+            "SAILING_IND"                       : 15,
+            "COMPUTER_GAMES_IND"                : 16
+         
+         }
+      }
+   ]
+}

@@ -1,0 +1,43 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_PRM_CPGN_EPSD",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_PRM_CPGN_EPSD.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRM_EPSD_ID"                       : 1,
+            "EPS_RPT_STRC_ID"                   : 2,
+            "BEGIN_DATE_PRD_ID"                 : 3,
+            "END_DATE_PRD_ID"                   : 4,
+            "PRM_CPGN_ID"                       : 5,
+            "SCHD_BEGIN_DATE"                   : 6,
+            "SCHD_END_DATE"                     : 7,
+            "PE_ALL_ENTRIES_IND"                : 8,
+            "EPSD_TYPE"                         : 9,
+            "EPSD_NAME"                         : 10,
+            "EPSD_INCENTIVE"                    : 11,
+            "EPSD_DSR_CUS_CNT"                  : 12,
+            "EPSD_ACTL_CUS_CNT"                 : 13,
+            "EPSD_BDGT_COST"                    : 14,
+            "EPSD_ACTL_COST"                    : 15,
+            "CPGN_MEDIA_TYP"                    : 16,
+            "RDM_MCHSM"                         : 17,
+            "EFF_RATING"                        : 18,
+            "EST_REVENUE"                       : 19,
+            "EST_CUSTOMER"                      : 20,
+            "CR_REVENUE"                        : 21,
+            "CR_CUSTOMER"                       : 22,
+            "SEL_CRITERIA"                      : 23
+         
+         }
+      }
+   ]
+}

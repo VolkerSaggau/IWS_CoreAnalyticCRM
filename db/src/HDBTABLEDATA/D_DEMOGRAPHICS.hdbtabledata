@@ -1,0 +1,41 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_DEMOGRAPHICS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_DEMOGRAPHICS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "DEMO_ID"                           : 1,
+            "DEMOGRAPHICS_TYPE"                 : 2,
+            "DISP_INCOME_BAND"                  : 3,
+            "INCOME_BAND"                       : 4,
+            "AGE_BAND"                          : 5,
+            "GENDER"                            : 6,
+            "LIFE_STG_BAND"                     : 7,
+            "MARITAL_STATUS"                    : 8,
+            "HIGH_VALUE_IND"                    : 9,
+            "ACMDTN_CAT"                        : 10,
+            "HAS_DPND_IND"                      : 11,
+            "NBR_IN_HH_BAND"                    : 12,
+            "CHLD_AT_HOME_BAND"                 : 13,
+            "SIZE_CLS"                          : 14,
+            "LEGAL_ORG_TYPE"                    : 15,
+            "NBR_EMP_BAND"                      : 16,
+            "SECTOR_CLS"                        : 17,
+            "MAIL_PRMSN_IND"                    : 18,
+            "TELMKT_PRMSN_IND"                  : 19,
+            "HIGH_GRD_CPLT_BAND"                : 20,
+            "DEMO_ALL_ENTRIES_I"                : 21
+         
+         }
+      }
+   ]
+}

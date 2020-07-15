@@ -1,0 +1,43 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_CUS_CNTC_EVT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_CUS_CNTC_EVT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CUS_CNTC_ID"                       : 1,
+            "COR_EVT_SEQ_NBR"                   : 2,
+            "CNTC_INIT_PRD_ID"                  : 3,
+            "CNTC_RSOL_PRD_ID"                  : 4,
+            "INIT_CNTC_EMP_ID"                  : 5,
+            "RSOL_CNTC_EMP_ID"                  : 6,
+            "FNCL_SCOR_ID"                      : 7,
+            "LANGUAGE_ID"                       : 8,
+            "PN_BHVR_SCOR_ID"                   : 9,
+            "PRODUCT_ID"                        : 10,
+            "SRSNS_CUS_CO_ID"                   : 11,
+            "MEDIA_ID"                          : 12,
+            "CUS_STSF_RT_ID"                    : 13,
+            "CNTC_RSOL_ID"                      : 14,
+            "HOUR_ID"                           : 15,
+            "CNTC_EVT_TYP_ID"                   : 16,
+            "COR_RPT_STRC_ID"                   : 17,
+            "GEO_ID"                            : 18,
+            "CUSTOMER_ID"                       : 19,
+            "DEMO_ID"                           : 20,
+            "OPER_SYS_CUS_CNTC"                 : 21,
+            "CUS_CNTC_REF"                      : 22,
+            "CUS_CNTC_EVT_DRTN"                 : 23
+         
+         }
+      }
+   ]
+}

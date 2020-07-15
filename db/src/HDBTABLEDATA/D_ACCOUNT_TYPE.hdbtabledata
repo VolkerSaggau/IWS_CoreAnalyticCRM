@@ -1,0 +1,28 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ACCOUNT_TYPE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ACCOUNT_TYPE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ACCOUNT_TYPE_ID"                   : 1,
+            "ACCT_TYPE_NAME"                    : 2,
+            "ACCT_TYPE_DESC"                    : 3,
+            "ACCT_SUBTYPE_NAME"                 : 4,
+            "ACCT_SUBTYPE_DESC"                 : 5,
+            "ACCT_CAT_NAME"                     : 6,
+            "ACCT_CAT_DESC"                     : 7,
+            "BAT_ALL_ENTR_IND"                  : 8
+         
+         }
+      }
+   ]
+}

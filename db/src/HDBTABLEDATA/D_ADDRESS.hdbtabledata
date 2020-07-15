@@ -1,0 +1,44 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ADDRESS",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ADDRESS.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ADDRESS_ID"                        : 1,
+            "ADDR1"                             : 2,
+            "ADDR2"                             : 3,
+            "STREET_NUMBER"                     : 4,
+            "PREDIRECTION"                      : 5,
+            "STREET_NAME"                       : 6,
+            "STREET_TYPE"                       : 7,
+            "POSTDIRECTION"                     : 8,
+            "UNIT_NUMBER"                       : 9,
+            "CITY"                              : 10,
+            "STATE_PROV"                        : 11,
+            "POSTAL_TOWN"                       : 12,
+            "FIVE_DGT_POST_CODE"                : 13,
+            "POSTAL_CODE"                       : 14,
+            "ISO_COUNTRY"                       : 15,
+            "LATITUDE"                          : 16,
+            "LONGITUDE"                         : 17,
+            "CRR_RTE_CD"                        : 18,
+            "BARCODE"                           : 19,
+            "SRC1_NIXIE"                        : 20,
+            "SRC2_NIXIE"                        : 21,
+            "PRISN_ADRS_IND"                    : 22,
+            "GEO_CODE"                          : 23,
+            "ADR_ALL_ENTRIES_IN"                : 24
+         
+         }
+      }
+   ]
+}

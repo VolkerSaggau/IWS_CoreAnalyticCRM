@@ -1,0 +1,2444 @@
+1,111,Crop Production,111211,Potato Farming,T
+2,111,Crop Production,111411,Mushroom Production,T
+3,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+4,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+5,111,Crop Production,11113,Dry Pea and Bean Farming,T
+6,114,Fishing Hunting and Trapping,11411,Fishing,T
+7,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+8,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+9,114,Fishing Hunting and Trapping,1141,Fishing,T
+10,111,Crop Production,11121,Vegetable and Melon Farming,T
+11,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+12,52,Finance and Insurance,52211,Commercial Banking,T
+13,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+14,52,Finance and Insurance,521,Monetary Authorities - Central,T
+15,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+16,114,Fishing Hunting and Trapping,11411,Fishing,T
+17,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+18,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+19,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+20,111,Crop Production,111419,Other Food Crops Grown Under,T
+21,52,Finance and Insurance,522,Credit Intermediation and,T
+22,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+23,111,Crop Production,11111,Soybean Farming,T
+24,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+25,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+26,52,Finance and Insurance,5221,Depository Credit,T
+27,111,Crop Production,11121,Vegetable and Melon Farming,T
+28,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+29,111,Crop Production,11114,Wheat Farming,T
+30,511,Publishing Industries,51111,Newspaper Publishers,T
+31,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+32,52,Finance and Insurance,5221,Depository Credit,T
+33,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+34,111,Crop Production,11111,Soybean Farming,T
+35,111,Crop Production,1111,Oilseed and Grain Farming,T
+36,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+37,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+38,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+39,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+40,221,Utilities,221122,Electric Power Distribution,T
+41,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+42,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+43,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+44,111,Crop Production,1111,Oilseed and Grain Farming,T
+45,221,Utilities,22121,Natural Gas Distribution,T
+46,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+47,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+48,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+49,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+50,511,Publishing Industries,51111,Newspaper Publishers,T
+51,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+52,114,Fishing Hunting and Trapping,11411,Fishing,T
+53,52,Finance and Insurance,52211,Commercial Banking,T
+54,52,Finance and Insurance,522,Credit Intermediation and,T
+55,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+56,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+57,511,Publishing Industries,51112,Periodical Publishers,T
+58,511,Publishing Industries,5111,Newspaper Periodical Book,T
+59,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+60,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+61,52,Finance and Insurance,522,Credit Intermediation and,T
+62,111,Crop Production,11114,Wheat Farming,T
+63,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+64,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+65,111,Crop Production,11114,Wheat Farming,T
+66,52,Finance and Insurance,5221,Depository Credit,T
+67,111,Crop Production,11113,Dry Pea and Bean Farming,T
+68,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+69,114,Fishing Hunting and Trapping,1141,Fishing,T
+70,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+71,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+72,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+73,52,Finance and Insurance,5221,Depository Credit,T
+74,114,Fishing Hunting and Trapping,1141,Fishing,T
+75,221,Utilities,2211,Electric Power Generation,T
+76,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+77,511,Publishing Industries,5111,Newspaper Periodical Book,T
+78,111,Crop Production,11113,Dry Pea and Bean Farming,T
+79,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+80,111,Crop Production,11112,Oilseed (except Soybean),T
+81,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+82,511,Publishing Industries,51112,Periodical Publishers,T
+83,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+84,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+85,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+86,221,Utilities,22121,Natural Gas Distribution,T
+87,111,Crop Production,11141,Food Crops Grown Under Cover,T
+88,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+89,52,Finance and Insurance,5221,Depository Credit,T
+90,221,Utilities,22121,Natural Gas Distribution,T
+91,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+92,221,Utilities,221111,Hydroelectric Power Generation,T
+93,511,Publishing Industries,5111,Newspaper Periodical Book,T
+94,221,Utilities,2211,Electric Power Generation,T
+95,221,Utilities,22121,Natural Gas Distribution,T
+96,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+97,111,Crop Production,11121,Vegetable and Melon Farming,T
+98,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+99,221,Utilities,2211,Electric Power Generation,T
+100,511,Publishing Industries,51112,Periodical Publishers,T
+101,52,Finance and Insurance,521,Monetary Authorities - Central,T
+102,52,Finance and Insurance,52211,Commercial Banking,T
+103,52,Finance and Insurance,521,Monetary Authorities - Central,T
+104,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+105,111,Crop Production,1112,Vegetable and Melon Farming,T
+106,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+107,111,Crop Production,11114,Wheat Farming,T
+108,111,Crop Production,1111,Oilseed and Grain Farming,T
+109,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+110,221,Utilities,22121,Natural Gas Distribution,T
+111,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+112,511,Publishing Industries,51111,Newspaper Publishers,T
+113,221,Utilities,2211,Electric Power Generation,T
+114,212,Mining (except Oil and Gas),212111,Bituminous Coal and Lignite,T
+115,221,Utilities,2211,Electric Power Generation,T
+116,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+117,52,Finance and Insurance,5221,Depository Credit,T
+118,111,Crop Production,11141,Food Crops Grown Under Cover,T
+119,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+120,111,Crop Production,111211,Potato Farming,T
+121,111,Crop Production,11113,Dry Pea and Bean Farming,T
+122,111,Crop Production,11141,Food Crops Grown Under Cover,T
+123,52,Finance and Insurance,521,Monetary Authorities - Central,T
+124,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+125,212,Mining (except Oil and Gas),2121,Coal Mining,T
+126,111,Crop Production,1111,Oilseed and Grain Farming,T
+127,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+128,221,Utilities,221122,Electric Power Distribution,T
+129,52,Finance and Insurance,521,Monetary Authorities - Central,T
+130,221,Utilities,2211,Electric Power Generation,T
+131,52,Finance and Insurance,521,Monetary Authorities - Central,T
+132,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+133,111,Crop Production,111211,Potato Farming,T
+134,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+135,111,Crop Production,11141,Food Crops Grown Under Cover,T
+136,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+137,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+138,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+139,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+140,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+141,511,Publishing Industries,51111,Newspaper Publishers,T
+142,511,Publishing Industries,5111,Newspaper Periodical Book,T
+143,111,Crop Production,111419,Other Food Crops Grown Under,T
+144,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+145,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+146,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+147,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+148,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+149,221,Utilities,22111,Electric Power Generation,T
+150,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+151,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+152,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+153,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+154,114,Fishing Hunting and Trapping,11411,Fishing,T
+155,221,Utilities,2211,Electric Power Generation,T
+156,111,Crop Production,11112,Oilseed (except Soybean),T
+157,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+158,221,Utilities,22111,Electric Power Generation,T
+159,111,Crop Production,111211,Potato Farming,T
+160,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+161,111,Crop Production,11113,Dry Pea and Bean Farming,T
+162,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+163,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+164,111,Crop Production,11115,Corn Farming,T
+165,111,Crop Production,11115,Corn Farming,T
+166,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+167,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+168,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+169,111,Crop Production,11114,Wheat Farming,T
+170,114,Fishing Hunting and Trapping,1141,Fishing,T
+171,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+172,111,Crop Production,11113,Dry Pea and Bean Farming,T
+173,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+174,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+175,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+176,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+177,221,Utilities,221122,Electric Power Distribution,T
+178,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+179,111,Crop Production,1112,Vegetable and Melon Farming,T
+180,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+181,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+182,52,Finance and Insurance,52211,Commercial Banking,T
+183,111,Crop Production,1114,Greenhouse Nursery and,T
+184,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+185,511,Publishing Industries,51112,Periodical Publishers,T
+186,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+187,52,Finance and Insurance,52211,Commercial Banking,T
+188,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+189,111,Crop Production,11141,Food Crops Grown Under Cover,T
+190,511,Publishing Industries,5111,Newspaper Periodical Book,T
+191,52,Finance and Insurance,522,Credit Intermediation and,T
+192,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+193,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+194,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+195,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+196,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+197,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+198,511,Publishing Industries,5111,Newspaper Periodical Book,T
+199,221,Utilities,221111,Hydroelectric Power Generation,T
+200,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+201,111,Crop Production,1111,Oilseed and Grain Farming,T
+202,52,Finance and Insurance,521,Monetary Authorities - Central,T
+203,111,Crop Production,11121,Vegetable and Melon Farming,T
+204,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+205,111,Crop Production,11111,Soybean Farming,T
+206,511,Publishing Industries,5111,Newspaper Periodical Book,T
+207,212,Mining (except Oil and Gas),21211,Coal Mining,T
+208,111,Crop Production,1111,Oilseed and Grain Farming,T
+209,111,Crop Production,111419,Other Food Crops Grown Under,T
+210,114,Fishing Hunting and Trapping,11411,Fishing,T
+211,111,Crop Production,11113,Dry Pea and Bean Farming,T
+212,111,Crop Production,111211,Potato Farming,T
+213,111,Crop Production,1111,Oilseed and Grain Farming,T
+214,212,Mining (except Oil and Gas),21211,Coal Mining,T
+215,111,Crop Production,11115,Corn Farming,T
+216,52,Finance and Insurance,522,Credit Intermediation and,T
+217,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+218,221,Utilities,22111,Electric Power Generation,T
+219,111,Crop Production,11121,Vegetable and Melon Farming,T
+220,111,Crop Production,111419,Other Food Crops Grown Under,T
+221,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+222,221,Utilities,221111,Hydroelectric Power Generation,T
+223,52,Finance and Insurance,5221,Depository Credit,T
+224,212,Mining (except Oil and Gas),2121,Coal Mining,T
+225,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+226,111,Crop Production,11121,Vegetable and Melon Farming,T
+227,221,Utilities,2211,Electric Power Generation,T
+228,111,Crop Production,111411,Mushroom Production,T
+229,111,Crop Production,111411,Mushroom Production,T
+230,52,Finance and Insurance,5221,Depository Credit,T
+231,212,Mining (except Oil and Gas),21211,Coal Mining,T
+232,111,Crop Production,111419,Other Food Crops Grown Under,T
+233,111,Crop Production,1112,Vegetable and Melon Farming,T
+234,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+235,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+236,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+237,221,Utilities,2211,Electric Power Generation,T
+238,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+239,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+240,111,Crop Production,1111,Oilseed and Grain Farming,T
+241,111,Crop Production,111211,Potato Farming,T
+242,114,Fishing Hunting and Trapping,11411,Fishing,T
+243,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+244,111,Crop Production,1112,Vegetable and Melon Farming,T
+245,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+246,111,Crop Production,11112,Oilseed (except Soybean),T
+247,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+248,52,Finance and Insurance,5221,Depository Credit,T
+249,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+250,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+251,111,Crop Production,1111,Oilseed and Grain Farming,T
+252,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+253,511,Publishing Industries,51111,Newspaper Publishers,T
+254,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+255,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+256,111,Crop Production,111211,Potato Farming,T
+257,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+258,212,Mining (except Oil and Gas),212113,Anthracite Mining,T
+259,52,Finance and Insurance,5221,Depository Credit,T
+260,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+261,511,Publishing Industries,51111,Newspaper Publishers,T
+262,212,Mining (except Oil and Gas),212111,Bituminous Coal and Lignite,T
+263,111,Crop Production,111411,Mushroom Production,T
+264,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+265,111,Crop Production,11113,Dry Pea and Bean Farming,T
+266,52,Finance and Insurance,521,Monetary Authorities - Central,T
+267,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+268,111,Crop Production,1112,Vegetable and Melon Farming,T
+269,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+270,221,Utilities,2211,Electric Power Generation,T
+271,111,Crop Production,1114,Greenhouse Nursery and,T
+272,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+273,52,Finance and Insurance,521,Monetary Authorities - Central,T
+274,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+275,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+276,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+277,114,Fishing Hunting and Trapping,11411,Fishing,T
+278,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+279,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+280,221,Utilities,2211,Electric Power Generation,T
+281,111,Crop Production,11113,Dry Pea and Bean Farming,T
+282,111,Crop Production,11141,Food Crops Grown Under Cover,T
+283,111,Crop Production,11112,Oilseed (except Soybean),T
+284,111,Crop Production,11112,Oilseed (except Soybean),T
+285,114,Fishing Hunting and Trapping,1141,Fishing,T
+286,221,Utilities,2211,Electric Power Generation,T
+287,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+288,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+289,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+290,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+291,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+292,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+293,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+294,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+295,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+296,221,Utilities,221122,Electric Power Distribution,T
+297,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+298,52,Finance and Insurance,522,Credit Intermediation and,T
+299,221,Utilities,2211,Electric Power Generation,T
+300,111,Crop Production,11115,Corn Farming,T
+301,111,Crop Production,11121,Vegetable and Melon Farming,T
+302,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+303,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+304,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+305,114,Fishing Hunting and Trapping,11411,Fishing,T
+306,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+307,111,Crop Production,1111,Oilseed and Grain Farming,T
+308,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+309,111,Crop Production,11111,Soybean Farming,T
+310,212,Mining (except Oil and Gas),2121,Coal Mining,T
+311,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+312,111,Crop Production,111419,Other Food Crops Grown Under,T
+313,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+314,52,Finance and Insurance,521,Monetary Authorities - Central,T
+315,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+316,212,Mining (except Oil and Gas),2121,Coal Mining,T
+317,511,Publishing Industries,51111,Newspaper Publishers,T
+318,212,Mining (except Oil and Gas),212111,Bituminous Coal and Lignite,T
+319,221,Utilities,221122,Electric Power Distribution,T
+320,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+321,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+322,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+323,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+324,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+325,52,Finance and Insurance,521,Monetary Authorities - Central,T
+326,111,Crop Production,1114,Greenhouse Nursery and,T
+327,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+328,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+329,212,Mining (except Oil and Gas),2121,Coal Mining,T
+330,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+331,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+332,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+333,114,Fishing Hunting and Trapping,1141,Fishing,T
+334,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+335,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+336,111,Crop Production,11111,Soybean Farming,T
+337,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+338,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+339,212,Mining (except Oil and Gas),212113,Anthracite Mining,T
+340,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+341,111,Crop Production,111419,Other Food Crops Grown Under,T
+342,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+343,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+344,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+345,111,Crop Production,11113,Dry Pea and Bean Farming,T
+346,315,Apparel Manufacturing,315191,Outerwear Knitting Mills,T
+347,52,Finance and Insurance,5221,Depository Credit,T
+348,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+349,52,Finance and Insurance,521,Monetary Authorities - Central,T
+350,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+351,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+352,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+353,221,Utilities,2211,Electric Power Generation,T
+354,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+355,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+356,111,Crop Production,111419,Other Food Crops Grown Under,T
+357,114,Fishing Hunting and Trapping,1141,Fishing,T
+358,111,Crop Production,11121,Vegetable and Melon Farming,T
+359,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+360,212,Mining (except Oil and Gas),21221,Iron Ore Mining,T
+361,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+362,111,Crop Production,11121,Vegetable and Melon Farming,T
+363,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+364,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+365,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+366,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+367,221,Utilities,22121,Natural Gas Distribution,T
+368,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+369,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+370,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+371,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+372,511,Publishing Industries,51111,Newspaper Publishers,T
+373,511,Publishing Industries,51112,Periodical Publishers,T
+374,111,Crop Production,11111,Soybean Farming,T
+375,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+376,111,Crop Production,111411,Mushroom Production,T
+377,52,Finance and Insurance,522,Credit Intermediation and,T
+378,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+379,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+380,52,Finance and Insurance,5221,Depository Credit,T
+381,212,Mining (except Oil and Gas),212113,Anthracite Mining,T
+382,212,Mining (except Oil and Gas),2121,Coal Mining,T
+383,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+384,111,Crop Production,1114,Greenhouse Nursery and,T
+385,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+386,212,Mining (except Oil and Gas),2121,Coal Mining,T
+387,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+388,111,Crop Production,11121,Vegetable and Melon Farming,T
+389,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+390,212,Mining (except Oil and Gas),212231,Lead Ore and Zinc Ore Mining,T
+391,212,Mining (except Oil and Gas),212221,Gold Ore Mining,T
+392,111,Crop Production,1112,Vegetable and Melon Farming,T
+393,511,Publishing Industries,51111,Newspaper Publishers,T
+394,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+395,111,Crop Production,1111,Oilseed and Grain Farming,T
+396,111,Crop Production,11114,Wheat Farming,T
+397,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+398,111,Crop Production,111211,Potato Farming,T
+399,511,Publishing Industries,51112,Periodical Publishers,T
+400,221,Utilities,221122,Electric Power Distribution,T
+401,111,Crop Production,11113,Dry Pea and Bean Farming,T
+402,111,Crop Production,11112,Oilseed (except Soybean),T
+403,114,Fishing Hunting and Trapping,1142,Hunting and Trapping,T
+404,111,Crop Production,111211,Potato Farming,T
+405,111,Crop Production,11113,Dry Pea and Bean Farming,T
+406,221,Utilities,221122,Electric Power Distribution,T
+407,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+408,511,Publishing Industries,51111,Newspaper Publishers,T
+409,52,Finance and Insurance,52211,Commercial Banking,T
+410,52,Finance and Insurance,5221,Depository Credit,T
+411,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+412,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+413,111,Crop Production,11111,Soybean Farming,T
+414,511,Publishing Industries,51111,Newspaper Publishers,T
+415,111,Crop Production,111411,Mushroom Production,T
+416,114,Fishing Hunting and Trapping,1141,Fishing,T
+417,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+418,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+419,52,Finance and Insurance,52211,Commercial Banking,T
+420,212,Mining (except Oil and Gas),212113,Anthracite Mining,T
+421,221,Utilities,22121,Natural Gas Distribution,T
+422,212,Mining (except Oil and Gas),21222,Gold Ore and Silver Ore Mining,T
+423,111,Crop Production,11114,Wheat Farming,T
+424,111,Crop Production,11141,Food Crops Grown Under Cover,T
+425,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+426,212,Mining (except Oil and Gas),2122,Metal Ore Mining,T
+427,212,Mining (except Oil and Gas),2121,Coal Mining,T
+428,221,Utilities,221122,Electric Power Distribution,T
+429,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+430,52,Finance and Insurance,522,Credit Intermediation and,T
+431,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+432,52,Finance and Insurance,522,Credit Intermediation and,T
+433,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+434,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+435,111,Crop Production,1111,Oilseed and Grain Farming,T
+436,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+437,52,Finance and Insurance,522,Credit Intermediation and,T
+438,111,Crop Production,111211,Potato Farming,T
+439,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+440,111,Crop Production,11112,Oilseed (except Soybean),T
+441,111,Crop Production,11121,Vegetable and Melon Farming,T
+442,111,Crop Production,111419,Other Food Crops Grown Under,T
+443,221,Utilities,22121,Natural Gas Distribution,T
+444,111,Crop Production,11112,Oilseed (except Soybean),T
+445,511,Publishing Industries,51112,Periodical Publishers,T
+446,221,Utilities,2211,Electric Power Generation,T
+447,212,Mining (except Oil and Gas),212113,Anthracite Mining,T
+448,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+449,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+450,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+451,212,Mining (except Oil and Gas),2121,Coal Mining,T
+452,511,Publishing Industries,51112,Periodical Publishers,T
+453,111,Crop Production,11141,Food Crops Grown Under Cover,T
+454,111,Crop Production,111419,Other Food Crops Grown Under,T
+455,221,Utilities,2211,Electric Power Generation,T
+456,511,Publishing Industries,51111,Newspaper Publishers,T
+457,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+458,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+459,52,Finance and Insurance,521,Monetary Authorities - Central,T
+460,114,Fishing Hunting and Trapping,114112,Shellfish Fishing,T
+461,111,Crop Production,11141,Food Crops Grown Under Cover,T
+462,111,Crop Production,1112,Vegetable and Melon Farming,T
+463,212,Mining (except Oil and Gas),21223,Copper Nickel Lead and Zinc,T
+464,312,Beverage and Tobacco Product,31211,Soft Drink and Ice,T
+465,221,Utilities,221111,Hydroelectric Power Generation,T
+466,511,Publishing Industries,5111,Newspaper Periodical Book,T
+467,315,Apparel Manufacturing,315119,Other Hosiery and Sock Mills,T
+468,114,Fishing Hunting and Trapping,1141,Fishing,T
+469,114,Fishing Hunting and Trapping,114119,Other Marine Fishing,T
+470,111,Crop Production,1112,Vegetable and Melon Farming,T
+471,111,Crop Production,1111,Oilseed and Grain Farming,T
+472,315,Apparel Manufacturing,315111,Sheer Hosiery Mills,T
+473,315,Apparel Manufacturing,31519,Other Apparel Knitting Mills,T
+474,312,Beverage and Tobacco Product,3121,Beverage Manufacturing,T
+475,52,Finance and Insurance,52111,Monetary Authorities - Central,T
+476,111,Crop Production,11121,Vegetable and Melon Farming,T
+477,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+478,511,Publishing Industries,5111,Newspaper Periodical Book,T
+479,114,Fishing Hunting and Trapping,114111,Finfish Fishing,T
+480,212,Mining (except Oil and Gas),212111,Bituminous Coal and Lignite,T
+481,212,Mining (except Oil and Gas),212112,Bituminous Coal Underground,T
+482,221,Utilities,22121,Natural Gas Distribution,T
+483,221,Utilities,221111,Hydroelectric Power Generation,T
+484,111,Crop Production,11113,Dry Pea and Bean Farming,T
+485,52,Finance and Insurance,52211,Commercial Banking,T
+486,52,Finance and Insurance,5211,Monetary Authorities - Central,T
+487,111,Crop Production,11115,Corn Farming,T
+488,212,Mining (except Oil and Gas),212222,Silver Ore Mining,T
+489,221,Utilities,221111,Hydroelectric Power Generation,T
+490,511,Publishing Industries,51112,Periodical Publishers,T
+491,52,Finance and Insurance,5221,Depository Credit,T
+492,315,Apparel Manufacturing,31511,Hosiery and Sock Mills,T
+493,312,Beverage and Tobacco Product,312111,Soft Drink Manufacturing,T
+494,221,Utilities,2211,Electric Power Generation,T
+495,52,Finance and Insurance,522,Credit Intermediation and,T
+496,111,Crop Production,1111,Oilseed and Grain Farming,T
+497,315,Apparel Manufacturing,3151,Apparel Knitting Mills,T
+498,212,Mining (except Oil and Gas),212111,Bituminous Coal and Lignite,T
+499,221,Utilities,2211,Electric Power Generation,T
+500,111,Crop Production,11112,Oilseed (except Soybean),T
+551,632,Accident & Health Insurance,,,T
+575,731,Advertising,,,T
+576,731,Advertising Agencies,,,T
+601,782,Allied To Motion Picture Distr,,,T
+599,781,Allied To Motion Picture Produ,,,T
+604,790,Amusement & Recreation Service,,,T
+512,560,Apparel & Accessory Stores,,,T
+511,553,Auto & Home Supply Stores,,,T
+510,550,Auto Dealers & Gasoline Statio,,,T
+596,751,Auto Rental & Leasing (No Driv,,,T
+595,750,Automotive Repair & Services,,,T
+566,677,Blank Checks,,,T
+501,5,Building Materials &  Hardware,,,T
+594,738,Business Services,,,T
+529,596,Catalog & Mail-Order Houses,,,T
+621,835,Child Day Care Services,,,T
+533,602,Commercial Banks,,,T
+625,873,Commercial Physical & Biologic,,,T
+548,622,Commodity Contracts Brokers &,,,T
+519,573,Computer & Computer Software S,,,T
+588,737,Computer Integrated Systems De,,,T
+589,737,Computer Processing & Data Pre,,,T
+586,737,Computer Programming Services,,,T
+585,737,Computer Programming,,,T
+590,737,Computer Rental & Leasing,,,T
+577,732,Consumer Credit Reporting,,,T
+509,541,Convenience Stores,,,T
+504,531,Department Stores,,,T
+592,738,Detective  Guard & Armored Car,,,T
+579,733,Direct Mail Advertising Servic,,,T
+524,591,Drug Stores and Proprietary St,,,T
+521,581,Eating & Drinking Places,,,T
+522,581,Eating Places,,,T
+619,820,Educational Services,,,T
+583,736,Employment Agencies,,,T
+624,871,Engineering Services,,,T
+623,8,Engineering,,,T
+582,735,Equipment Rental & Leasing,,,T
+629,874,Facilities Support Management,,,T
+514,565,Family Clothing Stores,,,T
+537,611,Federal & Federally-Sponsored,,,T
+543,617,Finance Lessors,,,T
+545,619,Finance Services,,,T
+553,633, Marine & Casualty Fire,,,T
+507,540,Food Stores,,,T
+536,609,Functions Related To Depositor,,,T
+517,571,Furniture Stores,,,T
+613,806,General Medical & Surgical Hos,,,T
+508,541,Grocery Stores,,,T
+608,800,Health Services,,,T
+584,736,Help Supply Services,,,T
+527,594,Hobby  Toy & Game Shops,,,T
+516,570,Home Furniture,,,T
+615,808,Home Health Care Services,,,T
+552,632,Hospital & Medical Service Pla,,,T
+612,806,Hospitals,,,T
+573,701,Hotels & Motels,,,T
+572,7,Hotels,,,T
+557,641,Insurance Agents,,,T
+556,639,Insurance Carriers,,,T
+549,628,Investment Advice,,,T
+571,679,Investors,,,T
+526,594,Jewelry Stores,,,T
+565,655,Land Subdividers & Developers,,,T
+618,811,Legal Services,,,T
+562,651,Lessors of Real Property,,,T
+550,631,Life Insurance,,,T
+542,616,Loan Brokers,,,T
+502,521,Lumber & Other Building Materi,,,T
+578,7,Mailing,,,T
+628,874,Management Consulting Services,,,T
+627,874,Management Services,,,T
+614,807,Medical Laboratories,,,T
+622,860,Membership or ganizations,,,T
+607,799,Membership Sports & Recreation,,,T
+569,679,Mineral Royalty Traders,,,T
+506,539,Misc General Merchandise Store,,,T
+616,809,Misc Health & Allied Services,,,T
+606,799,Miscellaneous Amusement & Recr,,,T
+540,615,Miscellaneous Business Credit,,,T
+591,738,Miscellaneous Business Service,,,T
+581,735,Miscellaneous Equipment Rental,,,T
+597,760,Miscellaneous Repair Services,,,T
+523,590,Miscellaneous Retail,,,T
+525,594,Miscellaneous Shopping Goods S,,,T
+503,527,Mobile Home Dealers,,,T
+541,616,Mortgage Bankers & Loan Corres,,,T
+600,782,Motion Picture & Video Tape Di,,,T
+598,781,Motion Picture & Video Tape Pr,,,T
+602,783,Motion Picture Theaters,,,T
+531,602,National Commercial Banks,,,T
+631,999,Non-Operating Establishments,,,T
+528,596,Nonstore Retailers,,,T
+610,805,Nursing & Personal Care Facili,,,T
+609,801,Offices & Clinics of Doctors o,,,T
+567,679,Oil Royalty Traders,,,T
+560,651,Opeators of Nonresidential Bui,,,T
+561,651,Operators of Apartment Buildin,,,T
+568,679,Patent Owners & Lessors,,,T
+538,614,Personal Credit Institutions,,,T
+574,720,Personal Services,,,T
+593,738,Photofinishing Laboratories,,,T
+587,737,Prepackaged Software,,,T
+605,794,Racing,,,T
+518,573,Radio,,,T
+558,650,Real Estate,,,T
+563,653,Real Estate Agents & Managers,,,T
+564,653,Real Estate Dealers (For Their,,,T
+570,679,Real Estate Investment Trusts,,,T
+559,651,Real Estate Operators (No Deve,,,T
+520,573,Record & Prerecorded Tape Stor,,,T
+530,599,Retail Stores,,,T
+534,603,Savings Institution,,,T
+535,603,Savings Institutions,,,T
+546,620,Security & Commodity Brokers,,,T
+547,621,Security Brokers,,,T
+630,890,Services,,,T
+515,566,Shoe Stores,,,T
+539,615,Short-Term Business Credit Ins,,,T
+611,805,Skilled Nursing Care Facilitie,,,T
+620,830,Social Services,,,T
+617,809,Specialty Outpatient Facilitie,,,T
+532,602,State Commercial Banks,,,T
+554,635,Surety Insurance,,,T
+626,873,Testing Laboratories,,,T
+555,636,Title Insurance,,,T
+580,734,To Dwellings & Other Buildings,,,T
+505,533,Variety Stores,,,T
+603,784,Video Tape Rental,,,T
+513,562,Women's Clothing Stores,,,T
+110500,110000,Agriculture Forestry Fishing and Hunting,110000,Agriculture Forestry Fishing and Hunting,T
+111500,110000,Agriculture Forestry Fishing and Hunting,111000,Crop Production,T
+111600,110000,Agriculture Forestry Fishing and Hunting,111100,Oilseed and Grain Farming,T
+111610,110000,Agriculture Forestry Fishing and Hunting,111110,Soybean Farming,T
+111620,110000,Agriculture Forestry Fishing and Hunting,111120,Oilseed (except Soybean) Farming,T
+111630,110000,Agriculture Forestry Fishing and Hunting,111130,Dry Pea and Bean Farming,T
+111640,110000,Agriculture Forestry Fishing and Hunting,111140,Wheat Farming,T
+111650,110000,Agriculture Forestry Fishing and Hunting,111150,Corn Farming,T
+111660,110000,Agriculture Forestry Fishing and Hunting,111160,Rice Farming,T
+111690,110000,Agriculture Forestry Fishing and Hunting,111190,Other Grain Farming,T
+111691,110000,Agriculture Forestry Fishing and Hunting,111191,Oilseed and Grain Combination Farming,T
+111699,110000,Agriculture Forestry Fishing and Hunting,111199,All Other Grain Farming,T
+111700,110000,Agriculture Forestry Fishing and Hunting,111200,Vegetable and Melon Farming,T
+111710,110000,Agriculture Forestry Fishing and Hunting,111210,Vegetable and Melon Farming,T
+111711,110000,Agriculture Forestry Fishing and Hunting,111211,Potato Farming,T
+111719,110000,Agriculture Forestry Fishing and Hunting,111219,Other Vegetable (except Potato) and Melon Farming,T
+111800,110000,Agriculture Forestry Fishing and Hunting,111300,Fruit and Tree Nut Farming,T
+111810,110000,Agriculture Forestry Fishing and Hunting,111310,Orange Groves,T
+111820,110000,Agriculture Forestry Fishing and Hunting,111320,Citrus (except Orange) Groves,T
+111830,110000,Agriculture Forestry Fishing and Hunting,111330,Noncitrus Fruit and Tree Nut Farming,T
+111831,110000,Agriculture Forestry Fishing and Hunting,111331,Apple Orchards,T
+111832,110000,Agriculture Forestry Fishing and Hunting,111332,Grape Vineyards,T
+111833,110000,Agriculture Forestry Fishing and Hunting,111333,Strawberry Farming,T
+111834,110000,Agriculture Forestry Fishing and Hunting,111334,Berry (except Strawberry) Farming,T
+111835,110000,Agriculture Forestry Fishing and Hunting,111335,Tree Nut Farming,T
+111836,110000,Agriculture Forestry Fishing and Hunting,111336,Fruit and Tree Nut Combination Farming,T
+111839,110000,Agriculture Forestry Fishing and Hunting,111339,Other Noncitrus Fruit Farming,T
+111900,110000,Agriculture Forestry Fishing and Hunting,111400,Greenhouse Nursery and Floriculture Production,T
+111910,110000,Agriculture Forestry Fishing and Hunting,111410,Food Crops Grown Under Cover,T
+111911,110000,Agriculture Forestry Fishing and Hunting,111411,Mushroom Production,T
+111919,110000,Agriculture Forestry Fishing and Hunting,111419,Other Food Crops Grown Under Cover,T
+111920,110000,Agriculture Forestry Fishing and Hunting,111420,Nursery and Floriculture Production,T
+111921,110000,Agriculture Forestry Fishing and Hunting,111421,Nursery and Tree Production,T
+111922,110000,Agriculture Forestry Fishing and Hunting,111422,Floriculture Production,T
+112400,110000,Agriculture Forestry Fishing and Hunting,111900,Other Crop Farming,T
+112410,110000,Agriculture Forestry Fishing and Hunting,111910,Tobacco Farming,T
+112420,110000,Agriculture Forestry Fishing and Hunting,111920,Cotton Farming,T
+112430,110000,Agriculture Forestry Fishing and Hunting,111930,Sugarcane Farming,T
+112440,110000,Agriculture Forestry Fishing and Hunting,111940,Hay Farming,T
+112490,110000,Agriculture Forestry Fishing and Hunting,111990,All Other Crop Farming,T
+112491,110000,Agriculture Forestry Fishing and Hunting,111991,Sugar Beet Farming,T
+112492,110000,Agriculture Forestry Fishing and Hunting,111992,Peanut Farming,T
+112498,110000,Agriculture Forestry Fishing and Hunting,111998,All Other Miscellaneous Crop Farming,T
+112500,110000,Agriculture Forestry Fishing and Hunting,112000,Animal Production,T
+112600,110000,Agriculture Forestry Fishing and Hunting,112100,Cattle Ranching and Farming,T
+112610,110000,Agriculture Forestry Fishing and Hunting,112110,Beef Cattle Ranching and Farming including Feedlots,T
+112611,110000,Agriculture Forestry Fishing and Hunting,112111,Beef Cattle Ranching and Farming,T
+112612,110000,Agriculture Forestry Fishing and Hunting,112112,Cattle Feedlots,T
+112620,110000,Agriculture Forestry Fishing and Hunting,112120,Dairy Cattle and Milk Production,T
+112630,110000,Agriculture Forestry Fishing and Hunting,112130,Dual Purpose Cattle Ranching and Farming,T
+112700,110000,Agriculture Forestry Fishing and Hunting,112200,Hog and Pig Farming,T
+112710,110000,Agriculture Forestry Fishing and Hunting,112210,Hog and Pig Farming,T
+112800,110000,Agriculture Forestry Fishing and Hunting,112300,Poultry and Egg Production,T
+112810,110000,Agriculture Forestry Fishing and Hunting,112310,Chicken Egg Production,T
+112820,110000,Agriculture Forestry Fishing and Hunting,112320,Broilers and Other Meat Type Chicken Production,T
+112830,110000,Agriculture Forestry Fishing and Hunting,112330,Turkey Production,T
+112840,110000,Agriculture Forestry Fishing and Hunting,112340,Poultry Hatcheries,T
+112890,110000,Agriculture Forestry Fishing and Hunting,112390,Other Poultry Production,T
+112900,110000,Agriculture Forestry Fishing and Hunting,112400,Sheep and Goat Farming,T
+112910,110000,Agriculture Forestry Fishing and Hunting,112410,Sheep Farming,T
+112920,110000,Agriculture Forestry Fishing and Hunting,112420,Goat Farming,T
+113000,110000,Agriculture Forestry Fishing and Hunting,112500,Animal Aquaculture,T
+113010,110000,Agriculture Forestry Fishing and Hunting,112510,Animal Aquaculture,T
+113011,110000,Agriculture Forestry Fishing and Hunting,112511,Finfish Farming and Fish Hatcheries,T
+113012,110000,Agriculture Forestry Fishing and Hunting,112512,Shellfish Farming,T
+113019,110000,Agriculture Forestry Fishing and Hunting,112519,Other Animal Aquaculture,T
+113400,110000,Agriculture Forestry Fishing and Hunting,112900,Other Animal Production,T
+113410,110000,Agriculture Forestry Fishing and Hunting,112910,Apiculture,T
+113420,110000,Agriculture Forestry Fishing and Hunting,112920,Horse and Other Equine Production,T
+113430,110000,Agriculture Forestry Fishing and Hunting,112930,Fur-Bearing Animal and Rabbit Production,T
+113490,110000,Agriculture Forestry Fishing and Hunting,112990,All Other Animal Production,T
+113500,110000,Agriculture Forestry Fishing and Hunting,113000,Forestry and Logging,T
+113600,110000,Agriculture Forestry Fishing and Hunting,113100,Timber Tract Operations,T
+113610,110000,Agriculture Forestry Fishing and Hunting,113110,Timber Tract Operations,T
+113700,110000,Agriculture Forestry Fishing and Hunting,113200,Forest Nurseries and Gathering of Forest Products,T
+113710,110000,Agriculture Forestry Fishing and Hunting,113210,Forest Nurseries and Gathering of Forest Products,T
+113800,110000,Agriculture Forestry Fishing and Hunting,113300,Logging,T
+113810,110000,Agriculture Forestry Fishing and Hunting,113310,Logging,T
+114500,110000,Agriculture Forestry Fishing and Hunting,114000,Fishing Hunting and Trapping,T
+114600,110000,Agriculture Forestry Fishing and Hunting,114100,Fishing,T
+114610,110000,Agriculture Forestry Fishing and Hunting,114110,Fishing,T
+114611,110000,Agriculture Forestry Fishing and Hunting,114111,Finfish Fishing,T
+114612,110000,Agriculture Forestry Fishing and Hunting,114112,Shellfish Fishing,T
+114619,110000,Agriculture Forestry Fishing and Hunting,114119,Other Marine Fishing,T
+114700,110000,Agriculture Forestry Fishing and Hunting,114200,Hunting and Trapping,T
+114710,110000,Agriculture Forestry Fishing and Hunting,114210,Hunting and Trapping,T
+115500,110000,Agriculture Forestry Fishing and Hunting,115000,Support Activities for Agriculture and Forestry,T
+115600,110000,Agriculture Forestry Fishing and Hunting,115100,Support Activities for Crop Production,T
+115610,110000,Agriculture Forestry Fishing and Hunting,115110,Support Activities for Crop Production,T
+115611,110000,Agriculture Forestry Fishing and Hunting,115111,Cotton Ginning,T
+115612,110000,Agriculture Forestry Fishing and Hunting,115112,Soil Preparation Planting and Cultivating,T
+115613,110000,Agriculture Forestry Fishing and Hunting,115113,Crop Harvesting Primarily by Machine,T
+115614,110000,Agriculture Forestry Fishing and Hunting,115114,Postharvest Crop Activities (except Cotton Ginning),T
+115615,110000,Agriculture Forestry Fishing and Hunting,115115,Farm Labor Contractors and Crew Leaders,T
+115616,110000,Agriculture Forestry Fishing and Hunting,115116,Farm Management Services,T
+115700,110000,Agriculture Forestry Fishing and Hunting,115200,Support Activities for Animal Production,T
+115710,110000,Agriculture Forestry Fishing and Hunting,115210,Support Activities for Animal Production,T
+115800,110000,Agriculture Forestry Fishing and Hunting,115300,Support Activities for Forestry,T
+115810,110000,Agriculture Forestry Fishing and Hunting,115310,Support Activities for Forestry,T
+210500,210000,Mining,210000,Mining,T
+211500,210000,Mining,211000,Oil and Gas Extraction,T
+211600,210000,Mining,211100,Oil and Gas Extraction,T
+211610,210000,Mining,211110,Oil and Gas Extraction,T
+211611,210000,Mining,211111,Crude Petroleum and Natural Gas Extraction,T
+211612,210000,Mining,211112,Natural Gas Liquid Extraction,T
+212500,210000,Mining,212000,Mining (except Oil and Gas),T
+212600,210000,Mining,212100,Coal Mining,T
+212610,210000,Mining,212110,Coal Mining,T
+212611,210000,Mining,212111,Bituminous Coal and Lignite Surface Mining,T
+212612,210000,Mining,212112,Bituminous Coal Underground Mining,T
+212613,210000,Mining,212113,Anthracite Mining,T
+212700,210000,Mining,212200,Metal Ore Mining,T
+212710,210000,Mining,212210,Iron Ore Mining,T
+212720,210000,Mining,212220,Gold Ore and Silver Ore Mining,T
+212721,210000,Mining,212221,Gold Ore Mining,T
+212722,210000,Mining,212222,Silver Ore Mining,T
+212730,210000,Mining,212230,Copper Nickel Lead and Zinc Mining,T
+212731,210000,Mining,212231,Lead Ore and Zinc Ore Mining,T
+212734,210000,Mining,212234,Copper Ore and Nickel Ore Mining,T
+212790,210000,Mining,212290,Other Metal Ore Mining,T
+212791,210000,Mining,212291,Uranium-Radium-Vanadium Ore Mining,T
+212799,210000,Mining,212299,All Other Metal Ore Mining,T
+212800,210000,Mining,212300,Nonmetallic Mineral Mining and Quarrying,T
+212810,210000,Mining,212310,Stone Mining and Quarrying,T
+212811,210000,Mining,212311,Dimension Stone Mining and Quarrying,T
+212812,210000,Mining,212312,Crushed and Broken Limestone Mining and Quarrying,T
+212813,210000,Mining,212313,Crushed and Broken Granite Mining and Quarrying,T
+212819,210000,Mining,212319,Other Crushed and Broken Stone Mining and Quarrying,T
+212820,210000,Mining,212320,Sand Gravel Clay and Ceramic and Refractory Minerals Mining and Quarrying,T
+212821,210000,Mining,212321,Construction Sand and Gravel Mining,T
+212822,210000,Mining,212322,Industrial Sand Mining,T
+212824,210000,Mining,212324,Kaolin and Ball Clay Mining,T
+212825,210000,Mining,212325,Clay and Ceramic and Refractory Minerals Mining,T
+212890,210000,Mining,212390,Other Nonmetallic Mineral Mining and Quarrying,T
+212891,210000,Mining,212391,Potash Soda and Borate Mineral Mining,T
+212892,210000,Mining,212392,Phosphate Rock Mining,T
+212893,210000,Mining,212393,Other Chemical and Fertilizer Mineral Mining,T
+212899,210000,Mining,212399,All Other Nonmetallic Mineral Mining,T
+213500,210000,Mining,213000,Support Activities for Mining,T
+213600,210000,Mining,213100,Support Activities for Mining,T
+213610,210000,Mining,213110,Support Activities for Mining,T
+213611,210000,Mining,213111,Drilling Oil and Gas Wells,T
+213612,210000,Mining,213112,Support Activities for Oil and Gas Operations,T
+213613,210000,Mining,213113,Support Activities for Coal Mining,T
+213614,210000,Mining,213114,Support Activities for Metal Mining,T
+213615,210000,Mining,213115,Support Activities for Nonmetallic Minerals (except Fuels),T
+220500,210000,Mining,220000,Utilities,T
+221500,210000,Mining,221000,Utilities,T
+221600,210000,Mining,221100,Electric Power Generation Transmission and Distribution,T
+221610,210000,Mining,221110,Electric Power Generation,T
+221611,210000,Mining,221111,Hydroelectric Power Generation,T
+221612,210000,Mining,221112,Fossil Fuel Electric Power Generation,T
+221613,210000,Mining,221113,Nuclear Electric Power Generation,T
+221619,210000,Mining,221119,Other Electric Power Generation,T
+221620,210000,Mining,221120,Electric Power Transmission Control and Distribution,T
+221621,210000,Mining,221121,Electric Bulk Power Transmission and Control,T
+221622,210000,Mining,221122,Electric Power Distribution,T
+221700,210000,Mining,221200,Natural Gas Distribution,T
+221710,210000,Mining,221210,Natural Gas Distribution,T
+221800,210000,Mining,221300,Water Sewage and Other Systems,T
+221810,210000,Mining,221310,Water Supply and Irrigation Systems,T
+221820,210000,Mining,221320,Sewage Treatment Facilities,T
+221830,210000,Mining,221330,Steam and Air-Conditioning Supply,T
+230500,230000,Construction,230000,Construction,T
+233500,230000,Construction,233000,Building Developing and General Contracting,T
+233600,230000,Construction,233100,Land Subdivision and Land Development,T
+233610,230000,Construction,233110,Land Subdivision and Land Development,T
+233700,230000,Construction,233200,Residential Building Construction,T
+233710,230000,Construction,233210,Single Family Housing Construction,T
+233720,230000,Construction,233220,Multifamily Housing Construction,T
+233800,230000,Construction,233300,Nonresidential Building Construction,T
+233810,230000,Construction,233310,Manufacturing and Industrial Building Construction,T
+233820,230000,Construction,233320,Commercial and Institutional Building Construction,T
+234500,230000,Construction,234000,Heavy Construction,T
+234600,230000,Construction,234100,Highway Street Bridge and Tunnel Construction,T
+234610,230000,Construction,234110,Highway and Street Construction,T
+234620,230000,Construction,234120,Bridge and Tunnel Construction,T
+235400,230000,Construction,234900,Other Heavy Construction,T
+235410,230000,Construction,234910,Water Sewer and Pipeline Construction,T
+235420,230000,Construction,234920,Power and Communication Transmission Line Construction,T
+235430,230000,Construction,234930,Industrial Nonbuilding Structure Construction,T
+235490,230000,Construction,234990,All Other Heavy Construction,T
+235500,230000,Construction,235000,Special Trade Contractors,T
+235600,230000,Construction,235100,Plumbing Heating and Air-Conditioning Contractors,T
+235610,230000,Construction,235110,Plumbing Heating and Air-Conditioning Contractors,T
+235700,230000,Construction,235200,Painting and Wall Covering Contractors,T
+235710,230000,Construction,235210,Painting and Wall Covering Contractors,T
+235800,230000,Construction,235300,Electrical Contractors,T
+235810,230000,Construction,235310,Electrical Contractors,T
+235900,230000,Construction,235400,Masonry Drywall Insulation and Tile Contractors,T
+235910,230000,Construction,235410,Masonry and Stone Contractors,T
+235920,230000,Construction,235420,Drywall Plastering Acoustical and Insulation Contractors,T
+235930,230000,Construction,235430,Tile Marble Terrazzo and Mosaic Contractors,T
+236000,230000,Construction,235500,Carpentry and Floor Contractors,T
+236010,230000,Construction,235510,Carpentry Contractors,T
+236020,230000,Construction,235520,Floor Laying and Other Floor Contractors,T
+236100,230000,Construction,235600,Roofing Siding and Sheet Metal Contractors,T
+236110,230000,Construction,235610,Roofing Siding and Sheet Metal Contractors,T
+236200,230000,Construction,235700,Concrete Contractors,T
+236210,230000,Construction,235710,Concrete Contractors,T
+236300,230000,Construction,235800,Water Well Drilling Contractors,T
+236310,230000,Construction,235810,Water Well Drilling Contractors,T
+236400,230000,Construction,235900,Other Special Trade Contractors,T
+236410,230000,Construction,235910,Structural Steel Erection Contractors,T
+236420,230000,Construction,235920,Glass and Glazing Contractors,T
+236430,230000,Construction,235930,Excavation Contractors,T
+236440,230000,Construction,235940,Wrecking and Demolition Contractors,T
+236450,230000,Construction,235950,Building Equipment and Other Machinery Installation Contractors,T
+236490,230000,Construction,235990,All Other Special Trade Contractors,T
+310500,310000,Manufacturing,310000,Manufacturing,T
+320500,320000,Manufacturing,320000,Manufacturing,T
+330500,330000,Manufacturing,330000,Manufacturing,T
+311500,310000,Manufacturing,311000,Food Manufacturing,T
+311600,310000,Manufacturing,311100,Animal Food Manufacturing,T
+311610,310000,Manufacturing,311110,Animal Food Manufacturing,T
+311611,310000,Manufacturing,311111,Dog and Cat Food Manufacturing,T
+311619,310000,Manufacturing,311119,Other Animal Food Manufacturing,T
+311700,310000,Manufacturing,311200,Grain and Oilseed Milling,T
+311710,310000,Manufacturing,311210,Flour Milling and Malt Manufacturing,T
+311711,310000,Manufacturing,311211,Flour Milling,T
+311712,310000,Manufacturing,311212,Rice Milling,T
+311713,310000,Manufacturing,311213,Malt Manufacturing,T
+311720,310000,Manufacturing,311220,Starch and Vegetable Fats and Oils Manufacturing,T
+311721,310000,Manufacturing,311221,Wet Corn Milling,T
+311722,310000,Manufacturing,311222,Soybean Processing,T
+311723,310000,Manufacturing,311223,Other Oilseed Processing,T
+311725,310000,Manufacturing,311225,Fats and Oils Refining and Blending,T
+311730,310000,Manufacturing,311230,Breakfast Cereal Manufacturing,T
+311800,310000,Manufacturing,311300,Sugar and Confectionery Product Manufacturing,T
+311810,310000,Manufacturing,311310,Sugar Manufacturing,T
+311811,310000,Manufacturing,311311,Sugarcane Mills,T
+311812,310000,Manufacturing,311312,Cane Sugar Refining,T
+311813,310000,Manufacturing,311313,Beet Sugar Manufacturing,T
+311820,310000,Manufacturing,311320,Chocolate and Confectionery Manufacturing from Cacao Beans,T
+311830,310000,Manufacturing,311330,Confectionery Manufacturing from Purchased Chocolate,T
+311840,310000,Manufacturing,311340,Nonchocolate Confectionery Manufacturing,T
+311900,310000,Manufacturing,311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing,T
+311910,310000,Manufacturing,311410,Frozen Food Manufacturing,T
+311911,310000,Manufacturing,311411,Frozen Fruit Juice and Vegetable Manufacturing,T
+311912,310000,Manufacturing,311412,Frozen Specialty Food Manufacturing,T
+311920,310000,Manufacturing,311420,Fruit and Vegetable Canning Pickling and Drying,T
+311921,310000,Manufacturing,311421,Fruit and Vegetable Canning,T
+311922,310000,Manufacturing,311422,Specialty Canning,T
+311923,310000,Manufacturing,311423,Dried and Dehydrated Food Manufacturing,T
+312000,310000,Manufacturing,311500,Dairy Product Manufacturing,T
+312010,310000,Manufacturing,311510,Dairy Product (except Frozen) Manufacturing,T
+312011,310000,Manufacturing,311511,Fluid Milk Manufacturing,T
+312012,310000,Manufacturing,311512,Creamery Butter Manufacturing,T
+312013,310000,Manufacturing,311513,Cheese Manufacturing,T
+312014,310000,Manufacturing,311514,Dry Condensed and Evaporated Dairy Product Manufacturing,T
+312020,310000,Manufacturing,311520,Ice Cream and Frozen Dessert Manufacturing,T
+312100,310000,Manufacturing,311600,Animal Slaughtering and Processing,T
+312110,310000,Manufacturing,311610,Animal Slaughtering and Processing,T
+312111,310000,Manufacturing,311611,Animal (except Poultry) Slaughtering,T
+312112,310000,Manufacturing,311612,Meat Processed from Carcasses,T
+312113,310000,Manufacturing,311613,Rendering and Meat Byproduct Processing,T
+312115,310000,Manufacturing,311615,Poultry Processing,T
+312200,310000,Manufacturing,311700,Seafood Product Preparation and Packaging,T
+312210,310000,Manufacturing,311710,Seafood Product Preparation and Packaging,T
+312211,310000,Manufacturing,311711,Seafood Canning,T
+312212,310000,Manufacturing,311712,Fresh and Frozen Seafood Processing,T
+312300,310000,Manufacturing,311800,Bakeries and Tortilla Manufacturing,T
+312310,310000,Manufacturing,311810,Bread and Bakery Product Manufacturing,T
+312311,310000,Manufacturing,311811,Retail Bakeries,T
+312312,310000,Manufacturing,311812,Commercial Bakeries,T
+312313,310000,Manufacturing,311813,Frozen Cakes Pies and Other Pastries Manufacturing,T
+312320,310000,Manufacturing,311820,Cookie Cracker and Pasta Manufacturing,T
+312321,310000,Manufacturing,311821,Cookie and Cracker Manufacturing,T
+312322,310000,Manufacturing,311822,Flour Mixes and Dough Manufacturing from Purchased Flour,T
+312323,310000,Manufacturing,311823,Dry Pasta Manufacturing,T
+312330,310000,Manufacturing,311830,Tortilla Manufacturing,T
+312400,310000,Manufacturing,311900,Other Food Manufacturing,T
+312410,310000,Manufacturing,311910,Snack Food Manufacturing,T
+312411,310000,Manufacturing,311911,Roasted Nuts and Peanut Butter Manufacturing,T
+312419,310000,Manufacturing,311919,Other Snack Food Manufacturing,T
+312420,310000,Manufacturing,311920,Coffee and Tea Manufacturing,T
+312430,310000,Manufacturing,311930,Flavoring Syrup and Concentrate Manufacturing,T
+312440,310000,Manufacturing,311940,Seasoning and Dressing Manufacturing,T
+312441,310000,Manufacturing,311941,Mayonnaise Dressing and Other Prepared Sauce Manufacturing,T
+312442,310000,Manufacturing,311942,Spice and Extract Manufacturing,T
+312490,310000,Manufacturing,311990,All Other Food Manufacturing,T
+312491,310000,Manufacturing,311991,Perishable Prepared Food Manufacturing,T
+312499,310000,Manufacturing,311999,All Other Miscellaneous Food Manufacturing,T
+312500,310000,Manufacturing,312000,Beverage and Tobacco Product Manufacturing,T
+312600,310000,Manufacturing,312100,Beverage Manufacturing,T
+312610,310000,Manufacturing,312110,Soft Drink and Ice Manufacturing,T
+312611,310000,Manufacturing,312111,Soft Drink Manufacturing,T
+312612,310000,Manufacturing,312112,Bottled Water Manufacturing,T
+312613,310000,Manufacturing,312113,Ice Manufacturing,T
+312620,310000,Manufacturing,312120,Breweries,T
+312630,310000,Manufacturing,312130,Wineries,T
+312640,310000,Manufacturing,312140,Distilleries,T
+312700,310000,Manufacturing,312200,Tobacco Manufacturing,T
+312710,310000,Manufacturing,312210,Tobacco Stemming and Redrying,T
+312720,310000,Manufacturing,312220,Tobacco Product Manufacturing,T
+312721,310000,Manufacturing,312221,Cigarette Manufacturing,T
+312729,310000,Manufacturing,312229,Other Tobacco Product Manufacturing,T
+313500,310000,Manufacturing,313000,Textile Mills,T
+313600,310000,Manufacturing,313100,Fiber Yarn and Thread Mills,T
+313610,310000,Manufacturing,313110,Fiber Yarn and Thread Mills,T
+313611,310000,Manufacturing,313111,Yarn Spinning Mills,T
+313612,310000,Manufacturing,313112,Yarn Texturizing Throwing and Twisting Mills,T
+313613,310000,Manufacturing,313113,Thread Mills,T
+313700,310000,Manufacturing,313200,Fabric Mills,T
+313710,310000,Manufacturing,313210,Broadwoven Fabric Mills,T
+313720,310000,Manufacturing,313220,Narrow Fabric Mills and Schiffli Machine Embroidery,T
+313721,310000,Manufacturing,313221,Narrow Fabric Mills,T
+313722,310000,Manufacturing,313222,Schiffli Machine Embroidery,T
+313730,310000,Manufacturing,313230,Nonwoven Fabric Mills,T
+313740,310000,Manufacturing,313240,Knit Fabric Mills,T
+313741,310000,Manufacturing,313241,Weft Knit Fabric Mills,T
+313749,310000,Manufacturing,313249,Other Knit Fabric and Lace Mills,T
+313800,310000,Manufacturing,313300,Textile and Fabric Finishing and Fabric Coating Mills,T
+313810,310000,Manufacturing,313310,Textile and Fabric Finishing Mills,T
+313811,310000,Manufacturing,313311,Broadwoven Fabric Finishing Mills,T
+313812,310000,Manufacturing,313312,Textile and Fabric Finishing (except Broadwoven Fabric) Mills,T
+313820,310000,Manufacturing,313320,Fabric Coating Mills,T
+314500,310000,Manufacturing,314000,Textile Product Mills,T
+314600,310000,Manufacturing,314100,Textile Furnishings Mills,T
+314610,310000,Manufacturing,314110,Carpet and Rug Mills,T
+314620,310000,Manufacturing,314120,Curtain and Linen Mills,T
+314621,310000,Manufacturing,314121,Curtain and Drapery Mills,T
+314629,310000,Manufacturing,314129,Other Household Textile Product Mills,T
+315400,310000,Manufacturing,314900,Other Textile Product Mills,T
+315410,310000,Manufacturing,314910,Textile Bag and Canvas Mills,T
+315411,310000,Manufacturing,314911,Textile Bag Mills,T
+315412,310000,Manufacturing,314912,Canvas and Related Product Mills,T
+315490,310000,Manufacturing,314990,All Other Textile Product Mills,T
+315491,310000,Manufacturing,314991,Rope Cordage and Twine Mills,T
+315492,310000,Manufacturing,314992,Tire Cord and Tire Fabric Mills,T
+315499,310000,Manufacturing,314999,All Other Miscellaneous Textile Product Mills,T
+315500,310000,Manufacturing,315000,Apparel Manufacturing,T
+315600,310000,Manufacturing,315100,Apparel Knitting Mills,T
+315610,310000,Manufacturing,315110,Hosiery and Sock Mills,T
+315611,310000,Manufacturing,315111,Sheer Hosiery Mills,T
+315619,310000,Manufacturing,315119,Other Hosiery and Sock Mills,T
+315690,310000,Manufacturing,315190,Other Apparel Knitting Mills,T
+315691,310000,Manufacturing,315191,Outerwear Knitting Mills,T
+315692,310000,Manufacturing,315192,Underwear and Nightwear Knitting Mills,T
+315700,310000,Manufacturing,315200,Cut and Sew Apparel Manufacturing,T
+315710,310000,Manufacturing,315210,Cut and Sew Apparel Contractors,T
+315711,310000,Manufacturing,315211,Mens and Boys Cut and Sew Apparel Contractors,T
+315712,310000,Manufacturing,315212,Womens Girls and Infants Cut and Sew Apparel Contractors,T
+315720,310000,Manufacturing,315220,Mens and Boys Cut and Sew Apparel Manufacturing,T
+315721,310000,Manufacturing,315221,Mens and Boys Cut and Sew Underwear and Nightwear Manufacturing,T
+315722,310000,Manufacturing,315222,Mens and Boys Cut and Sew Suit Coat and Overcoat Manufacturing,T
+315723,310000,Manufacturing,315223,Mens and Boys Cut and Sew Shirt (except Work Shirt) Manufacturing,T
+315724,310000,Manufacturing,315224,Mens and Boys Cut and Sew Trouser Slack and Jean Manufacturing,T
+315725,310000,Manufacturing,315225,Mens and Boys Cut and Sew Work Clothing Manufacturing,T
+315728,310000,Manufacturing,315228,Mens and Boys Cut and Sew Other Outerwear Manufacturing,T
+315730,310000,Manufacturing,315230,Womens and Girls Cut and Sew Apparel Manufacturing,T
+315731,310000,Manufacturing,315231,Womens and Girls Cut and Sew Lingerie Loungewear and Nightwear Manufacturing,T
+315732,310000,Manufacturing,315232,Womens and Girls Cut and Sew Blouse and Shirt Manufacturing,T
+315733,310000,Manufacturing,315233,Womens and Girls Cut and Sew Dress Manufacturing,T
+315734,310000,Manufacturing,315234,Womens and Girls Cut and Sew Suit Coat Tailored Jacket and Skirt Manufacturing,T
+315739,310000,Manufacturing,315239,Womens and Girls Cut and Sew Other Outerwear Manufacturing,T
+315790,310000,Manufacturing,315290,Other Cut and Sew Apparel Manufacturing,T
+315791,310000,Manufacturing,315291,Infants Cut and Sew Apparel Manufacturing,T
+315792,310000,Manufacturing,315292,Fur and Leather Apparel Manufacturing,T
+315799,310000,Manufacturing,315299,All Other Cut and Sew Apparel Manufacturing,T
+316400,310000,Manufacturing,315900,Apparel Accessories and Other Apparel Manufacturing,T
+316490,310000,Manufacturing,315990,Apparel Accessories and Other Apparel Manufacturing,T
+316491,310000,Manufacturing,315991,Hat Cap and Millinery Manufacturing,T
+316492,310000,Manufacturing,315992,Glove and Mitten Manufacturing,T
+316493,310000,Manufacturing,315993,Mens and Boys Neckwear Manufacturing,T
+316499,310000,Manufacturing,315999,Other Apparel Accessories and Other Apparel Manufacturing,T
+316500,310000,Manufacturing,316000,Leather and Allied Product Manufacturing,T
+316600,310000,Manufacturing,316100,Leather and Hide Tanning and Finishing,T
+316610,310000,Manufacturing,316110,Leather and Hide Tanning and Finishing,T
+316700,310000,Manufacturing,316200,Footwear Manufacturing,T
+316710,310000,Manufacturing,316210,Footwear Manufacturing,T
+316711,310000,Manufacturing,316211,Rubber and Plastics Footwear Manufacturing,T
+316712,310000,Manufacturing,316212,House Slipper Manufacturing,T
+316713,310000,Manufacturing,316213,Mens Footwear (except Athletic) Manufacturing,T
+316714,310000,Manufacturing,316214,Womens Footwear (except Athletic) Manufacturing,T
+316719,310000,Manufacturing,316219,Other Footwear Manufacturing,T
+317400,310000,Manufacturing,316900,Other Leather and Allied Product Manufacturing,T
+317490,310000,Manufacturing,316990,Other Leather and Allied Product Manufacturing,T
+317491,310000,Manufacturing,316991,Luggage Manufacturing,T
+317492,310000,Manufacturing,316992,Womens Handbag and Purse Manufacturing,T
+317493,310000,Manufacturing,316993,Personal Leather Good (except Womens Handbag and Purse) Manufacturing,T
+317499,310000,Manufacturing,316999,All Other Leather Good Manufacturing,T
+321500,320000,Manufacturing,321000,Wood Product Manufacturing,T
+321600,320000,Manufacturing,321100,Sawmills and Wood Preservation,T
+321610,320000,Manufacturing,321110,Sawmills and Wood Preservation,T
+321613,320000,Manufacturing,321113,Sawmills,T
+321614,320000,Manufacturing,321114,Wood Preservation,T
+321700,320000,Manufacturing,321200,Veneer Plywood and Engineered Wood Product Manufacturing,T
+321710,320000,Manufacturing,321210,Veneer Plywood and Engineered Wood Product Manufacturing,T
+321711,320000,Manufacturing,321211,Hardwood Veneer and Plywood Manufacturing,T
+321712,320000,Manufacturing,321212,Softwood Veneer and Plywood Manufacturing,T
+321713,320000,Manufacturing,321213,Engineered Wood Member (except Truss) Manufacturing,T
+321714,320000,Manufacturing,321214,Truss Manufacturing,T
+321719,320000,Manufacturing,321219,Reconstituted Wood Product Manufacturing,T
+322400,320000,Manufacturing,321900,Other Wood Product Manufacturing,T
+322410,320000,Manufacturing,321910,Millwork,T
+322411,320000,Manufacturing,321911,Wood Window and Door Manufacturing,T
+322412,320000,Manufacturing,321912,Cut Stock Resawing Lumber and Planing,T
+322418,320000,Manufacturing,321918,Other Millwork (including Flooring),T
+322420,320000,Manufacturing,321920,Wood Container and Pallet Manufacturing,T
+322490,320000,Manufacturing,321990,All Other Wood Product Manufacturing,T
+322491,320000,Manufacturing,321991,Manufactured Home (Mobile Home) Manufacturing,T
+322492,320000,Manufacturing,321992,Prefabricated Wood Building Manufacturing,T
+322499,320000,Manufacturing,321999,All Other Miscellaneous Wood Product Manufacturing,T
+322500,320000,Manufacturing,322000,Paper Manufacturing,T
+322600,320000,Manufacturing,322100,Pulp Paper and Paperboard Mills,T
+322610,320000,Manufacturing,322110,Pulp Mills,T
+322620,320000,Manufacturing,322120,Paper Mills,T
+322621,320000,Manufacturing,322121,Paper (except Newsprint) Mills,T
+322622,320000,Manufacturing,322122,Newsprint Mills,T
+322630,320000,Manufacturing,322130,Paperboard Mills,T
+322700,320000,Manufacturing,322200,Converted Paper Product Manufacturing,T
+322710,320000,Manufacturing,322210,Paperboard Container Manufacturing,T
+322711,320000,Manufacturing,322211,Corrugated and Solid Fiber Box Manufacturing,T
+322712,320000,Manufacturing,322212,Folding Paperboard Box Manufacturing,T
+322713,320000,Manufacturing,322213,Setup Paperboard Box Manufacturing,T
+322714,320000,Manufacturing,322214,Fiber Can Tube Drum and Similar Products Manufacturing,T
+322715,320000,Manufacturing,322215,Nonfolding Sanitary Food Container Manufacturing,T
+322720,320000,Manufacturing,322220,Paper Bag and Coated and Treated Paper Manufacturing,T
+322721,320000,Manufacturing,322221,Coated and Laminated Packaging Paper and Plastics Film Manufacturing,T
+322722,320000,Manufacturing,322222,Coated and Laminated Paper Manufacturing,T
+322723,320000,Manufacturing,322223,Plastics Foil and Coated Paper Bag Manufacturing,T
+322724,320000,Manufacturing,322224,Uncoated Paper and Multiwall Bag Manufacturing,T
+322725,320000,Manufacturing,322225,Laminated Aluminum Foil Manufacturing for Flexible Packaging Uses,T
+322726,320000,Manufacturing,322226,Surface-Coated Paperboard Manufacturing,T
+322730,320000,Manufacturing,322230,Stationery Product Manufacturing,T
+322731,320000,Manufacturing,322231,Die-Cut Paper and Paperboard Office Supplies Manufacturing,T
+322732,320000,Manufacturing,322232,Envelope Manufacturing,T
+322733,320000,Manufacturing,322233,Stationery Tablet and Related Product Manufacturing,T
+322790,320000,Manufacturing,322290,Other Converted Paper Product Manufacturing,T
+322791,320000,Manufacturing,322291,Sanitary Paper Product Manufacturing,T
+322799,320000,Manufacturing,322299,All Other Converted Paper Product Manufacturing,T
+323500,320000,Manufacturing,323000,Printing and Related Support Activities,T
+323600,320000,Manufacturing,323100,Printing and Related Support Activities,T
+323610,320000,Manufacturing,323110,Printing,T
+323610,320000,Manufacturing,323110,Commercial Lithographic Printing,T
+323611,320000,Manufacturing,323111,Commercial Gravure Printing,T
+323612,320000,Manufacturing,323112,Commercial Flexographic Printing,T
+323613,320000,Manufacturing,323113,Commercial Screen Printing,T
+323614,320000,Manufacturing,323114,Quick Printing,T
+323615,320000,Manufacturing,323115,Digital Printing,T
+323616,320000,Manufacturing,323116,Manifold Business Forms Printing,T
+323617,320000,Manufacturing,323117,Books Printing,T
+323618,320000,Manufacturing,323118,Blankbook Looseleaf Binders and Devices Manufacturing,T
+323619,320000,Manufacturing,323119,Other Commercial Printing,T
+323620,320000,Manufacturing,323120,Support Activities for Printing,T
+323621,320000,Manufacturing,323121,Tradebinding and Related Work,T
+323622,320000,Manufacturing,323122,Prepress Services,T
+324500,320000,Manufacturing,324000,Petroleum and Coal Products Manufacturing,T
+324600,320000,Manufacturing,324100,Petroleum and Coal Products Manufacturing,T
+324610,320000,Manufacturing,324110,Petroleum Refineries,T
+324620,320000,Manufacturing,324120,Asphalt Paving Roofing and Saturated Materials Manufacturing,T
+324621,320000,Manufacturing,324121,Asphalt Paving Mixture and Block Manufacturing,T
+324622,320000,Manufacturing,324122,Asphalt Shingle and Coating Materials Manufacturing,T
+324690,320000,Manufacturing,324190,Other Petroleum and Coal Products Manufacturing,T
+324691,320000,Manufacturing,324191,Petroleum Lubricating Oil and Grease Manufacturing,T
+324699,320000,Manufacturing,324199,All Other Petroleum and Coal Products Manufacturing,T
+325500,320000,Manufacturing,325000,Chemical Manufacturing,T
+325600,320000,Manufacturing,325100,Basic Chemical Manufacturing,T
+325610,320000,Manufacturing,325110,Petrochemical Manufacturing,T
+325620,320000,Manufacturing,325120,Industrial Gas Manufacturing,T
+325630,320000,Manufacturing,325130,Synthetic Dye and Pigment Manufacturing,T
+325631,320000,Manufacturing,325131,Inorganic Dye and Pigment Manufacturing,T
+325632,320000,Manufacturing,325132,Synthetic Organic Dye and Pigment Manufacturing,T
+325680,320000,Manufacturing,325180,Other Basic Inorganic Chemical Manufacturing,T
+325681,320000,Manufacturing,325181,Alkalies and Chlorine Manufacturing,T
+325682,320000,Manufacturing,325182,Carbon Black Manufacturing,T
+325688,320000,Manufacturing,325188,All Other Basic Inorganic Chemical Manufacturing,T
+325690,320000,Manufacturing,325190,Other Basic Organic Chemical Manufacturing,T
+325691,320000,Manufacturing,325191,Gum and Wood Chemical Manufacturing,T
+325692,320000,Manufacturing,325192,Cyclic Crude and Intermediate Manufacturing,T
+325693,320000,Manufacturing,325193,Ethyl Alcohol Manufacturing,T
+325699,320000,Manufacturing,325199,All Other Basic Organic Chemical Manufacturing,T
+325700,320000,Manufacturing,325200,Resin Synthetic Rubber and Artificial and Synthetic Fibers and Filaments Manufacturing,T
+325710,320000,Manufacturing,325210,Resin and Synthetic Rubber Manufacturing,T
+325711,320000,Manufacturing,325211,Plastics Material and Resin Manufacturing,T
+325712,320000,Manufacturing,325212,Synthetic Rubber Manufacturing,T
+325720,320000,Manufacturing,325220,Artificial and Synthetic Fibers and Filaments Manufacturing,T
+325721,320000,Manufacturing,325221,Cellulosic Organic Fiber Manufacturing,T
+325722,320000,Manufacturing,325222,Noncellulosic Organic Fiber Manufacturing,T
+325800,320000,Manufacturing,325300,Pesticide Fertilizer and Other Agricultural Chemical Manufacturing,T
+325810,320000,Manufacturing,325310,Fertilizer Manufacturing,T
+325811,320000,Manufacturing,325311,Nitrogenous Fertilizer Manufacturing,T
+325812,320000,Manufacturing,325312,Phosphatic Fertilizer Manufacturing,T
+325814,320000,Manufacturing,325314,Fertilizer (Mixing Only) Manufacturing,T
+325820,320000,Manufacturing,325320,Pesticide and Other Agricultural Chemical Manufacturing,T
+325900,320000,Manufacturing,325400,Pharmaceutical and Medicine Manufacturing,T
+325910,320000,Manufacturing,325410,Pharmaceutical and Medicine Manufacturing,T
+325911,320000,Manufacturing,325411,Medicinal and Botanical Manufacturing,T
+325912,320000,Manufacturing,325412,Pharmaceutical Preparation Manufacturing,T
+325913,320000,Manufacturing,325413,In-Vitro Diagnostic Substance Manufacturing,T
+325914,320000,Manufacturing,325414,Biological Product (except Diagnostic) Manufacturing,T
+326000,320000,Manufacturing,325500,Paint Coating and Adhesive Manufacturing,T
+326010,320000,Manufacturing,325510,Paint and Coating Manufacturing,T
+326020,320000,Manufacturing,325520,Adhesive Manufacturing,T
+326100,320000,Manufacturing,325600,Soap Cleaning Compound and Toilet Preparation Manufacturing,T
+326110,320000,Manufacturing,325610,Soap and Cleaning Compound Manufacturing,T
+326111,320000,Manufacturing,325611,Soap and Other Detergent Manufacturing,T
+326112,320000,Manufacturing,325612,Polish and Other Sanitation Good Manufacturing,T
+326113,320000,Manufacturing,325613,Surface Active Agent Manufacturing,T
+326120,320000,Manufacturing,325620,Toilet Preparation Manufacturing,T
+326400,320000,Manufacturing,325900,Other Chemical Product and Preparation Manufacturing,T
+326410,320000,Manufacturing,325910,Printing Ink Manufacturing,T
+326420,320000,Manufacturing,325920,Explosives Manufacturing,T
+326490,320000,Manufacturing,325990,All Other Chemical Product and Preparation Manufacturing,T
+326491,320000,Manufacturing,325991,Custom Compounding of Purchased Resins,T
+326492,320000,Manufacturing,325992,Photographic Film Paper Plate and Chemical Manufacturing,T
+326498,320000,Manufacturing,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,T
+326500,320000,Manufacturing,326000,Plastics and Rubber Products Manufacturing,T
+326600,320000,Manufacturing,326100,Plastics Product Manufacturing,T
+326610,320000,Manufacturing,326110,Unsupported Plastics Film Sheet and Bag Manufacturing,T
+326611,320000,Manufacturing,326111,Unsupported Plastics Bag Manufacturing,T
+326612,320000,Manufacturing,326112,Unsupported Plastics Packaging Film and Sheet Manufacturing,T
+326613,320000,Manufacturing,326113,Unsupported Plastics Film and Sheet (except Packaging) Manufacturing,T
+326620,320000,Manufacturing,326120,Plastics Pipe Pipe Fitting and Unsupported Profile Shape Manufacturing,T
+326621,320000,Manufacturing,326121,Unsupported Plastics Profile Shape Manufacturing,T
+326622,320000,Manufacturing,326122,Plastics Pipe and Pipe Fitting Manufacturing,T
+326630,320000,Manufacturing,326130,Laminated Plastics Plate Sheet and Shape Manufacturing,T
+326640,320000,Manufacturing,326140,Polystyrene Foam Product Manufacturing,T
+326650,320000,Manufacturing,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,T
+326660,320000,Manufacturing,326160,Plastics Bottle Manufacturing,T
+326690,320000,Manufacturing,326190,Other Plastics Product Manufacturing,T
+326691,320000,Manufacturing,326191,Plastics Plumbing Fixture Manufacturing,T
+326692,320000,Manufacturing,326192,Resilient Floor Covering Manufacturing,T
+326699,320000,Manufacturing,326199,All Other Plastics Product Manufacturing,T
+326700,320000,Manufacturing,326200,Rubber Product Manufacturing,T
+326710,320000,Manufacturing,326210,Tire Manufacturing,T
+326711,320000,Manufacturing,326211,Tire Manufacturing (except Retreading),T
+326712,320000,Manufacturing,326212,Tire Retreading,T
+326720,320000,Manufacturing,326220,Rubber and Plastics Hoses and Belting Manufacturing,T
+326790,320000,Manufacturing,326290,Other Rubber Product Manufacturing,T
+326791,320000,Manufacturing,326291,Rubber Product Manufacturing for Mechanical Use,T
+326799,320000,Manufacturing,326299,All Other Rubber Product Manufacturing,T
+327500,320000,Manufacturing,327000,Nonmetallic Mineral Product Manufacturing,T
+327600,320000,Manufacturing,327100,Clay Product and Refractory Manufacturing,T
+327610,320000,Manufacturing,327110,Pottery Ceramics and Plumbing Fixture Manufacturing,T
+327611,320000,Manufacturing,327111,Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing,T
+327612,320000,Manufacturing,327112,Vitreous China Fine Earthenware and Other Pottery Product Manufacturing,T
+327613,320000,Manufacturing,327113,Porcelain Electrical Supply Manufacturing,T
+327620,320000,Manufacturing,327120,Clay Building Material and Refractories Manufacturing,T
+327621,320000,Manufacturing,327121,Brick and Structural Clay Tile Manufacturing,T
+327622,320000,Manufacturing,327122,Ceramic Wall and Floor Tile Manufacturing,T
+327623,320000,Manufacturing,327123,Other Structural Clay Product Manufacturing,T
+327624,320000,Manufacturing,327124,Clay Refractory Manufacturing,T
+327625,320000,Manufacturing,327125,Nonclay Refractory Manufacturing,T
+327700,320000,Manufacturing,327200,Glass and Glass Product Manufacturing,T
+327710,320000,Manufacturing,327210,Glass and Glass Product Manufacturing,T
+327711,320000,Manufacturing,327211,Flat Glass Manufacturing,T
+327712,320000,Manufacturing,327212,Other Pressed and Blown Glass and Glassware Manufacturing,T
+327713,320000,Manufacturing,327213,Glass Container Manufacturing,T
+327715,320000,Manufacturing,327215,Glass Product Manufacturing Made of Purchased Glass,T
+327800,320000,Manufacturing,327300,Cement and Concrete Product Manufacturing,T
+327810,320000,Manufacturing,327310,Cement Manufacturing,T
+327820,320000,Manufacturing,327320,Ready-Mix Concrete Manufacturing,T
+327830,320000,Manufacturing,327330,Concrete Pipe Brick and Block Manufacturing,T
+327831,320000,Manufacturing,327331,Concrete Block and Brick Manufacturing,T
+327832,320000,Manufacturing,327332,Concrete Pipe Manufacturing,T
+327890,320000,Manufacturing,327390,Other Concrete Product Manufacturing,T
+327900,320000,Manufacturing,327400,Lime and Gypsum Product Manufacturing,T
+327910,320000,Manufacturing,327410,Lime Manufacturing,T
+327920,320000,Manufacturing,327420,Gypsum Product Manufacturing,T
+328400,320000,Manufacturing,327900,Other Nonmetallic Mineral Product Manufacturing,T
+328410,320000,Manufacturing,327910,Abrasive Product Manufacturing,T
+328490,320000,Manufacturing,327990,All Other Nonmetallic Mineral Product Manufacturing,T
+328491,320000,Manufacturing,327991,Cut Stone and Stone Product Manufacturing,T
+328492,320000,Manufacturing,327992,Ground or Treated Mineral and Earth Manufacturing,T
+328493,320000,Manufacturing,327993,Mineral Wool Manufacturing,T
+328499,320000,Manufacturing,327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,T
+331500,330000,Manufacturing,331000,Primary Metal Manufacturing,T
+331600,330000,Manufacturing,331100,Iron and Steel Mills and Ferroalloy Manufacturing,T
+331610,330000,Manufacturing,331110,Iron and Steel Mills and Ferroalloy Manufacturing,T
+331611,330000,Manufacturing,331111,Iron and Steel Mills,T
+331612,330000,Manufacturing,331112,Electrometallurgical Ferroalloy Product Manufacturing,T
+331700,330000,Manufacturing,331200,Steel Product Manufacturing from Purchased Steel,T
+331710,330000,Manufacturing,331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,T
+331720,330000,Manufacturing,331220,Rolling and Drawing of Purchased Steel,T
+331721,330000,Manufacturing,331221,Rolled Steel Shape Manufacturing,T
+331722,330000,Manufacturing,331222,Steel Wire Drawing,T
+331800,330000,Manufacturing,331300,Alumina and Aluminum Production and Processing,T
+331810,330000,Manufacturing,331310,Alumina and Aluminum Production and Processing,T
+331811,330000,Manufacturing,331311,Alumina Refining,T
+331812,330000,Manufacturing,331312,Primary Aluminum Production,T
+331814,330000,Manufacturing,331314,Secondary Smelting and Alloying of Aluminum,T
+331815,330000,Manufacturing,331315,Aluminum Sheet Plate and Foil Manufacturing,T
+331816,330000,Manufacturing,331316,Aluminum Extruded Product Manufacturing,T
+331819,330000,Manufacturing,331319,Other Aluminum Rolling and Drawing,T
+331900,330000,Manufacturing,331400,Nonferrous Metal (except Aluminum) Production and Processing,T
+331910,330000,Manufacturing,331410,Nonferrous Metal (except Aluminum) Smelting and Refining,T
+331911,330000,Manufacturing,331411,Primary Smelting and Refining of Copper,T
+331919,330000,Manufacturing,331419,Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum),T
+331920,330000,Manufacturing,331420,Copper Rolling Drawing Extruding and Alloying,T
+331921,330000,Manufacturing,331421,Copper Rolling Drawing and Extruding,T
+331922,330000,Manufacturing,331422,Copper Wire (except Mechanical) Drawing,T
+331923,330000,Manufacturing,331423,Secondary Smelting Refining and Alloying of Copper,T
+331990,330000,Manufacturing,331490,Nonferrous Metal (except Copper and Aluminum) Rolling Drawing Extruding and Alloying,T
+331991,330000,Manufacturing,331491,Nonferrous Metal (except Copper and Aluminum) Rolling Drawing and Extruding,T
+331992,330000,Manufacturing,331492,Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum),T
+332000,330000,Manufacturing,331500,Foundries,T
+332010,330000,Manufacturing,331510,Ferrous Metal Foundries,T
+332011,330000,Manufacturing,331511,Iron Foundries,T
+332012,330000,Manufacturing,331512,Steel Investment Foundries,T
+332013,330000,Manufacturing,331513,Steel Foundries (except Investment),T
+332020,330000,Manufacturing,331520,Nonferrous Metal Foundries,T
+332021,330000,Manufacturing,331521,Aluminum Die-Casting Foundries,T
+332022,330000,Manufacturing,331522,Nonferrous (except Aluminum) Die-Casting Foundries,T
+332024,330000,Manufacturing,331524,Aluminum Foundries (except Die-Casting),T
+332025,330000,Manufacturing,331525,Copper Foundries (except Die-Casting),T
+332028,330000,Manufacturing,331528,Other Nonferrous Foundries (except Die-Casting),T
+332500,330000,Manufacturing,332000,Fabricated Metal Product Manufacturing,T
+332600,330000,Manufacturing,332100,Forging and Stamping,T
+332610,330000,Manufacturing,332110,Forging and Stamping,T
+332611,330000,Manufacturing,332111,Iron and Steel Forging,T
+332612,330000,Manufacturing,332112,Nonferrous Forging,T
+332614,330000,Manufacturing,332114,Custom Roll Forming,T
+332615,330000,Manufacturing,332115,Crown and Closure Manufacturing,T
+332616,330000,Manufacturing,332116,Metal Stamping,T
+332617,330000,Manufacturing,332117,Powder Metallurgy Part Manufacturing,T
+332700,330000,Manufacturing,332200,Cutlery and Handtool Manufacturing,T
+332710,330000,Manufacturing,332210,Cutlery and Handtool Manufacturing,T
+332711,330000,Manufacturing,332211,Cutlery and Flatware (except Precious) Manufacturing,T
+332712,330000,Manufacturing,332212,Hand and Edge Tool Manufacturing,T
+332713,330000,Manufacturing,332213,Saw Blade and Handsaw Manufacturing,T
+332714,330000,Manufacturing,332214,Kitchen Utensil Pot and Pan Manufacturing,T
+332800,330000,Manufacturing,332300,Architectural and Structural Metals Manufacturing,T
+332810,330000,Manufacturing,332310,Plate Work and Fabricated Structural Product Manufacturing,T
+332811,330000,Manufacturing,332311,Prefabricated Metal Building and Component Manufacturing,T
+332812,330000,Manufacturing,332312,Fabricated Structural Metal Manufacturing,T
+332813,330000,Manufacturing,332313,Plate Work Manufacturing,T
+332820,330000,Manufacturing,332320,Ornamental and Architectural Metal Products Manufacturing,T
+332821,330000,Manufacturing,332321,Metal Window and Door Manufacturing,T
+332822,330000,Manufacturing,332322,Sheet Metal Work Manufacturing,T
+332823,330000,Manufacturing,332323,Ornamental and Architectural Metal Work Manufacturing,T
+332900,330000,Manufacturing,332400,Boiler Tank and Shipping Container Manufacturing,T
+332910,330000,Manufacturing,332410,Power Boiler and Heat Exchanger Manufacturing,T
+332920,330000,Manufacturing,332420,Metal Tank (Heavy Gauge) Manufacturing,T
+332930,330000,Manufacturing,332430,Metal Can Box and Other Metal Container (Light Gauge) Manufacturing,T
+332931,330000,Manufacturing,332431,Metal Can Manufacturing,T
+332939,330000,Manufacturing,332439,Other Metal Container Manufacturing,T
+333000,330000,Manufacturing,332500,Hardware Manufacturing,T
+333010,330000,Manufacturing,332510,Hardware Manufacturing,T
+333100,330000,Manufacturing,332600,Spring and Wire Product Manufacturing,T
+333110,330000,Manufacturing,332610,Spring and Wire Product Manufacturing,T
+333111,330000,Manufacturing,332611,Spring (Heavy Gauge) Manufacturing,T
+333112,330000,Manufacturing,332612,Spring (Light Gauge) Manufacturing,T
+333118,330000,Manufacturing,332618,Other Fabricated Wire Product Manufacturing,T
+333200,330000,Manufacturing,332700,Machine Shops; Turned Product; and Screw Nut and Bolt Manufacturing,T
+333210,330000,Manufacturing,332710,Machine Shops,T
+333220,330000,Manufacturing,332720,Turned Product and Screw Nut and Bolt Manufacturing,T
+333221,330000,Manufacturing,332721,Precision Turned Product Manufacturing,T
+333222,330000,Manufacturing,332722,Bolt Nut Screw Rivet and Washer Manufacturing,T
+333300,330000,Manufacturing,332800,Coating Engraving Heat Treating and Allied Activities,T
+333310,330000,Manufacturing,332810,Coating Engraving Heat Treating and Allied Activities,T
+333311,330000,Manufacturing,332811,Metal Heat Treating,T
+333312,330000,Manufacturing,332812,Metal Coating Engraving (except Jewelry and Silverware) and Allied Services to Manufacturers,T
+333313,330000,Manufacturing,332813,Electroplating Plating Polishing Anodizing and Coloring,T
+333400,330000,Manufacturing,332900,Other Fabricated Metal Product Manufacturing,T
+333410,330000,Manufacturing,332910,Metal Valve Manufacturing,T
+333411,330000,Manufacturing,332911,Industrial Valve Manufacturing,T
+333412,330000,Manufacturing,332912,Fluid Power Valve and Hose Fitting Manufacturing,T
+333413,330000,Manufacturing,332913,Plumbing Fixture Fitting and Trim Manufacturing,T
+333419,330000,Manufacturing,332919,Other Metal Valve and Pipe Fitting Manufacturing,T
+333490,330000,Manufacturing,332990,All Other Fabricated Metal Product Manufacturing,T
+333491,330000,Manufacturing,332991,Ball and Roller Bearing Manufacturing,T
+333492,330000,Manufacturing,332992,Small Arms Ammunition Manufacturing,T
+333493,330000,Manufacturing,332993,Ammunition (except Small Arms) Manufacturing,T
+333494,330000,Manufacturing,332994,Small Arms Manufacturing,T
+333495,330000,Manufacturing,332995,Other Ordnance and Accessories Manufacturing,T
+333496,330000,Manufacturing,332996,Fabricated Pipe and Pipe Fitting Manufacturing,T
+333497,330000,Manufacturing,332997,Industrial Pattern Manufacturing,T
+333498,330000,Manufacturing,332998,Enameled Iron and Metal Sanitary Ware Manufacturing,T
+333499,330000,Manufacturing,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,T
+333500,330000,Manufacturing,333000,Machinery Manufacturing,T
+333600,330000,Manufacturing,333100,Agriculture Construction and Mining Machinery Manufacturing,T
+333610,330000,Manufacturing,333110,Agricultural Implement Manufacturing,T
+333611,330000,Manufacturing,333111,Farm Machinery and Equipment Manufacturing,T
+333612,330000,Manufacturing,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,T
+333620,330000,Manufacturing,333120,Construction Machinery Manufacturing,T
+333630,330000,Manufacturing,333130,Mining and Oil and Gas Field Machinery Manufacturing,T
+333631,330000,Manufacturing,333131,Mining Machinery and Equipment Manufacturing,T
+333632,330000,Manufacturing,333132,Oil and Gas Field Machinery and Equipment Manufacturing,T
+333700,330000,Manufacturing,333200,Industrial Machinery Manufacturing,T
+333710,330000,Manufacturing,333210,Sawmill and Woodworking Machinery Manufacturing,T
+333720,330000,Manufacturing,333220,Plastics and Rubber Industry Machinery Manufacturing,T
+333790,330000,Manufacturing,333290,Other Industrial Machinery Manufacturing,T
+333791,330000,Manufacturing,333291,Paper Industry Machinery Manufacturing,T
+333792,330000,Manufacturing,333292,Textile Machinery Manufacturing,T
+333793,330000,Manufacturing,333293,Printing Machinery and Equipment Manufacturing,T
+333794,330000,Manufacturing,333294,Food Product Machinery Manufacturing,T
+333795,330000,Manufacturing,333295,Semiconductor Machinery Manufacturing,T
+333798,330000,Manufacturing,333298,All Other Industrial Machinery Manufacturing,T
+333800,330000,Manufacturing,333300,Commercial and Service Industry Machinery Manufacturing,T
+333810,330000,Manufacturing,333310,Commercial and Service Industry Machinery Manufacturing,T
+333811,330000,Manufacturing,333311,Automatic Vending Machine Manufacturing,T
+333812,330000,Manufacturing,333312,Commercial Laundry Drycleaning and Pressing Machine Manufacturing,T
+333813,330000,Manufacturing,333313,Office Machinery Manufacturing,T
+333814,330000,Manufacturing,333314,Optical Instrument and Lens Manufacturing,T
+333815,330000,Manufacturing,333315,Photographic and Photocopying Equipment Manufacturing,T
+333819,330000,Manufacturing,333319,Other Commercial and Service Industry Machinery Manufacturing,T
+333900,330000,Manufacturing,333400,Ventilation Heating Air-Conditioning and Commercial Refrigeration Equipment Manufacturing,T
+333910,330000,Manufacturing,333410,Ventilation Heating Air-Conditioning and Commercial Refrigeration Equipment Manufacturing,T
+333911,330000,Manufacturing,333411,Air Purification Equipment Manufacturing,T
+333912,330000,Manufacturing,333412,Industrial and Commercial Fan and Blower Manufacturing,T
+333914,330000,Manufacturing,333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,T
+333915,330000,Manufacturing,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,T
+334000,330000,Manufacturing,333500,Metalworking Machinery Manufacturing,T
+334010,330000,Manufacturing,333510,Metalworking Machinery Manufacturing,T
+334011,330000,Manufacturing,333511,Industrial Mold Manufacturing,T
+334012,330000,Manufacturing,333512,Machine Tool (Metal Cutting Types) Manufacturing,T
+334013,330000,Manufacturing,333513,Machine Tool (Metal Forming Types) Manufacturing,T
+334014,330000,Manufacturing,333514,Special Die and Tool Die Set Jig and Fixture Manufacturing,T
+334015,330000,Manufacturing,333515,Cutting Tool and Machine Tool Accessory Manufacturing,T
+334016,330000,Manufacturing,333516,Rolling Mill Machinery and Equipment Manufacturing,T
+334018,330000,Manufacturing,333518,Other Metalworking Machinery Manufacturing,T
+334100,330000,Manufacturing,333600,Engine Turbine and Power Transmission Equipment Manufacturing,T
+334110,330000,Manufacturing,333610,Engine Turbine and Power Transmission Equipment Manufacturing,T
+334111,330000,Manufacturing,333611,Turbine and Turbine Generator Set Units Manufacturing,T
+334112,330000,Manufacturing,333612,Speed Changer Industrial High-Speed Drive and Gear Manufacturing,T
+334113,330000,Manufacturing,333613,Mechanical Power Transmission Equipment Manufacturing,T
+334118,330000,Manufacturing,333618,Other Engine Equipment Manufacturing,T
+334400,330000,Manufacturing,333900,Other General Purpose Machinery Manufacturing,T
+334410,330000,Manufacturing,333910,Pump and Compressor Manufacturing,T
+334411,330000,Manufacturing,333911,Pump and Pumping Equipment Manufacturing,T
+334412,330000,Manufacturing,333912,Air and Gas Compressor Manufacturing,T
+334413,330000,Manufacturing,333913,Measuring and Dispensing Pump Manufacturing,T
+334420,330000,Manufacturing,333920,Material Handling Equipment Manufacturing,T
+334421,330000,Manufacturing,333921,Elevator and Moving Stairway Manufacturing,T
+334422,330000,Manufacturing,333922,Conveyor and Conveying Equipment Manufacturing,T
+334423,330000,Manufacturing,333923,Overhead Traveling Crane Hoist and Monorail System Manufacturing,T
+334424,330000,Manufacturing,333924,Industrial Truck Tractor Trailer and Stacker Machinery Manufacturing,T
+334490,330000,Manufacturing,333990,All Other General Purpose Machinery Manufacturing,T
+334491,330000,Manufacturing,333991,Power-Driven Handtool Manufacturing,T
+334492,330000,Manufacturing,333992,Welding and Soldering Equipment Manufacturing,T
+334493,330000,Manufacturing,333993,Packaging Machinery Manufacturing,T
+334494,330000,Manufacturing,333994,Industrial Process Furnace and Oven Manufacturing,T
+334495,330000,Manufacturing,333995,Fluid Power Cylinder and Actuator Manufacturing,T
+334496,330000,Manufacturing,333996,Fluid Power Pump and Motor Manufacturing,T
+334497,330000,Manufacturing,333997,Scale and Balance (except Laboratory) Manufacturing,T
+334499,330000,Manufacturing,333999,All Other Miscellaneous General Purpose Machinery Manufacturing,T
+334500,330000,Manufacturing,334000,Computer and Electronic Product Manufacturing,T
+334600,330000,Manufacturing,334100,Computer and Peripheral Equipment Manufacturing,T
+334610,330000,Manufacturing,334110,Computer and Peripheral Equipment Manufacturing,T
+334611,330000,Manufacturing,334111,Electronic Computer Manufacturing,T
+334612,330000,Manufacturing,334112,Computer Storage Device Manufacturing,T
+334613,330000,Manufacturing,334113,Computer Terminal Manufacturing,T
+334619,330000,Manufacturing,334119,Other Computer Peripheral Equipment Manufacturing,T
+334700,330000,Manufacturing,334200,Communications Equipment Manufacturing,T
+334710,330000,Manufacturing,334210,Telephone Apparatus Manufacturing,T
+334720,330000,Manufacturing,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,T
+334790,330000,Manufacturing,334290,Other Communications Equipment Manufacturing,T
+334800,330000,Manufacturing,334300,Audio and Video Equipment Manufacturing,T
+334810,330000,Manufacturing,334310,Audio and Video Equipment Manufacturing,T
+334900,330000,Manufacturing,334400,Semiconductor and Other Electronic Component Manufacturing,T
+334910,330000,Manufacturing,334410,Semiconductor and Other Electronic Component Manufacturing,T
+334911,330000,Manufacturing,334411,Electron Tube Manufacturing,T
+334912,330000,Manufacturing,334412,Bare Printed Circuit Board Manufacturing,T
+334913,330000,Manufacturing,334413,Semiconductor and Related Device Manufacturing,T
+334914,330000,Manufacturing,334414,Electronic Capacitor Manufacturing,T
+334915,330000,Manufacturing,334415,Electronic Resistor Manufacturing,T
+334916,330000,Manufacturing,334416,Electronic Coil Transformer and Other Inductor Manufacturing,T
+334917,330000,Manufacturing,334417,Electronic Connector Manufacturing,T
+334918,330000,Manufacturing,334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,T
+334919,330000,Manufacturing,334419,Other Electronic Component Manufacturing,T
+335000,330000,Manufacturing,334500,Navigational Measuring Electromedical and Control Instruments Manufacturing,T
+335010,330000,Manufacturing,334510,Navigational Measuring Electromedical and Control Instruments Manufacturing,T
+335010,330000,Manufacturing,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,T
+335011,330000,Manufacturing,334511,Search Detection Navigation Guidance Aeronautical and Nautical System and Instrument Manufacturing,T
+335012,330000,Manufacturing,334512,Automatic Environmental Control Manufacturing for Residential Commercial and Appliance Use,T
+335013,330000,Manufacturing,334513,Instruments and Related Products Manufacturing for Measuring Displaying and Controlling Industrial Process Variables,T
+335014,330000,Manufacturing,334514,Totalizing Fluid Meter and Counting Device Manufacturing,T
+335015,330000,Manufacturing,334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,T
+335016,330000,Manufacturing,334516,Analytical Laboratory Instrument Manufacturing,T
+335017,330000,Manufacturing,334517,Irradiation Apparatus Manufacturing,T
+335018,330000,Manufacturing,334518,Watch Clock and Part Manufacturing,T
+335019,330000,Manufacturing,334519,Other Measuring and Controlling Device Manufacturing,T
+335100,330000,Manufacturing,334600,Manufacturing and Reproducing Magnetic and Optical Media,T
+335110,330000,Manufacturing,334610,Manufacturing and Reproducing Magnetic and Optical Media,T
+335111,330000,Manufacturing,334611,Software Reproducing,T
+335112,330000,Manufacturing,334612,Prerecorded Compact Disc (except Software) Tape and Record Reproducing,T
+335113,330000,Manufacturing,334613,Magnetic and Optical Recording Media Manufacturing,T
+335500,330000,Manufacturing,335000,Electrical Equipment Appliance and Component Manufacturing,T
+335600,330000,Manufacturing,335100,Electric Lighting Equipment Manufacturing,T
+335610,330000,Manufacturing,335110,Electric Lamp Bulb and Part Manufacturing,T
+335620,330000,Manufacturing,335120,Lighting Fixture Manufacturing,T
+335621,330000,Manufacturing,335121,Residential Electric Lighting Fixture Manufacturing,T
+335622,330000,Manufacturing,335122,Commercial Industrial and Institutional Electric Lighting Fixture Manufacturing,T
+335629,330000,Manufacturing,335129,Other Lighting Equipment Manufacturing,T
+335700,330000,Manufacturing,335200,Household Appliance Manufacturing,T
+335710,330000,Manufacturing,335210,Small Electrical Appliance Manufacturing,T
+335711,330000,Manufacturing,335211,Electric Housewares and Household Fan Manufacturing,T
+335712,330000,Manufacturing,335212,Household Vacuum Cleaner Manufacturing,T
+335720,330000,Manufacturing,335220,Major Appliance Manufacturing,T
+335721,330000,Manufacturing,335221,Household Cooking Appliance Manufacturing,T
+335722,330000,Manufacturing,335222,Household Refrigerator and Home Freezer Manufacturing,T
+335724,330000,Manufacturing,335224,Household Laundry Equipment Manufacturing,T
+335728,330000,Manufacturing,335228,Other Major Household Appliance Manufacturing,T
+335800,330000,Manufacturing,335300,Electrical Equipment Manufacturing,T
+335810,330000,Manufacturing,335310,Electrical Equipment Manufacturing,T
+335811,330000,Manufacturing,335311,Power Distribution and Specialty Transformer Manufacturing,T
+335812,330000,Manufacturing,335312,Motor and Generator Manufacturing,T
+335813,330000,Manufacturing,335313,Switchgear and Switchboard Apparatus Manufacturing,T
+335814,330000,Manufacturing,335314,Relay and Industrial Control Manufacturing,T
+336400,330000,Manufacturing,335900,Other Electrical Equipment and Component Manufacturing,T
+336410,330000,Manufacturing,335910,Battery Manufacturing,T
+336411,330000,Manufacturing,335911,Storage Battery Manufacturing,T
+336412,330000,Manufacturing,335912,Primary Battery Manufacturing,T
+336420,330000,Manufacturing,335920,Communication and Energy Wire and Cable Manufacturing,T
+336421,330000,Manufacturing,335921,Fiber Optic Cable Manufacturing,T
+336429,330000,Manufacturing,335929,Other Communication and Energy Wire Manufacturing,T
+336430,330000,Manufacturing,335930,Wiring Device Manufacturing,T
+336431,330000,Manufacturing,335931,Current-Carrying Wiring Device Manufacturing,T
+336432,330000,Manufacturing,335932,Noncurrent-Carrying Wiring Device Manufacturing,T
+336490,330000,Manufacturing,335990,All Other Electrical Equipment and Component Manufacturing,T
+336491,330000,Manufacturing,335991,Carbon and Graphite Product Manufacturing,T
+336499,330000,Manufacturing,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,T
+336500,330000,Manufacturing,336000,Transportation Equipment Manufacturing,T
+336600,330000,Manufacturing,336100,Motor Vehicle Manufacturing,T
+336610,330000,Manufacturing,336110,Automobile and Light Duty Motor Vehicle Manufacturing,T
+336611,330000,Manufacturing,336111,Automobile Manufacturing,T
+336612,330000,Manufacturing,336112,Light Truck and Utility Vehicle Manufacturing,T
+336620,330000,Manufacturing,336120,Heavy Duty Truck Manufacturing,T
+336700,330000,Manufacturing,336200,Motor Vehicle Body and Trailer Manufacturing,T
+336710,330000,Manufacturing,336210,Motor Vehicle Body and Trailer Manufacturing,T
+336711,330000,Manufacturing,336211,Motor Vehicle Body Manufacturing,T
+336712,330000,Manufacturing,336212,Truck Trailer Manufacturing,T
+336713,330000,Manufacturing,336213,Motor Home Manufacturing,T
+336714,330000,Manufacturing,336214,Travel Trailer and Camper Manufacturing,T
+336800,330000,Manufacturing,336300,Motor Vehicle Parts Manufacturing,T
+336810,330000,Manufacturing,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,T
+336811,330000,Manufacturing,336311,Carburetor Piston Piston Ring and Valve Manufacturing,T
+336812,330000,Manufacturing,336312,Gasoline Engine and Engine Parts Manufacturing,T
+336820,330000,Manufacturing,336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing,T
+336821,330000,Manufacturing,336321,Vehicular Lighting Equipment Manufacturing,T
+336822,330000,Manufacturing,336322,Other Motor Vehicle Electrical and Electronic Equipment Manufacturing,T
+336830,330000,Manufacturing,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,T
+336840,330000,Manufacturing,336340,Motor Vehicle Brake System Manufacturing,T
+336850,330000,Manufacturing,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,T
+336860,330000,Manufacturing,336360,Motor Vehicle Seating and Interior Trim Manufacturing,T
+336870,330000,Manufacturing,336370,Motor Vehicle Metal Stamping,T
+336890,330000,Manufacturing,336390,Other Motor Vehicle Parts Manufacturing,T
+336891,330000,Manufacturing,336391,Motor Vehicle Air-Conditioning Manufacturing,T
+336899,330000,Manufacturing,336399,All Other Motor Vehicle Parts Manufacturing,T
+336900,330000,Manufacturing,336400,Aerospace Product and Parts Manufacturing,T
+336910,330000,Manufacturing,336410,Aerospace Product and Parts Manufacturing,T
+336911,330000,Manufacturing,336411,Aircraft Manufacturing,T
+336912,330000,Manufacturing,336412,Aircraft Engine and Engine Parts Manufacturing,T
+336913,330000,Manufacturing,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,T
+336914,330000,Manufacturing,336414,Guided Missile and Space Vehicle Manufacturing,T
+336915,330000,Manufacturing,336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,T
+336919,330000,Manufacturing,336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,T
+337000,330000,Manufacturing,336500,Railroad Rolling Stock Manufacturing,T
+337010,330000,Manufacturing,336510,Railroad Rolling Stock Manufacturing,T
+337100,330000,Manufacturing,336600,Ship and Boat Building,T
+337110,330000,Manufacturing,336610,Ship and Boat Building,T
+337111,330000,Manufacturing,336611,Ship Building and Repairing,T
+337112,330000,Manufacturing,336612,Boat Building,T
+337400,330000,Manufacturing,336900,Other Transportation Equipment Manufacturing,T
+337490,330000,Manufacturing,336990,Other Transportation Equipment Manufacturing,T
+337491,330000,Manufacturing,336991,Motorcycle Bicycle and Parts Manufacturing,T
+337492,330000,Manufacturing,336992,Military Armored Vehicle Tank and Tank Component Manufacturing,T
+337499,330000,Manufacturing,336999,All Other Transportation Equipment Manufacturing,T
+337500,330000,Manufacturing,337000,Furniture and Related Product Manufacturing,T
+337600,330000,Manufacturing,337100,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,T
+337610,330000,Manufacturing,337110,Wood Kitchen Cabinet and Countertop Manufacturing,T
+337620,330000,Manufacturing,337120,Household and Institutional Furniture Manufacturing,T
+337621,330000,Manufacturing,337121,Upholstered Household Furniture Manufacturing,T
+337622,330000,Manufacturing,337122,Nonupholstered Wood Household Furniture Manufacturing,T
+337624,330000,Manufacturing,337124,Metal Household Furniture Manufacturing,T
+337625,330000,Manufacturing,337125,Household Furniture (except Wood and Metal) Manufacturing,T
+337627,330000,Manufacturing,337127,Institutional Furniture Manufacturing,T
+337629,330000,Manufacturing,337129,Wood Television Radio and Sewing Machine Cabinet Manufacturing,T
+337700,330000,Manufacturing,337200,Office Furniture (including Fixtures) Manufacturing,T
+337710,330000,Manufacturing,337210,Office Furniture (including Fixtures) Manufacturing,T
+337711,330000,Manufacturing,337211,Wood Office Furniture Manufacturing,T
+337712,330000,Manufacturing,337212,Custom Architectural Woodwork and Millwork Manufacturing,T
+337714,330000,Manufacturing,337214,Office Furniture (except Wood) Manufacturing,T
+337715,330000,Manufacturing,337215,Showcase Partition Shelving and Locker Manufacturing,T
+338400,330000,Manufacturing,337900,Other Furniture Related Product Manufacturing,T
+338410,330000,Manufacturing,337910,Mattress Manufacturing,T
+338420,330000,Manufacturing,337920,Blind and Shade Manufacturing,T
+339500,330000,Manufacturing,339000,Miscellaneous Manufacturing,T
+339600,330000,Manufacturing,339100,Medical Equipment and Supplies Manufacturing,T
+339610,330000,Manufacturing,339110,Medical Equipment and Supplies Manufacturing,T
+339611,330000,Manufacturing,339111,Laboratory Apparatus and Furniture Manufacturing,T
+339612,330000,Manufacturing,339112,Surgical and Medical Instrument Manufacturing,T
+339613,330000,Manufacturing,339113,Surgical Appliance and Supplies Manufacturing,T
+339614,330000,Manufacturing,339114,Dental Equipment and Supplies Manufacturing,T
+339615,330000,Manufacturing,339115,Ophthalmic Goods Manufacturing,T
+339616,330000,Manufacturing,339116,Dental Laboratories,T
+340400,330000,Manufacturing,339900,Other Miscellaneous Manufacturing,T
+340410,330000,Manufacturing,339910,Jewelry and Silverware Manufacturing,T
+340411,330000,Manufacturing,339911,Jewelry (except Costume) Manufacturing,T
+340412,330000,Manufacturing,339912,Silverware and Hollowware Manufacturing,T
+340413,330000,Manufacturing,339913,Jewelers Material and Lapidary Work Manufacturing,T
+340414,330000,Manufacturing,339914,Costume Jewelry and Novelty Manufacturing,T
+340420,330000,Manufacturing,339920,Sporting and Athletic Goods Manufacturing,T
+340430,330000,Manufacturing,339930,Doll Toy and Game Manufacturing,T
+340431,330000,Manufacturing,339931,Doll and Stuffed Toy Manufacturing,T
+340432,330000,Manufacturing,339932,Game Toy and Childrens Vehicle Manufacturing,T
+340440,330000,Manufacturing,339940,Office Supplies (except Paper) Manufacturing,T
+340441,330000,Manufacturing,339941,Pen and Mechanical Pencil Manufacturing,T
+340442,330000,Manufacturing,339942,Lead Pencil and Art Good Manufacturing,T
+340443,330000,Manufacturing,339943,Marking Device Manufacturing,T
+340444,330000,Manufacturing,339944,Carbon Paper and Inked Ribbon Manufacturing,T
+340450,330000,Manufacturing,339950,Sign Manufacturing,T
+340490,330000,Manufacturing,339990,All Other Miscellaneous Manufacturing,T
+340491,330000,Manufacturing,339991,Gasket Packing and Sealing Device Manufacturing,T
+340492,330000,Manufacturing,339992,Musical Instrument Manufacturing,T
+340493,330000,Manufacturing,339993,Fastener Button Needle and Pin Manufacturing,T
+340494,330000,Manufacturing,339994,Broom Brush and Mop Manufacturing,T
+340495,330000,Manufacturing,339995,Burial Casket Manufacturing,T
+340499,330000,Manufacturing,339999,All Other Miscellaneous Manufacturing,T
+420500,420000,Wholesale Trade,420000,Wholesale Trade,T
+421500,420000,Wholesale Trade,421000,Wholesale Trade Durable Goods,T
+421600,420000,Wholesale Trade,421100,Motor Vehicle and Motor Vehicle Parts and Supplies Wholesalers,T
+421610,420000,Wholesale Trade,421110,Automobile and Other Motor Vehicle Wholesalers,T
+421620,420000,Wholesale Trade,421120,Motor Vehicle Supplies and New Parts Wholesalers,T
+421630,420000,Wholesale Trade,421130,Tire and Tube Wholesalers,T
+421640,420000,Wholesale Trade,421140,Motor Vehicle Parts (Used) Wholesalers,T
+421700,420000,Wholesale Trade,421200,Furniture and Home Furnishing Wholesalers,T
+421710,420000,Wholesale Trade,421210,Furniture Wholesalers,T
+421720,420000,Wholesale Trade,421220,Home Furnishing Wholesalers,T
+421800,420000,Wholesale Trade,421300,Lumber and Other Construction Materials Wholesalers,T
+421810,420000,Wholesale Trade,421310,Lumber Plywood Millwork and Wood Panel Wholesalers,T
+421820,420000,Wholesale Trade,421320,Brick Stone and Related Construction Material Wholesalers,T
+421830,420000,Wholesale Trade,421330,Roofing Siding and Insulation Material Wholesalers,T
+421890,420000,Wholesale Trade,421390,Other Construction Material Wholesalers,T
+421900,420000,Wholesale Trade,421400,Professional and Commercial Equipment and Supplies Wholesalers,T
+421910,420000,Wholesale Trade,421410,Photographic Equipment and Supplies Wholesalers,T
+421920,420000,Wholesale Trade,421420,Office Equipment Wholesalers,T
+421930,420000,Wholesale Trade,421430,Computer and Computer Peripheral Equipment and Software Wholesalers,T
+421940,420000,Wholesale Trade,421440,Other Commercial Equipment Wholesalers,T
+421950,420000,Wholesale Trade,421450,Medical Dental and Hospital Equipment and Supplies Wholesalers,T
+421960,420000,Wholesale Trade,421460,Ophthalmic Goods Wholesalers,T
+421990,420000,Wholesale Trade,421490,Other Professional Equipment and Supplies Wholesalers,T
+422000,420000,Wholesale Trade,421500,Metal and Mineral (except Petroleum) Wholesalers,T
+422010,420000,Wholesale Trade,421510,Metal Service Centers and Offices,T
+422020,420000,Wholesale Trade,421520,Coal and Other Mineral and Ore Wholesalers,T
+422100,420000,Wholesale Trade,421600,Electrical Goods Wholesalers,T
+422110,420000,Wholesale Trade,421610,Electrical Apparatus and Equipment Wiring Supplies and Construction Material Wholesalers,T
+422120,420000,Wholesale Trade,421620,Electrical Appliance Television and Radio Set Wholesalers,T
+422190,420000,Wholesale Trade,421690,Other Electronic Parts and Equipment Wholesalers,T
+422200,420000,Wholesale Trade,421700,Hardware and Plumbing and Heating Equipment and Supplies Wholesalers,T
+422210,420000,Wholesale Trade,421710,Hardware Wholesalers,T
+422220,420000,Wholesale Trade,421720,Plumbing and Heating Equipment and Supplies (Hydronics) Wholesalers,T
+422230,420000,Wholesale Trade,421730,Warm Air Heating and Air-Conditioning Equipment and Supplies Wholesalers,T
+422240,420000,Wholesale Trade,421740,Refrigeration Equipment and Supplies Wholesalers,T
+422300,420000,Wholesale Trade,421800,Machinery Equipment and Supplies Wholesalers,T
+422310,420000,Wholesale Trade,421810,Construction and Mining (except Oil Well) Machinery and Equipment Wholesalers,T
+422320,420000,Wholesale Trade,421820,Farm and Garden Machinery and Equipment Wholesalers,T
+422330,420000,Wholesale Trade,421830,Industrial Machinery and Equipment Wholesalers,T
+422340,420000,Wholesale Trade,421840,Industrial Supplies Wholesalers,T
+422350,420000,Wholesale Trade,421850,Service Establishment Equipment and Supplies Wholesalers,T
+422360,420000,Wholesale Trade,421860,Transportation Equipment and Supplies (except Motor Vehicle) Wholesalers,T
+422400,420000,Wholesale Trade,421900,Miscellaneous Durable Goods Wholesalers,T
+422410,420000,Wholesale Trade,421910,Sporting and Recreational Goods and Supplies Wholesalers,T
+422420,420000,Wholesale Trade,421920,Toy and Hobby Goods and Supplies Wholesalers,T
+422430,420000,Wholesale Trade,421930,Recyclable Material Wholesalers,T
+422440,420000,Wholesale Trade,421940,Jewelry Watch Precious Stone and Precious Metal Wholesalers,T
+422490,420000,Wholesale Trade,421990,Other Miscellaneous Durable Goods Wholesalers,T
+422500,420000,Wholesale Trade,422000,Wholesale Trade Nondurable Goods,T
+422600,420000,Wholesale Trade,422100,Paper and Paper Product Wholesalers,T
+422610,420000,Wholesale Trade,422110,Printing and Writing Paper Wholesalers,T
+422620,420000,Wholesale Trade,422120,Stationery and Office Supplies Wholesalers,T
+422630,420000,Wholesale Trade,422130,Industrial and Personal Service Paper Wholesalers,T
+422700,420000,Wholesale Trade,422200,Drugs and Druggists Sundries Wholesalers,T
+422710,420000,Wholesale Trade,422210,Drugs and Druggists Sundries Wholesalers,T
+422800,420000,Wholesale Trade,422300,Apparel Piece Goods and Notions Wholesalers,T
+422810,420000,Wholesale Trade,422310,Piece Goods Notions and Other Dry Goods Wholesalers,T
+422820,420000,Wholesale Trade,422320,Mens and Boys Clothing and Furnishings Wholesalers,T
+422830,420000,Wholesale Trade,422330,Womens Childrens and Infants Clothing and Accessories Wholesalers,T
+422840,420000,Wholesale Trade,422340,Footwear Wholesalers,T
+422900,420000,Wholesale Trade,422400,Grocery and Related Product Wholesalers,T
+422910,420000,Wholesale Trade,422410,General Line Grocery Wholesalers,T
+422920,420000,Wholesale Trade,422420,Packaged Frozen Food Wholesalers,T
+422930,420000,Wholesale Trade,422430,Dairy Product (except Dried or Canned) Wholesalers,T
+422940,420000,Wholesale Trade,422440,Poultry and Poultry Product Wholesalers,T
+422950,420000,Wholesale Trade,422450,Confectionery Wholesalers,T
+422960,420000,Wholesale Trade,422460,Fish and Seafood Wholesalers,T
+422970,420000,Wholesale Trade,422470,Meat and Meat Product Wholesalers,T
+422980,420000,Wholesale Trade,422480,Fresh Fruit and Vegetable Wholesalers,T
+422990,420000,Wholesale Trade,422490,Other Grocery and Related Products Wholesalers,T
+423000,420000,Wholesale Trade,422500,Farm Product Raw Material Wholesalers,T
+423010,420000,Wholesale Trade,422510,Grain and Field Bean Wholesalers,T
+423020,420000,Wholesale Trade,422520,Livestock Wholesalers,T
+423090,420000,Wholesale Trade,422590,Other Farm Product Raw Material Wholesalers,T
+423100,420000,Wholesale Trade,422600,Chemical and Allied Products Wholesalers,T
+423110,420000,Wholesale Trade,422610,Plastics Materials and Basic Forms and Shapes Wholesalers,T
+423190,420000,Wholesale Trade,422690,Other Chemical and Allied Products Wholesalers,T
+423200,420000,Wholesale Trade,422700,Petroleum and Petroleum Products Wholesalers,T
+423210,420000,Wholesale Trade,422710,Petroleum Bulk Stations and Terminals,T
+423220,420000,Wholesale Trade,422720,Petroleum and Petroleum Products Wholesalers (except Bulk Stations and Terminals),T
+423300,420000,Wholesale Trade,422800,Beer Wine and Distilled Alcoholic Beverage Wholesalers,T
+423310,420000,Wholesale Trade,422810,Beer and Ale Wholesalers,T
+423320,420000,Wholesale Trade,422820,Wine and Distilled Alcoholic Beverage Wholesalers,T
+423400,420000,Wholesale Trade,422900,Miscellaneous Nondurable Goods Wholesalers,T
+423410,420000,Wholesale Trade,422910,Farm Supplies Wholesalers,T
+423420,420000,Wholesale Trade,422920,Book Periodical and Newspaper Wholesalers,T
+423430,420000,Wholesale Trade,422930,Flower Nursery Stock and Florists Supplies Wholesalers,T
+423440,420000,Wholesale Trade,422940,Tobacco and Tobacco Product Wholesalers,T
+423450,420000,Wholesale Trade,422950,Paint Varnish and Supplies Wholesalers,T
+423490,420000,Wholesale Trade,422990,Other Miscellaneous Nondurable Goods Wholesalers,T
+440500,440000,Retail Trade,440000,Retail Trade,T
+450500,450000,Retail Trade,450000,Retail Trade,T
+441500,440000,Retail Trade,441000,Motor Vehicle and Parts Dealers,T
+441600,440000,Retail Trade,441100,Automobile Dealers,T
+441610,440000,Retail Trade,441110,New Car Dealers,T
+441620,440000,Retail Trade,441120,Used Car Dealers,T
+441700,440000,Retail Trade,441200,Other Motor Vehicle Dealers,T
+441710,440000,Retail Trade,441210,Recreational Vehicle Dealers,T
+441720,440000,Retail Trade,441220,Motorcycle Boat and Other Motor Vehicle Dealers,T
+441721,440000,Retail Trade,441221,Motorcycle Dealers,T
+441722,440000,Retail Trade,441222,Boat Dealers,T
+441729,440000,Retail Trade,441229,All Other Motor Vehicle Dealers,T
+441800,440000,Retail Trade,441300,Automotive Parts Accessories and Tire Stores,T
+441810,440000,Retail Trade,441310,Automotive Parts and Accessories Stores,T
+441820,440000,Retail Trade,441320,Tire Dealers,T
+442500,440000,Retail Trade,442000,Furniture and Home Furnishings Stores,T
+442600,440000,Retail Trade,442100,Furniture Stores,T
+442610,440000,Retail Trade,442110,Furniture Stores,T
+442700,440000,Retail Trade,442200,Home Furnishings Stores,T
+442710,440000,Retail Trade,442210,Floor Covering Stores,T
+442790,440000,Retail Trade,442290,Other Home Furnishings Stores,T
+442791,440000,Retail Trade,442291,Window Treatment Stores,T
+442799,440000,Retail Trade,442299,All Other Home Furnishings Stores,T
+443500,440000,Retail Trade,443000,Electronics and Appliance Stores,T
+443600,440000,Retail Trade,443100,Electronics and Appliance Stores,T
+443610,440000,Retail Trade,443110,Appliance Television and Other Electronics Stores,T
+443611,440000,Retail Trade,443111,Household Appliance Stores,T
+443612,440000,Retail Trade,443112,Radio Television and Other Electronics Stores,T
+443620,440000,Retail Trade,443120,Computer and Software Stores,T
+443630,440000,Retail Trade,443130,Camera and Photographic Supplies Stores,T
+444500,440000,Retail Trade,444000,Building Material and Garden Equipment and Supplies Dealers,T
+444600,440000,Retail Trade,444100,Building Material and Supplies Dealers,T
+444610,440000,Retail Trade,444110,Home Centers,T
+444620,440000,Retail Trade,444120,Paint and Wallpaper Stores,T
+444630,440000,Retail Trade,444130,Hardware Stores,T
+444690,440000,Retail Trade,444190,Other Building Material Dealers,T
+444700,440000,Retail Trade,444200,Lawn and Garden Equipment and Supplies Stores,T
+444710,440000,Retail Trade,444210,Outdoor Power Equipment Stores,T
+444720,440000,Retail Trade,444220,Nursery and Garden Centers,T
+445500,440000,Retail Trade,445000,Food and Beverage Stores,T
+445600,440000,Retail Trade,445100,Grocery Stores,T
+445610,440000,Retail Trade,445110,Supermarkets and Other Grocery (except Convenience) Stores,T
+445620,440000,Retail Trade,445120,Convenience Stores,T
+445700,440000,Retail Trade,445200,Specialty Food Stores,T
+445710,440000,Retail Trade,445210,Meat Markets,T
+445720,440000,Retail Trade,445220,Fish and Seafood Markets,T
+445730,440000,Retail Trade,445230,Fruit and Vegetable Markets,T
+445790,440000,Retail Trade,445290,Other Specialty Food Stores,T
+445791,440000,Retail Trade,445291,Baked Goods Stores,T
+445792,440000,Retail Trade,445292,Confectionery and Nut Stores,T
+445799,440000,Retail Trade,445299,All Other Specialty Food Stores,T
+445800,440000,Retail Trade,445300,Beer Wine and Liquor Stores,T
+445810,440000,Retail Trade,445310,Beer Wine and Liquor Stores,T
+446500,440000,Retail Trade,446000,Health and Personal Care Stores,T
+446600,440000,Retail Trade,446100,Health and Personal Care Stores,T
+446610,440000,Retail Trade,446110,Pharmacies and Drug Stores,T
+446620,440000,Retail Trade,446120,Cosmetics Beauty Supplies and Perfume Stores,T
+446630,440000,Retail Trade,446130,Optical Goods Stores,T
+446690,440000,Retail Trade,446190,Other Health and Personal Care Stores,T
+446691,440000,Retail Trade,446191,Food (Health) Supplement Stores,T
+446699,440000,Retail Trade,446199,All Other Health and Personal Care Stores,T
+447500,440000,Retail Trade,447000,Gasoline Stations,T
+447600,440000,Retail Trade,447100,Gasoline Stations,T
+447610,440000,Retail Trade,447110,Gasoline Stations with Convenience Stores,T
+447690,440000,Retail Trade,447190,Other Gasoline Stations,T
+448500,440000,Retail Trade,448000,Clothing and Clothing Accessories Stores,T
+448600,440000,Retail Trade,448100,Clothing Stores,T
+448610,440000,Retail Trade,448110,Mens Clothing Stores,T
+448620,440000,Retail Trade,448120,Womens Clothing Stores,T
+448630,440000,Retail Trade,448130,Childrens and Infants Clothing Stores,T
+448640,440000,Retail Trade,448140,Family Clothing Stores,T
+448650,440000,Retail Trade,448150,Clothing Accessories Stores,T
+448690,440000,Retail Trade,448190,Other Clothing Stores,T
+448700,440000,Retail Trade,448200,Shoe Stores,T
+448710,440000,Retail Trade,448210,Shoe Stores,T
+448800,440000,Retail Trade,448300,Jewelry Luggage and Leather Goods Stores,T
+448810,440000,Retail Trade,448310,Jewelry Stores,T
+448820,440000,Retail Trade,448320,Luggage and Leather Goods Stores,T
+451500,450000,Retail Trade,451000,Sporting Goods Hobby Book and Music Stores,T
+451600,450000,Retail Trade,451100,Sporting Goods Hobby and Musical Instrument Stores,T
+451610,450000,Retail Trade,451110,Sporting Goods Stores,T
+451620,450000,Retail Trade,451120,Hobby Toy and Game Stores,T
+451630,450000,Retail Trade,451130,Sewing Needlework and Piece Goods Stores,T
+451640,450000,Retail Trade,451140,Musical Instrument and Supplies Stores,T
+451700,450000,Retail Trade,451200,Book Periodical and Music Stores,T
+451710,450000,Retail Trade,451210,Book Stores and News Dealers,T
+451711,450000,Retail Trade,451211,Book Stores,T
+451712,450000,Retail Trade,451212,News Dealers and Newsstands,T
+451720,450000,Retail Trade,451220,Prerecorded Tape Compact Disc and Record Stores,T
+452500,450000,Retail Trade,452000,General Merchandise Stores,T
+452600,450000,Retail Trade,452100,Department Stores,T
+452610,450000,Retail Trade,452110,Department Stores,T
+453400,450000,Retail Trade,452900,Other General Merchandise Stores,T
+453410,450000,Retail Trade,452910,Warehouse Clubs and Superstores,T
+453490,450000,Retail Trade,452990,All Other General Merchandise Stores,T
+453500,450000,Retail Trade,453000,Miscellaneous Store Retailers,T
+453600,450000,Retail Trade,453100,Florists,T
+453610,450000,Retail Trade,453110,Florists,T
+453700,450000,Retail Trade,453200,Office Supplies Stationery and Gift Stores,T
+453710,450000,Retail Trade,453210,Office Supplies and Stationery Stores,T
+453720,450000,Retail Trade,453220,Gift Novelty and Souvenir Stores,T
+453800,450000,Retail Trade,453300,Used Merchandise Stores,T
+453810,450000,Retail Trade,453310,Used Merchandise Stores,T
+454400,450000,Retail Trade,453900,Other Miscellaneous Store Retailers,T
+454410,450000,Retail Trade,453910,Pet and Pet Supplies Stores,T
+454420,450000,Retail Trade,453920,Art Dealers,T
+454430,450000,Retail Trade,453930,Manufactured (Mobile) Home Dealers,T
+454490,450000,Retail Trade,453990,All Other Miscellaneous Store Retailers,T
+454491,450000,Retail Trade,453991,Tobacco Stores,T
+454498,450000,Retail Trade,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),T
+454500,450000,Retail Trade,454000,Nonstore Retailers,T
+454600,450000,Retail Trade,454100,Electronic Shopping and Mail-Order Houses,T
+454610,450000,Retail Trade,454110,Electronic Shopping and Mail-Order Houses,T
+454700,450000,Retail Trade,454200,Vending Machine Operators,T
+454710,450000,Retail Trade,454210,Vending Machine Operators,T
+454800,450000,Retail Trade,454300,Direct Selling Establishments,T
+454810,450000,Retail Trade,454310,Fuel Dealers,T
+454811,450000,Retail Trade,454311,Heating Oil Dealers,T
+454812,450000,Retail Trade,454312,Liquefied Petroleum Gas (Bottled Gas) Dealers,T
+454819,450000,Retail Trade,454319,Other Fuel Dealers,T
+454890,450000,Retail Trade,454390,Other Direct Selling Establishments,T
+480500,480000,Transportation and Warehousing,480000,Transportation and Warehousing,T
+490500,490000,Transportation and Warehousing,490000,Transportation and Warehousing,T
+481500,480000,Transportation and Warehousing,481000,Air Transportation,T
+481600,480000,Transportation and Warehousing,481100,Scheduled Air Transportation,T
+481610,480000,Transportation and Warehousing,481110,Scheduled Air Transportation,T
+481611,480000,Transportation and Warehousing,481111,Scheduled Passenger Air Transportation,T
+481612,480000,Transportation and Warehousing,481112,Scheduled Freight Air Transportation,T
+481700,480000,Transportation and Warehousing,481200,Nonscheduled Air Transportation,T
+481710,480000,Transportation and Warehousing,481210,Nonscheduled Air Transportation,T
+481711,480000,Transportation and Warehousing,481211,Nonscheduled Chartered Passenger Air Transportation,T
+481712,480000,Transportation and Warehousing,481212,Nonscheduled Chartered Freight Air Transportation,T
+481719,480000,Transportation and Warehousing,481219,Other Nonscheduled Air Transportation,T
+482500,480000,Transportation and Warehousing,482000,Rail Transportation,T
+482600,480000,Transportation and Warehousing,482100,Rail Transportation,T
+482610,480000,Transportation and Warehousing,482110,Rail Transportation,T
+482611,480000,Transportation and Warehousing,482111,Line-Haul Railroads,T
+482612,480000,Transportation and Warehousing,482112,Short Line Railroads,T
+483500,480000,Transportation and Warehousing,483000,Water Transportation,T
+483600,480000,Transportation and Warehousing,483100,Deep Sea Coastal and Great Lakes Water Transportation,T
+483610,480000,Transportation and Warehousing,483110,Deep Sea Coastal and Great Lakes Water Transportation,T
+483611,480000,Transportation and Warehousing,483111,Deep Sea Freight Transportation,T
+483612,480000,Transportation and Warehousing,483112,Deep Sea Passenger Transportation,T
+483613,480000,Transportation and Warehousing,483113,Coastal and Great Lakes Freight Transportation,T
+483614,480000,Transportation and Warehousing,483114,Coastal and Great Lakes Passenger Transportation,T
+483700,480000,Transportation and Warehousing,483200,Inland Water Transportation,T
+483710,480000,Transportation and Warehousing,483210,Inland Water Transportation,T
+483711,480000,Transportation and Warehousing,483211,Inland Water Freight Transportation,T
+483712,480000,Transportation and Warehousing,483212,Inland Water Passenger Transportation,T
+484500,480000,Transportation and Warehousing,484000,Truck Transportation,T
+484600,480000,Transportation and Warehousing,484100,General Freight Trucking,T
+484610,480000,Transportation and Warehousing,484110,General Freight Trucking Local,T
+484620,480000,Transportation and Warehousing,484120,General Freight Trucking Long-Distance,T
+484621,480000,Transportation and Warehousing,484121,General Freight Trucking Long-Distance Truckload,T
+484622,480000,Transportation and Warehousing,484122,General Freight Trucking Long-Distance Less Than Truckload,T
+484700,480000,Transportation and Warehousing,484200,Specialized Freight Trucking,T
+484710,480000,Transportation and Warehousing,484210,Used Household and Office Goods Moving,T
+484720,480000,Transportation and Warehousing,484220,Specialized Freight (except Used Goods) Trucking Local,T
+484730,480000,Transportation and Warehousing,484230,Specialized Freight (except Used Goods) Trucking Long-Distance,T
+485500,480000,Transportation and Warehousing,485000,Transit and Ground Passenger Transportation,T
+485600,480000,Transportation and Warehousing,485100,Urban Transit Systems,T
+485610,480000,Transportation and Warehousing,485110,Urban Transit Systems,T
+485611,480000,Transportation and Warehousing,485111,Mixed Mode Transit Systems,T
+485612,480000,Transportation and Warehousing,485112,Commuter Rail Systems,T
+485613,480000,Transportation and Warehousing,485113,Bus and Other Motor Vehicle Transit Systems,T
+485619,480000,Transportation and Warehousing,485119,Other Urban Transit Systems,T
+485700,480000,Transportation and Warehousing,485200,Interurban and Rural Bus Transportation,T
+485710,480000,Transportation and Warehousing,485210,Interurban and Rural Bus Transportation,T
+485800,480000,Transportation and Warehousing,485300,Taxi and Limousine Service,T
+485810,480000,Transportation and Warehousing,485310,Taxi Service,T
+485820,480000,Transportation and Warehousing,485320,Limousine Service,T
+485900,480000,Transportation and Warehousing,485400,School and Employee Bus Transportation,T
+485910,480000,Transportation and Warehousing,485410,School and Employee Bus Transportation,T
+486000,480000,Transportation and Warehousing,485500,Charter Bus Industry,T
+486010,480000,Transportation and Warehousing,485510,Charter Bus Industry,T
+486400,480000,Transportation and Warehousing,485900,Other Transit and Ground Passenger Transportation,T
+486490,480000,Transportation and Warehousing,485990,Other Transit and Ground Passenger Transportation,T
+486491,480000,Transportation and Warehousing,485991,Special Needs Transportation,T
+486499,480000,Transportation and Warehousing,485999,All Other Transit and Ground Passenger Transportation,T
+486500,480000,Transportation and Warehousing,486000,Pipeline Transportation,T
+486600,480000,Transportation and Warehousing,486100,Pipeline Transportation of Crude Oil,T
+486610,480000,Transportation and Warehousing,486110,Pipeline Transportation of Crude Oil,T
+486700,480000,Transportation and Warehousing,486200,Pipeline Transportation of Natural Gas,T
+486710,480000,Transportation and Warehousing,486210,Pipeline Transportation of Natural Gas,T
+487400,480000,Transportation and Warehousing,486900,Other Pipeline Transportation,T
+487410,480000,Transportation and Warehousing,486910,Pipeline Transportation of Refined Petroleum Products,T
+487490,480000,Transportation and Warehousing,486990,All Other Pipeline Transportation,T
+487500,480000,Transportation and Warehousing,487000,Scenic and Sightseeing Transportation,T
+487600,480000,Transportation and Warehousing,487100,Scenic and Sightseeing Transportation Land,T
+487610,480000,Transportation and Warehousing,487110,Scenic and Sightseeing Transportation Land,T
+487700,480000,Transportation and Warehousing,487200,Scenic and Sightseeing Transportation Water,T
+487710,480000,Transportation and Warehousing,487210,Scenic and Sightseeing Transportation Water,T
+488400,480000,Transportation and Warehousing,487900,Scenic and Sightseeing Transportation Other,T
+488490,480000,Transportation and Warehousing,487990,Scenic and Sightseeing Transportation Other,T
+488500,480000,Transportation and Warehousing,488000,Support Activities for Transportation,T
+488600,480000,Transportation and Warehousing,488100,Support Activities for Air Transportation,T
+488610,480000,Transportation and Warehousing,488110,Airport Operations,T
+488611,480000,Transportation and Warehousing,488111,Air Traffic Control,T
+488619,480000,Transportation and Warehousing,488119,Other Airport Operations,T
+488690,480000,Transportation and Warehousing,488190,Other Support Activities for Air Transportation,T
+488700,480000,Transportation and Warehousing,488200,Support Activities for Rail Transportation,T
+488710,480000,Transportation and Warehousing,488210,Support Activities for Rail Transportation,T
+488800,480000,Transportation and Warehousing,488300,Support Activities for Water Transportation,T
+488810,480000,Transportation and Warehousing,488310,Port and Harbor Operations,T
+488820,480000,Transportation and Warehousing,488320,Marine Cargo Handling,T
+488830,480000,Transportation and Warehousing,488330,Navigational Services to Shipping,T
+488890,480000,Transportation and Warehousing,488390,Other Support Activities for Water Transportation,T
+488900,480000,Transportation and Warehousing,488400,Support Activities for Road Transportation,T
+488910,480000,Transportation and Warehousing,488410,Motor Vehicle Towing,T
+488990,480000,Transportation and Warehousing,488490,Other Support Activities for Road Transportation,T
+489000,480000,Transportation and Warehousing,488500,Freight Transportation Arrangement,T
+489010,480000,Transportation and Warehousing,488510,Freight Transportation Arrangement,T
+489400,480000,Transportation and Warehousing,488900,Other Support Activities for Transportation,T
+489490,480000,Transportation and Warehousing,488990,Other Support Activities for Transportation,T
+489491,480000,Transportation and Warehousing,488991,Packing and Crating,T
+489499,480000,Transportation and Warehousing,488999,All Other Support Activities for Transportation,T
+491500,490000,Transportation and Warehousing,491000,Postal Service,T
+491600,490000,Transportation and Warehousing,491100,Postal Service,T
+491610,490000,Transportation and Warehousing,491110,Postal Service,T
+492500,490000,Transportation and Warehousing,492000,Couriers and Messengers,T
+492600,490000,Transportation and Warehousing,492100,Couriers,T
+492610,490000,Transportation and Warehousing,492110,Couriers,T
+492700,490000,Transportation and Warehousing,492200,Local Messengers and Local Delivery,T
+492710,490000,Transportation and Warehousing,492210,Local Messengers and Local Delivery,T
+493500,490000,Transportation and Warehousing,493000,Warehousing and Storage,T
+493600,490000,Transportation and Warehousing,493100,Warehousing and Storage,T
+493610,490000,Transportation and Warehousing,493110,General Warehousing and Storage,T
+493620,490000,Transportation and Warehousing,493120,Refrigerated Warehousing and Storage,T
+493630,490000,Transportation and Warehousing,493130,Farm Product Warehousing and Storage,T
+493690,490000,Transportation and Warehousing,493190,Other Warehousing and Storage,T
+510500,510000,Information,510000,Information,T
+511500,510000,Information,511000,Publishing Industries,T
+511600,510000,Information,511100,Newspaper Periodical Book and Database Publishers,T
+511610,510000,Information,511110,Newspaper Publishers,T
+511620,510000,Information,511120,Periodical Publishers,T
+511630,510000,Information,511130,Book Publishers,T
+511640,510000,Information,511140,Database and Directory Publishers,T
+511690,510000,Information,511190,Other Publishers,T
+511691,510000,Information,511191,Greeting Card Publishers,T
+511699,510000,Information,511199,All Other Publishers,T
+511700,510000,Information,511200,Software Publishers,T
+511710,510000,Information,511210,Software Publishers,T
+512500,510000,Information,512000,Motion Picture and Sound Recording Industries,T
+512600,510000,Information,512100,Motion Picture and Video Industries,T
+512610,510000,Information,512110,Motion Picture and Video Production,T
+512620,510000,Information,512120,Motion Picture and Video Distribution,T
+512630,510000,Information,512130,Motion Picture and Video Exhibition,T
+512631,510000,Information,512131,Motion Picture Theaters (except Drive-Ins),T
+512632,510000,Information,512132,Drive-In Motion Picture Theaters,T
+512690,510000,Information,512190,Postproduction Services and Other Motion Picture and Video Industries,T
+512691,510000,Information,512191,Teleproduction and Other Postproduction Services,T
+512699,510000,Information,512199,Other Motion Picture and Video Industries,T
+512700,510000,Information,512200,Sound Recording Industries,T
+512710,510000,Information,512210,Record Production,T
+512720,510000,Information,512220,Integrated Record Production/Distribution,T
+512730,510000,Information,512230,Music Publishers,T
+512740,510000,Information,512240,Sound Recording Studios,T
+512790,510000,Information,512290,Other Sound Recording Industries,T
+513500,510000,Information,513000,Broadcasting and Telecommunications,T
+513600,510000,Information,513100,Radio and Television Broadcasting,T
+513610,510000,Information,513110,Radio Broadcasting,T
+513611,510000,Information,513111,Radio Networks,T
+513612,510000,Information,513112,Radio Stations,T
+513620,510000,Information,513120,Television Broadcasting,T
+513700,510000,Information,513200,Cable Networks and Program Distribution,T
+513710,510000,Information,513210,Cable Networks,T
+513720,510000,Information,513220,Cable and Other Program Distribution,T
+513800,510000,Information,513300,Telecommunications,T
+513810,510000,Information,513310,Wired Telecommunications Carriers,T
+513820,510000,Information,513320,Wireless Telecommunications Carriers (except Satellite),T
+513821,510000,Information,513321,Paging,T
+513822,510000,Information,513322,Cellular and Other Wireless Telecommunications,T
+513830,510000,Information,513330,Telecommunications Resellers,T
+513840,510000,Information,513340,Satellite Telecommunications,T
+513890,510000,Information,513390,Other Telecommunications,T
+514500,510000,Information,514000,Information Services and Data Processing Services,T
+514600,510000,Information,514100,Information Services,T
+514610,510000,Information,514110,News Syndicates,T
+514620,510000,Information,514120,Libraries and Archives,T
+514690,510000,Information,514190,Other Information Services,T
+514691,510000,Information,514191,On-Line Information Services,T
+514699,510000,Information,514199,All Other Information Services,T
+514700,510000,Information,514200,Data Processing Services,T
+514710,510000,Information,514210,Data Processing Services,T
+520500,520000,Finance and Insurance,520000,Finance and Insurance,T
+521500,520000,Finance and Insurance,521000,Monetary Authorities - Central Bank,T
+521600,520000,Finance and Insurance,521100,Monetary Authorities - Central Bank,T
+521610,520000,Finance and Insurance,521110,Monetary Authorities - Central Bank,T
+522500,520000,Finance and Insurance,522000,Credit Intermediation and Related Activities,T
+522600,520000,Finance and Insurance,522100,Depository Credit Intermediation,T
+522610,520000,Finance and Insurance,522110,Commercial Banking,T
+522620,520000,Finance and Insurance,522120,Savings Institutions,T
+522630,520000,Finance and Insurance,522130,Credit Unions,T
+522690,520000,Finance and Insurance,522190,Other Depository Credit Intermediation,T
+522700,520000,Finance and Insurance,522200,Nondepository Credit Intermediation,T
+522710,520000,Finance and Insurance,522210,Credit Card Issuing,T
+522720,520000,Finance and Insurance,522220,Sales Financing,T
+522790,520000,Finance and Insurance,522290,Other Nondepository Credit Intermediation,T
+522791,520000,Finance and Insurance,522291,Consumer Lending,T
+522792,520000,Finance and Insurance,522292,Real Estate Credit,T
+522793,520000,Finance and Insurance,522293,International Trade Financing,T
+522794,520000,Finance and Insurance,522294,Secondary Market Financing,T
+522798,520000,Finance and Insurance,522298,All Other Nondepository Credit Intermediation,T
+522800,520000,Finance and Insurance,522300,Activities Related to Credit Intermediation,T
+522810,520000,Finance and Insurance,522310,Mortgage and Nonmortgage Loan Brokers,T
+522820,520000,Finance and Insurance,522320,Financial Transactions Processing Reserve and Clearinghouse Activities,T
+522890,520000,Finance and Insurance,522390,Other Activities Related to Credit Intermediation,T
+523500,520000,Finance and Insurance,523000,Securities Commodity Contracts and Other Financial Investments and Related Activities,T
+523600,520000,Finance and Insurance,523100,Securities and Commodity Contracts Intermediation and Brokerage,T
+523610,520000,Finance and Insurance,523110,Investment Banking and Securities Dealing,T
+523620,520000,Finance and Insurance,523120,Securities Brokerage,T
+523630,520000,Finance and Insurance,523130,Commodity Contracts Dealing,T
+523640,520000,Finance and Insurance,523140,Commodity Contracts Brokerage,T
+523700,520000,Finance and Insurance,523200,Securities and Commodity Exchanges,T
+523710,520000,Finance and Insurance,523210,Securities and Commodity Exchanges,T
+524400,520000,Finance and Insurance,523900,Other Financial Investment Activities,T
+524410,520000,Finance and Insurance,523910,Miscellaneous Intermediation,T
+524420,520000,Finance and Insurance,523920,Portfolio Management,T
+524430,520000,Finance and Insurance,523930,Investment Advice,T
+524490,520000,Finance and Insurance,523990,All Other Financial Investment Activities,T
+524491,520000,Finance and Insurance,523991,Trust Fiduciary and Custody Activities,T
+524499,520000,Finance and Insurance,523999,Miscellaneous Financial Investment Activities,T
+524500,520000,Finance and Insurance,524000,Insurance Carriers and Related Activities,T
+524600,520000,Finance and Insurance,524100,Insurance Carriers,T
+524610,520000,Finance and Insurance,524110,Direct Life Health and Medical Insurance Carriers,T
+524613,520000,Finance and Insurance,524113,Direct Life Insurance Carriers,T
+524614,520000,Finance and Insurance,524114,Direct Health and Medical Insurance Carriers,T
+524620,520000,Finance and Insurance,524120,Direct Insurance (except Life Health and Medical) Carriers,T
+524626,520000,Finance and Insurance,524126,Direct Property and Casualty Insurance Carriers,T
+524627,520000,Finance and Insurance,524127,Direct Title Insurance Carriers,T
+524628,520000,Finance and Insurance,524128,Other Direct Insurance (except Life Health and Medical) Carriers,T
+524630,520000,Finance and Insurance,524130,Reinsurance Carriers,T
+524700,520000,Finance and Insurance,524200,Agencies Brokerages and Other Insurance Related Activities,T
+524710,520000,Finance and Insurance,524210,Insurance Agencies and Brokerages,T
+524790,520000,Finance and Insurance,524290,Other Insurance Related Activities,T
+524791,520000,Finance and Insurance,524291,Claims Adjusting,T
+524792,520000,Finance and Insurance,524292,Third Party Administration of Insurance and Pension Funds,T
+524798,520000,Finance and Insurance,524298,All Other Insurance Related Activities,T
+525500,520000,Finance and Insurance,525000,Funds Trusts and Other Financial Vehicles,T
+525600,520000,Finance and Insurance,525100,Insurance and Employee Benefit Funds,T
+525610,520000,Finance and Insurance,525110,Pension Funds,T
+525620,520000,Finance and Insurance,525120,Health and Welfare Funds,T
+525690,520000,Finance and Insurance,525190,Other Insurance Funds,T
+526400,520000,Finance and Insurance,525900,Other Investment Pools and Funds,T
+526410,520000,Finance and Insurance,525910,Open-End Investment Funds,T
+526420,520000,Finance and Insurance,525920,Trusts Estates and Agency Accounts,T
+526430,520000,Finance and Insurance,525930,Real Estate Investment Trusts,T
+526490,520000,Finance and Insurance,525990,Other Financial Vehicles,T
+530500,530000,Real Estate and Rental and Leasing,530000,Real Estate and Rental and Leasing,T
+531500,530000,Real Estate and Rental and Leasing,531000,Real Estate,T
+531600,530000,Real Estate and Rental and Leasing,531100,Lessors of Real Estate,T
+531610,530000,Real Estate and Rental and Leasing,531110,Lessors of Residential Buildings and Dwellings,T
+531620,530000,Real Estate and Rental and Leasing,531120,Lessors of Nonresidential Buildings (except Miniwarehouses),T
+531630,530000,Real Estate and Rental and Leasing,531130,Lessors of Miniwarehouses and Self-Storage Units,T
+531690,530000,Real Estate and Rental and Leasing,531190,Lessors of Other Real Estate Property,T
+531700,530000,Real Estate and Rental and Leasing,531200,Offices of Real Estate Agents and Brokers,T
+531710,530000,Real Estate and Rental and Leasing,531210,Offices of Real Estate Agents and Brokers,T
+531800,530000,Real Estate and Rental and Leasing,531300,Activities Related to Real Estate,T
+531810,530000,Real Estate and Rental and Leasing,531310,Real Estate Property Managers,T
+531811,530000,Real Estate and Rental and Leasing,531311,Residential Property Managers,T
+531812,530000,Real Estate and Rental and Leasing,531312,Nonresidential Property Managers,T
+531820,530000,Real Estate and Rental and Leasing,531320,Offices of Real Estate Appraisers,T
+531890,530000,Real Estate and Rental and Leasing,531390,Other Activities Related to Real Estate,T
+532500,530000,Real Estate and Rental and Leasing,532000,Rental and Leasing Services,T
+532600,530000,Real Estate and Rental and Leasing,532100,Automotive Equipment Rental and Leasing,T
+532610,530000,Real Estate and Rental and Leasing,532110,Passenger Car Rental and Leasing,T
+532611,530000,Real Estate and Rental and Leasing,532111,Passenger Car Rental,T
+532612,530000,Real Estate and Rental and Leasing,532112,Passenger Car Leasing,T
+532620,530000,Real Estate and Rental and Leasing,532120,Truck Utility Trailer and RV (Recreational Vehicle) Rental and Leasing,T
+532700,530000,Real Estate and Rental and Leasing,532200,Consumer Goods Rental,T
+532710,530000,Real Estate and Rental and Leasing,532210,Consumer Electronics and Appliances Rental,T
+532720,530000,Real Estate and Rental and Leasing,532220,Formal Wear and Costume Rental,T
+532730,530000,Real Estate and Rental and Leasing,532230,Video Tape and Disc Rental,T
+532790,530000,Real Estate and Rental and Leasing,532290,Other Consumer Goods Rental,T
+532791,530000,Real Estate and Rental and Leasing,532291,Home Health Equipment Rental,T
+532792,530000,Real Estate and Rental and Leasing,532292,Recreational Goods Rental,T
+532799,530000,Real Estate and Rental and Leasing,532299,All Other Consumer Goods Rental,T
+532800,530000,Real Estate and Rental and Leasing,532300,General Rental Centers,T
+532810,530000,Real Estate and Rental and Leasing,532310,General Rental Centers,T
+532900,530000,Real Estate and Rental and Leasing,532400,Commercial and Industrial Machinery and Equipment Rental and Leasing,T
+532910,530000,Real Estate and Rental and Leasing,532410,Construction Transportation Mining and Forestry Machinery and Equipment Rental and Leasing,T
+532911,530000,Real Estate and Rental and Leasing,532411,Commercial Air Rail and Water Transportation Equipment Rental and Leasing,T
+532912,530000,Real Estate and Rental and Leasing,532412,Construction Mining and Forestry Machinery and Equipment Rental and Leasing,T
+532920,530000,Real Estate and Rental and Leasing,532420,Office Machinery and Equipment Rental and Leasing,T
+532990,530000,Real Estate and Rental and Leasing,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,T
+533500,530000,Real Estate and Rental and Leasing,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),T
+533600,530000,Real Estate and Rental and Leasing,533100,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),T
+533610,530000,Real Estate and Rental and Leasing,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),T
+540500,540000,Professional Scientific and Technical Services,540000,Professional Scientific and Technical Services,T
+541500,540000,Professional Scientific and Technical Services,541000,Professional Scientific and Technical Services,T
+541600,540000,Professional Scientific and Technical Services,541100,Legal Services,T
+541610,540000,Professional Scientific and Technical Services,541110,Offices of Lawyers,T
+541620,540000,Professional Scientific and Technical Services,541120,Offices of Notaries,T
+541690,540000,Professional Scientific and Technical Services,541190,Other Legal Services,T
+541691,540000,Professional Scientific and Technical Services,541191,Title Abstract and Settlement Offices,T
+541699,540000,Professional Scientific and Technical Services,541199,All Other Legal Services,T
+541700,540000,Professional Scientific and Technical Services,541200,Accounting Tax Preparation Bookkeeping and Payroll Services,T
+541710,540000,Professional Scientific and Technical Services,541210,Accounting Tax Preparation Bookkeeping and Payroll Services,T
+541711,540000,Professional Scientific and Technical Services,541211,Offices of Certified Public Accountants,T
+541713,540000,Professional Scientific and Technical Services,541213,Tax Preparation Services,T
+541714,540000,Professional Scientific and Technical Services,541214,Payroll Services,T
+541719,540000,Professional Scientific and Technical Services,541219,Other Accounting Services,T
+541800,540000,Professional Scientific and Technical Services,541300,Architectural Engineering and Related Services,T
+541810,540000,Professional Scientific and Technical Services,541310,Architectural Services,T
+541820,540000,Professional Scientific and Technical Services,541320,Landscape Architectural Services,T
+541830,540000,Professional Scientific and Technical Services,541330,Engineering Services,T
+541840,540000,Professional Scientific and Technical Services,541340,Drafting Services,T
+541850,540000,Professional Scientific and Technical Services,541350,Building Inspection Services,T
+541860,540000,Professional Scientific and Technical Services,541360,Geophysical Surveying and Mapping Services,T
+541870,540000,Professional Scientific and Technical Services,541370,Surveying and Mapping (except Geophysical) Services,T
+541880,540000,Professional Scientific and Technical Services,541380,Testing Laboratories,T
+541900,540000,Professional Scientific and Technical Services,541400,Specialized Design Services,T
+541910,540000,Professional Scientific and Technical Services,541410,Interior Design Services,T
+541920,540000,Professional Scientific and Technical Services,541420,Industrial Design Services,T
+541930,540000,Professional Scientific and Technical Services,541430,Graphic Design Services,T
+541990,540000,Professional Scientific and Technical Services,541490,Other Specialized Design Services,T
+542000,540000,Professional Scientific and Technical Services,541500,Computer Systems Design and Related Services,T
+542010,540000,Professional Scientific and Technical Services,541510,Computer Systems Design and Related Services,T
+542011,540000,Professional Scientific and Technical Services,541511,Custom Computer Programming Services,T
+542012,540000,Professional Scientific and Technical Services,541512,Computer Systems Design Services,T
+542013,540000,Professional Scientific and Technical Services,541513,Computer Facilities Management Services,T
+542019,540000,Professional Scientific and Technical Services,541519,Other Computer Related Services,T
+542100,540000,Professional Scientific and Technical Services,541600,Management Scientific and Technical Consulting Services,T
+542110,540000,Professional Scientific and Technical Services,541610,Management Consulting Services,T
+542111,540000,Professional Scientific and Technical Services,541611,Administrative Management and General Management Consulting Services,T
+542112,540000,Professional Scientific and Technical Services,541612,Human Resources and Executive Search Consulting Services,T
+542113,540000,Professional Scientific and Technical Services,541613,Marketing Consulting Services,T
+542114,540000,Professional Scientific and Technical Services,541614,Process Physical Distribution and Logistics Consulting Services,T
+542118,540000,Professional Scientific and Technical Services,541618,Other Management Consulting Services,T
+542120,540000,Professional Scientific and Technical Services,541620,Environmental Consulting Services,T
+542190,540000,Professional Scientific and Technical Services,541690,Other Scientific and Technical Consulting Services,T
+542200,540000,Professional Scientific and Technical Services,541700,Scientific Research and Development Services,T
+542210,540000,Professional Scientific and Technical Services,541710,Research and Development in the Physical Engineering and Life Sciences,T
+542220,540000,Professional Scientific and Technical Services,541720,Research and Development in the Social Sciences and Humanities,T
+542300,540000,Professional Scientific and Technical Services,541800,Advertising and Related Services,T
+542310,540000,Professional Scientific and Technical Services,541810,Advertising Agencies,T
+542320,540000,Professional Scientific and Technical Services,541820,Public Relations Agencies,T
+542330,540000,Professional Scientific and Technical Services,541830,Media Buying Agencies,T
+542340,540000,Professional Scientific and Technical Services,541840,Media Representatives,T
+542350,540000,Professional Scientific and Technical Services,541850,Display Advertising,T
+542360,540000,Professional Scientific and Technical Services,541860,Direct Mail Advertising,T
+542370,540000,Professional Scientific and Technical Services,541870,Advertising Material Distribution Services,T
+542390,540000,Professional Scientific and Technical Services,541890,Other Services Related to Advertising,T
+542400,540000,Professional Scientific and Technical Services,541900,Other Professional Scientific and Technical Services,T
+542410,540000,Professional Scientific and Technical Services,541910,Marketing Research and Public Opinion Polling,T
+542420,540000,Professional Scientific and Technical Services,541920,Photographic Services,T
+542421,540000,Professional Scientific and Technical Services,541921,Photography Studios Portrait,T
+542422,540000,Professional Scientific and Technical Services,541922,Commercial Photography,T
+542430,540000,Professional Scientific and Technical Services,541930,Translation and Interpretation Services,T
+542440,540000,Professional Scientific and Technical Services,541940,Veterinary Services,T
+542490,540000,Professional Scientific and Technical Services,541990,All Other Professional Scientific and Technical Services,T
+550500,550000,Management of Companies and Enterprises,550000,Management of Companies and Enterprises,T
+551500,550000,Management of Companies and Enterprises,551000,Management of Companies and Enterprises,T
+551600,550000,Management of Companies and Enterprises,551100,Management of Companies and Enterprises,T
+551610,550000,Management of Companies and Enterprises,551110,Management of Companies and Enterprises,T
+551611,550000,Management of Companies and Enterprises,551111,Offices of Bank Holding Companies,T
+551612,550000,Management of Companies and Enterprises,551112,Offices of Other Holding Companies,T
+551614,550000,Management of Companies and Enterprises,551114,Corporate Subsidiary and Regional Managing Offices,T
+560500,560000,Administrative and Support and Waste Management and Remediation Services,560000,Administrative and Support and Waste Management and Remediation Services,T
+561500,560000,Administrative and Support and Waste Management and Remediation Services,561000,Administrative and Support Services,T
+561600,560000,Administrative and Support and Waste Management and Remediation Services,561100,Office Administrative Services,T
+561610,560000,Administrative and Support and Waste Management and Remediation Services,561110,Office Administrative Services,T
+561700,560000,Administrative and Support and Waste Management and Remediation Services,561200,Facilities Support Services,T
+561710,560000,Administrative and Support and Waste Management and Remediation Services,561210,Facilities Support Services,T
+561800,560000,Administrative and Support and Waste Management and Remediation Services,561300,Employment Services,T
+561810,560000,Administrative and Support and Waste Management and Remediation Services,561310,Employment Placement Agencies,T
+561820,560000,Administrative and Support and Waste Management and Remediation Services,561320,Temporary Help Services,T
+561830,560000,Administrative and Support and Waste Management and Remediation Services,561330,Employee Leasing Services,T
+561900,560000,Administrative and Support and Waste Management and Remediation Services,561400,Business Support Services,T
+561910,560000,Administrative and Support and Waste Management and Remediation Services,561410,Document Preparation Services,T
+561920,560000,Administrative and Support and Waste Management and Remediation Services,561420,Telephone Call Centers,T
+561921,560000,Administrative and Support and Waste Management and Remediation Services,561421,Telephone Answering Services,T
+561922,560000,Administrative and Support and Waste Management and Remediation Services,561422,Telemarketing Bureaus,T
+561930,560000,Administrative and Support and Waste Management and Remediation Services,561430,Business Service Centers,T
+561931,560000,Administrative and Support and Waste Management and Remediation Services,561431,Private Mail Centers,T
+561939,560000,Administrative and Support and Waste Management and Remediation Services,561439,Other Business Service Centers (including Copy Shops),T
+561940,560000,Administrative and Support and Waste Management and Remediation Services,561440,Collection Agencies,T
+561950,560000,Administrative and Support and Waste Management and Remediation Services,561450,Credit Bureaus,T
+561990,560000,Administrative and Support and Waste Management and Remediation Services,561490,Other Business Support Services,T
+561991,560000,Administrative and Support and Waste Management and Remediation Services,561491,Repossession Services,T
+561992,560000,Administrative and Support and Waste Management and Remediation Services,561492,Court Reporting and Stenotype Services,T
+561999,560000,Administrative and Support and Waste Management and Remediation Services,561499,All Other Business Support Services,T
+562000,560000,Administrative and Support and Waste Management and Remediation Services,561500,Travel Arrangement and Reservation Services,T
+562010,560000,Administrative and Support and Waste Management and Remediation Services,561510,Travel Agencies,T
+562020,560000,Administrative and Support and Waste Management and Remediation Services,561520,Tour Operators,T
+562090,560000,Administrative and Support and Waste Management and Remediation Services,561590,Other Travel Arrangement and Reservation Services,T
+562091,560000,Administrative and Support and Waste Management and Remediation Services,561591,Convention and Visitors Bureaus,T
+562099,560000,Administrative and Support and Waste Management and Remediation Services,561599,All Other Travel Arrangement and Reservation Services,T
+562100,560000,Administrative and Support and Waste Management and Remediation Services,561600,Investigation and Security Services,T
+562110,560000,Administrative and Support and Waste Management and Remediation Services,561610,Investigation Guard and Armored Car Services,T
+562111,560000,Administrative and Support and Waste Management and Remediation Services,561611,Investigation Services,T
+562112,560000,Administrative and Support and Waste Management and Remediation Services,561612,Security Guards and Patrol Services,T
+562113,560000,Administrative and Support and Waste Management and Remediation Services,561613,Armored Car Services,T
+562120,560000,Administrative and Support and Waste Management and Remediation Services,561620,Security Systems Services,T
+562121,560000,Administrative and Support and Waste Management and Remediation Services,561621,Security Systems Services (except Locksmiths),T
+562122,560000,Administrative and Support and Waste Management and Remediation Services,561622,Locksmiths,T
+562200,560000,Administrative and Support and Waste Management and Remediation Services,561700,Services to Buildings and Dwellings,T
+562210,560000,Administrative and Support and Waste Management and Remediation Services,561710,Exterminating and Pest Control Services,T
+562220,560000,Administrative and Support and Waste Management and Remediation Services,561720,Janitorial Services,T
+562230,560000,Administrative and Support and Waste Management and Remediation Services,561730,Landscaping Services,T
+562240,560000,Administrative and Support and Waste Management and Remediation Services,561740,Carpet and Upholstery Cleaning Services,T
+562290,560000,Administrative and Support and Waste Management and Remediation Services,561790,Other Services to Buildings and Dwellings,T
+562400,560000,Administrative and Support and Waste Management and Remediation Services,561900,Other Support Services,T
+562410,560000,Administrative and Support and Waste Management and Remediation Services,561910,Packaging and Labeling Services,T
+562420,560000,Administrative and Support and Waste Management and Remediation Services,561920,Convention and Trade Show Organizers,T
+562490,560000,Administrative and Support and Waste Management and Remediation Services,561990,All Other Support Services,T
+562500,560000,Administrative and Support and Waste Management and Remediation Services,562000,Waste Management and Remediation Services,T
+562600,560000,Administrative and Support and Waste Management and Remediation Services,562100,Waste Collection,T
+562610,560000,Administrative and Support and Waste Management and Remediation Services,562110,Waste Collection,T
+562611,560000,Administrative and Support and Waste Management and Remediation Services,562111,Solid Waste Collection,T
+562612,560000,Administrative and Support and Waste Management and Remediation Services,562112,Hazardous Waste Collection,T
+562619,560000,Administrative and Support and Waste Management and Remediation Services,562119,Other Waste Collection,T
+562700,560000,Administrative and Support and Waste Management and Remediation Services,562200,Waste Treatment and Disposal,T
+562710,560000,Administrative and Support and Waste Management and Remediation Services,562210,Waste Treatment and Disposal,T
+562711,560000,Administrative and Support and Waste Management and Remediation Services,562211,Hazardous Waste Treatment and Disposal,T
+562712,560000,Administrative and Support and Waste Management and Remediation Services,562212,Solid Waste Landfill,T
+562713,560000,Administrative and Support and Waste Management and Remediation Services,562213,Solid Waste Combustors and Incinerators,T
+562719,560000,Administrative and Support and Waste Management and Remediation Services,562219,Other Nonhazardous Waste Treatment and Disposal,T
+563400,560000,Administrative and Support and Waste Management and Remediation Services,562900,Remediation and Other Waste Management Services,T
+563410,560000,Administrative and Support and Waste Management and Remediation Services,562910,Remediation Services,T
+563420,560000,Administrative and Support and Waste Management and Remediation Services,562920,Materials Recovery Facilities,T
+563490,560000,Administrative and Support and Waste Management and Remediation Services,562990,All Other Waste Management Services,T
+563491,560000,Administrative and Support and Waste Management and Remediation Services,562991,Septic Tank and Related Services,T
+563498,560000,Administrative and Support and Waste Management and Remediation Services,562998,All Other Miscellaneous Waste Management Services,T
+610500,610000,Educational Services,610000,Educational Services,T
+611500,610000,Educational Services,611000,Educational Services,T
+611600,610000,Educational Services,611100,Elementary and Secondary Schools,T
+611610,610000,Educational Services,611110,Elementary and Secondary Schools,T
+611700,610000,Educational Services,611200,Junior Colleges,T
+611710,610000,Educational Services,611210,Junior Colleges,T
+611800,610000,Educational Services,611300,Colleges Universities and Professional Schools,T
+611810,610000,Educational Services,611310,Colleges Universities and Professional Schools,T
+611900,610000,Educational Services,611400,Business Schools and Computer and Management Training,T
+611910,610000,Educational Services,611410,Business and Secretarial Schools,T
+611920,610000,Educational Services,611420,Computer Training,T
+611930,610000,Educational Services,611430,Professional and Management Development Training,T
+612000,610000,Educational Services,611500,Technical and Trade Schools,T
+612010,610000,Educational Services,611510,Technical and Trade Schools,T
+612011,610000,Educational Services,611511,Cosmetology and Barber Schools,T
+612012,610000,Educational Services,611512,Flight Training,T
+612013,610000,Educational Services,611513,Apprenticeship Training,T
+612019,610000,Educational Services,611519,Other Technical and Trade Schools,T
+612100,610000,Educational Services,611600,Other Schools and Instruction,T
+612110,610000,Educational Services,611610,Fine Arts Schools,T
+612120,610000,Educational Services,611620,Sports and Recreation Instruction,T
+612130,610000,Educational Services,611630,Language Schools,T
+612190,610000,Educational Services,611690,All Other Schools and Instruction,T
+612191,610000,Educational Services,611691,Exam Preparation and Tutoring,T
+612192,610000,Educational Services,611692,Automobile Driving Schools,T
+612199,610000,Educational Services,611699,All Other Miscellaneous Schools and Instruction,T
+612200,610000,Educational Services,611700,Educational Support Services,T
+612210,610000,Educational Services,611710,Educational Support Services,T
+620500,620000,Health Care and Social Assistance,620000,Health Care and Social Assistance,T
+621500,620000,Health Care and Social Assistance,621000,Ambulatory Health Care Services,T
+621600,620000,Health Care and Social Assistance,621100,Offices of Physicians,T
+621610,620000,Health Care and Social Assistance,621110,Offices of Physicians,T
+621611,620000,Health Care and Social Assistance,621111,Offices of Physicians (except Mental Health Specialists),T
+621612,620000,Health Care and Social Assistance,621112,Offices of Physicians Mental Health Specialists,T
+621700,620000,Health Care and Social Assistance,621200,Offices of Dentists,T
+621710,620000,Health Care and Social Assistance,621210,Offices of Dentists,T
+621800,620000,Health Care and Social Assistance,621300,Offices of Other Health Practitioners,T
+621810,620000,Health Care and Social Assistance,621310,Offices of Chiropractors,T
+621820,620000,Health Care and Social Assistance,621320,Offices of Optometrists,T
+621830,620000,Health Care and Social Assistance,621330,Offices of Mental Health Practitioners (except Physicians),T
+621840,620000,Health Care and Social Assistance,621340,Offices of Physical Occupational and Speech Therapists and Audiologists,T
+621890,620000,Health Care and Social Assistance,621390,Offices of All Other Health Practitioners,T
+621891,620000,Health Care and Social Assistance,621391,Offices of Podiatrists,T
+621899,620000,Health Care and Social Assistance,621399,Offices of All Other Miscellaneous Health Practitioners,T
+621900,620000,Health Care and Social Assistance,621400,Outpatient Care Centers,T
+621910,620000,Health Care and Social Assistance,621410,Family Planning Centers,T
+621920,620000,Health Care and Social Assistance,621420,Outpatient Mental Health and Substance Abuse Centers,T
+621990,620000,Health Care and Social Assistance,621490,Other Outpatient Care Centers,T
+621991,620000,Health Care and Social Assistance,621491,HMO Medical Centers,T
+621992,620000,Health Care and Social Assistance,621492,Kidney Dialysis Centers,T
+621993,620000,Health Care and Social Assistance,621493,Freestanding Ambulatory Surgical and Emergency Centers,T
+621998,620000,Health Care and Social Assistance,621498,All Other Outpatient Care Centers,T
+622000,620000,Health Care and Social Assistance,621500,Medical and Diagnostic Laboratories,T
+622010,620000,Health Care and Social Assistance,621510,Medical and Diagnostic Laboratories,T
+622011,620000,Health Care and Social Assistance,621511,Medical Laboratories,T
+622012,620000,Health Care and Social Assistance,621512,Diagnostic Imaging Centers,T
+622100,620000,Health Care and Social Assistance,621600,Home Health Care Services,T
+622110,620000,Health Care and Social Assistance,621610,Home Health Care Services,T
+622400,620000,Health Care and Social Assistance,621900,Other Ambulatory Health Care Services,T
+622410,620000,Health Care and Social Assistance,621910,Ambulance Services,T
+622490,620000,Health Care and Social Assistance,621990,All Other Ambulatory Health Care Services,T
+622491,620000,Health Care and Social Assistance,621991,Blood and Organ Banks,T
+622499,620000,Health Care and Social Assistance,621999,All Other Miscellaneous Ambulatory Health Care Services,T
+622500,620000,Health Care and Social Assistance,622000,Hospitals,T
+622600,620000,Health Care and Social Assistance,622100,General Medical and Surgical Hospitals,T
+622610,620000,Health Care and Social Assistance,622110,General Medical and Surgical Hospitals,T
+622700,620000,Health Care and Social Assistance,622200,Psychiatric and Substance Abuse Hospitals,T
+622710,620000,Health Care and Social Assistance,622210,Psychiatric and Substance Abuse Hospitals,T
+622800,620000,Health Care and Social Assistance,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,T
+622810,620000,Health Care and Social Assistance,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,T
+623500,620000,Health Care and Social Assistance,623000,Nursing and Residential Care Facilities,T
+623600,620000,Health Care and Social Assistance,623100,Nursing Care Facilities,T
+623610,620000,Health Care and Social Assistance,623110,Nursing Care Facilities,T
+623700,620000,Health Care and Social Assistance,623200,Residential Mental Retardation Mental Health and Substance Abuse Facilities,T
+623710,620000,Health Care and Social Assistance,623210,Residential Mental Retardation Facilities,T
+623720,620000,Health Care and Social Assistance,623220,Residential Mental Health and Substance Abuse Facilities,T
+623800,620000,Health Care and Social Assistance,623300,Community Care Facilities for the Elderly,T
+623810,620000,Health Care and Social Assistance,623310,Community Care Facilities for the Elderly,T
+623811,620000,Health Care and Social Assistance,623311,Continuing Care Retirement Communities,T
+623812,620000,Health Care and Social Assistance,623312,Homes for the Elderly,T
+624400,620000,Health Care and Social Assistance,623900,Other Residential Care Facilities,T
+624490,620000,Health Care and Social Assistance,623990,Other Residential Care Facilities,T
+624500,620000,Health Care and Social Assistance,624000,Social Assistance,T
+624600,620000,Health Care and Social Assistance,624100,Individual and Family Services,T
+624610,620000,Health Care and Social Assistance,624110,Child and Youth Services,T
+624620,620000,Health Care and Social Assistance,624120,Services for the Elderly and Persons with Disabilities,T
+624690,620000,Health Care and Social Assistance,624190,Other Individual and Family Services,T
+624700,620000,Health Care and Social Assistance,624200,Community Food and Housing and Emergency and Other Relief Services,T
+624710,620000,Health Care and Social Assistance,624210,Community Food Services,T
+624720,620000,Health Care and Social Assistance,624220,Community Housing Services,T
+624721,620000,Health Care and Social Assistance,624221,Temporary Shelters,T
+624729,620000,Health Care and Social Assistance,624229,Other Community Housing Services,T
+624730,620000,Health Care and Social Assistance,624230,Emergency and Other Relief Services,T
+624800,620000,Health Care and Social Assistance,624300,Vocational Rehabilitation Services,T
+624810,620000,Health Care and Social Assistance,624310,Vocational Rehabilitation Services,T
+624900,620000,Health Care and Social Assistance,624400,Child Day Care Services,T
+624910,620000,Health Care and Social Assistance,624410,Child Day Care Services,T
+710500,710000,Arts Entertainment and Recreation,710000,Arts Entertainment and Recreation,T
+711500,710000,Arts Entertainment and Recreation,711000,Performing Arts Spectator Sports and Related Industries,T
+711600,710000,Arts Entertainment and Recreation,711100,Performing Arts Companies,T
+711610,710000,Arts Entertainment and Recreation,711110,Theater Companies and Dinner Theaters,T
+711620,710000,Arts Entertainment and Recreation,711120,Dance Companies,T
+711630,710000,Arts Entertainment and Recreation,711130,Musical Groups and Artists,T
+711690,710000,Arts Entertainment and Recreation,711190,Other Performing Arts Companies,T
+711700,710000,Arts Entertainment and Recreation,711200,Spectator Sports,T
+711710,710000,Arts Entertainment and Recreation,711210,Spectator Sports,T
+711711,710000,Arts Entertainment and Recreation,711211,Sports Teams and Clubs,T
+711712,710000,Arts Entertainment and Recreation,711212,Racetracks,T
+711719,710000,Arts Entertainment and Recreation,711219,Other Spectator Sports,T
+711800,710000,Arts Entertainment and Recreation,711300,Promoters of Performing Arts Sports and Similar Events,T
+711810,710000,Arts Entertainment and Recreation,711310,Promoters of Performing Arts Sports and Similar Events with Facilities,T
+711820,710000,Arts Entertainment and Recreation,711320,Promoters of Performing Arts Sports and Similar Events without Facilities,T
+711900,710000,Arts Entertainment and Recreation,711400,Agents and Managers for Artists Athletes Entertainers and Other Public Figures,T
+711910,710000,Arts Entertainment and Recreation,711410,Agents and Managers for Artists Athletes Entertainers and Other Public Figures,T
+712000,710000,Arts Entertainment and Recreation,711500,Independent Artists Writers and Performers,T
+712010,710000,Arts Entertainment and Recreation,711510,Independent Artists Writers and Performers,T
+712500,710000,Arts Entertainment and Recreation,712000,Museums Historical Sites and Similar Institutions,T
+712600,710000,Arts Entertainment and Recreation,712100,Museums Historical Sites and Similar Institutions,T
+712610,710000,Arts Entertainment and Recreation,712110,Museums,T
+712620,710000,Arts Entertainment and Recreation,712120,Historical Sites,T
+712630,710000,Arts Entertainment and Recreation,712130,Zoos and Botanical Gardens,T
+712690,710000,Arts Entertainment and Recreation,712190,Nature Parks and Other Similar Institutions,T
+713500,710000,Arts Entertainment and Recreation,713000,Amusement Gambling and Recreation Industries,T
+713600,710000,Arts Entertainment and Recreation,713100,Amusement Parks and Arcades,T
+713610,710000,Arts Entertainment and Recreation,713110,Amusement and Theme Parks,T
+713620,710000,Arts Entertainment and Recreation,713120,Amusement Arcades,T
+713700,710000,Arts Entertainment and Recreation,713200,Gambling Industries,T
+713710,710000,Arts Entertainment and Recreation,713210,Casinos (except Casino Hotels),T
+713790,710000,Arts Entertainment and Recreation,713290,Other Gambling Industries,T
+714400,710000,Arts Entertainment and Recreation,713900,Other Amusement and Recreation Industries,T
+714410,710000,Arts Entertainment and Recreation,713910,Golf Courses and Country Clubs,T
+714420,710000,Arts Entertainment and Recreation,713920,Skiing Facilities,T
+714430,710000,Arts Entertainment and Recreation,713930,Marinas,T
+714440,710000,Arts Entertainment and Recreation,713940,Fitness and Recreational Sports Centers,T
+714450,710000,Arts Entertainment and Recreation,713950,Bowling Centers,T
+714490,710000,Arts Entertainment and Recreation,713990,All Other Amusement and Recreation Industries,T
+720500,720000,Accommodation and Food Services,720000,Accommodation and Food Services,T
+721500,720000,Accommodation and Food Services,721000,Accommodation,T
+721600,720000,Accommodation and Food Services,721100,Traveler Accommodation,T
+721610,720000,Accommodation and Food Services,721110,Hotels (except Casino Hotels) and Motels,T
+721620,720000,Accommodation and Food Services,721120,Casino Hotels,T
+721690,720000,Accommodation and Food Services,721190,Other Traveler Accommodation,T
+721691,720000,Accommodation and Food Services,721191,Bed-and-Breakfast Inns,T
+721699,720000,Accommodation and Food Services,721199,All Other Traveler Accommodation,T
+721700,720000,Accommodation and Food Services,721200,RV (Recreational Vehicle) Parks and Recreational Camps,T
+721710,720000,Accommodation and Food Services,721210,RV (Recreational Vehicle) Parks and Recreational Camps,T
+721711,720000,Accommodation and Food Services,721211,RV (Recreational Vehicle) Parks and Campgrounds,T
+721714,720000,Accommodation and Food Services,721214,Recreational and Vacation Camps (except Campgrounds),T
+721800,720000,Accommodation and Food Services,721300,Rooming and Boarding Houses,T
+721810,720000,Accommodation and Food Services,721310,Rooming and Boarding Houses,T
+722500,720000,Accommodation and Food Services,722000,Food Services and Drinking Places,T
+722600,720000,Accommodation and Food Services,722100,Full-Service Restaurants,T
+722610,720000,Accommodation and Food Services,722110,Full-Service Restaurants,T
+722700,720000,Accommodation and Food Services,722200,Limited-Service Eating Places,T
+722710,720000,Accommodation and Food Services,722210,Limited-Service Eating Places,T
+722711,720000,Accommodation and Food Services,722211,Limited-Service Restaurants,T
+722712,720000,Accommodation and Food Services,722212,Cafeterias,T
+722713,720000,Accommodation and Food Services,722213,Snack and Nonalcoholic Beverage Bars,T
+722800,720000,Accommodation and Food Services,722300,Special Food Services,T
+722810,720000,Accommodation and Food Services,722310,Food Service Contractors,T
+722820,720000,Accommodation and Food Services,722320,Caterers,T
+722830,720000,Accommodation and Food Services,722330,Mobile Food Services,T
+722900,720000,Accommodation and Food Services,722400,Drinking Places (Alcoholic Beverages),T
+722910,720000,Accommodation and Food Services,722410,Drinking Places (Alcoholic Beverages),T
+810500,810000,Other Services (except Public Administration),810000,Other Services (except Public Administration),T
+811500,810000,Other Services (except Public Administration),811000,Repair and Maintenance,T
+811600,810000,Other Services (except Public Administration),811100,Automotive Repair and Maintenance,T
+811610,810000,Other Services (except Public Administration),811110,Automotive Mechanical and Electrical Repair and Maintenance,T
+811611,810000,Other Services (except Public Administration),811111,General Automotive Repair,T
+811612,810000,Other Services (except Public Administration),811112,Automotive Exhaust System Repair,T
+811613,810000,Other Services (except Public Administration),811113,Automotive Transmission Repair,T
+811618,810000,Other Services (except Public Administration),811118,Other Automotive Mechanical and Electrical Repair and Maintenance,T
+811620,810000,Other Services (except Public Administration),811120,Automotive Body Paint Interior and Glass Repair,T
+811621,810000,Other Services (except Public Administration),811121,Automotive Body Paint and Interior Repair and Maintenance,T
+811622,810000,Other Services (except Public Administration),811122,Automotive Glass Replacement Shops,T
+811690,810000,Other Services (except Public Administration),811190,Other Automotive Repair and Maintenance,T
+811691,810000,Other Services (except Public Administration),811191,Automotive Oil Change and Lubrication Shops,T
+811692,810000,Other Services (except Public Administration),811192,Car Washes,T
+811698,810000,Other Services (except Public Administration),811198,All Other Automotive Repair and Maintenance,T
+811700,810000,Other Services (except Public Administration),811200,Electronic and Precision Equipment Repair and Maintenance,T
+811710,810000,Other Services (except Public Administration),811210,Electronic and Precision Equipment Repair and Maintenance,T
+811711,810000,Other Services (except Public Administration),811211,Consumer Electronics Repair and Maintenance,T
+811712,810000,Other Services (except Public Administration),811212,Computer and Office Machine Repair and Maintenance,T
+811713,810000,Other Services (except Public Administration),811213,Communication Equipment Repair and Maintenance,T
+811719,810000,Other Services (except Public Administration),811219,Other Electronic and Precision Equipment Repair and Maintenance,T
+811800,810000,Other Services (except Public Administration),811300,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,T
+811810,810000,Other Services (except Public Administration),811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,T
+811900,810000,Other Services (except Public Administration),811400,Personal and Household Goods Repair and Maintenance,T
+811910,810000,Other Services (except Public Administration),811410,Home and Garden Equipment and Appliance Repair and Maintenance,T
+811911,810000,Other Services (except Public Administration),811411,Home and Garden Equipment Repair and Maintenance,T
+811912,810000,Other Services (except Public Administration),811412,Appliance Repair and Maintenance,T
+811920,810000,Other Services (except Public Administration),811420,Reupholstery and Furniture Repair,T
+811930,810000,Other Services (except Public Administration),811430,Footwear and Leather Goods Repair,T
+811990,810000,Other Services (except Public Administration),811490,Other Personal and Household Goods Repair and Maintenance,T
+812500,810000,Other Services (except Public Administration),812000,Personal and Laundry Services,T
+812600,810000,Other Services (except Public Administration),812100,Personal Care Services,T
+812610,810000,Other Services (except Public Administration),812110,Hair Nail and Skin Care Services,T
+812611,810000,Other Services (except Public Administration),812111,Barber Shops,T
+812612,810000,Other Services (except Public Administration),812112,Beauty Salons,T
+812613,810000,Other Services (except Public Administration),812113,Nail Salons,T
+812690,810000,Other Services (except Public Administration),812190,Other Personal Care Services,T
+812691,810000,Other Services (except Public Administration),812191,Diet and Weight Reducing Centers,T
+812699,810000,Other Services (except Public Administration),812199,Other Personal Care Services,T
+812700,810000,Other Services (except Public Administration),812200,Death Care Services,T
+812710,810000,Other Services (except Public Administration),812210,Funeral Homes and Funeral Services,T
+812720,810000,Other Services (except Public Administration),812220,Cemeteries and Crematories,T
+812800,810000,Other Services (except Public Administration),812300,Drycleaning and Laundry Services,T
+812810,810000,Other Services (except Public Administration),812310,Coin-Operated Laundries and Drycleaners,T
+812820,810000,Other Services (except Public Administration),812320,Drycleaning and Laundry Services (except Coin-Operated),T
+812830,810000,Other Services (except Public Administration),812330,Linen and Uniform Supply,T
+812831,810000,Other Services (except Public Administration),812331,Linen Supply,T
+812832,810000,Other Services (except Public Administration),812332,Industrial Launderers,T
+813400,810000,Other Services (except Public Administration),812900,Other Personal Services,T
+813410,810000,Other Services (except Public Administration),812910,Pet Care (except Veterinary) Services,T
+813420,810000,Other Services (except Public Administration),812920,Photofinishing,T
+813421,810000,Other Services (except Public Administration),812921,Photofinishing Laboratories (except One-Hour),T
+813422,810000,Other Services (except Public Administration),812922,One-Hour Photofinishing,T
+813430,810000,Other Services (except Public Administration),812930,Parking Lots and Garages,T
+813490,810000,Other Services (except Public Administration),812990,All Other Personal Services,T
+813500,810000,Other Services (except Public Administration),813000,Religious Grantmaking Civic Professional and Similar Organizations,T
+813600,810000,Other Services (except Public Administration),813100,Religious Organizations,T
+813610,810000,Other Services (except Public Administration),813110,Religious Organizations,T
+813700,810000,Other Services (except Public Administration),813200,Grantmaking and Giving Services,T
+813710,810000,Other Services (except Public Administration),813210,Grantmaking and Giving Services,T
+813711,810000,Other Services (except Public Administration),813211,Grantmaking Foundations,T
+813712,810000,Other Services (except Public Administration),813212,Voluntary Health Organizations,T
+813719,810000,Other Services (except Public Administration),813219,Other Grantmaking and Giving Services,T
+813800,810000,Other Services (except Public Administration),813300,Social Advocacy Organizations,T
+813810,810000,Other Services (except Public Administration),813310,Social Advocacy Organizations,T
+813811,810000,Other Services (except Public Administration),813311,Human Rights Organizations,T
+813812,810000,Other Services (except Public Administration),813312,Environment Conservation and Wildlife Organizations,T
+813819,810000,Other Services (except Public Administration),813319,Other Social Advocacy Organizations,T
+813900,810000,Other Services (except Public Administration),813400,Civic and Social Organizations,T
+813910,810000,Other Services (except Public Administration),813410,Civic and Social Organizations,T
+814400,810000,Other Services (except Public Administration),813900,Business Professional Labor Political and Similar Organizations,T
+814410,810000,Other Services (except Public Administration),813910,Business Associations,T
+814420,810000,Other Services (except Public Administration),813920,Professional Organizations,T
+814430,810000,Other Services (except Public Administration),813930,Labor Unions and Similar Labor Organizations,T
+814440,810000,Other Services (except Public Administration),813940,Political Organizations,T
+814490,810000,Other Services (except Public Administration),813990,Other Similar Organizations (except Business Professional Labor and Political Organizations),T
+814500,810000,Other Services (except Public Administration),814000,Private Households,T
+814600,810000,Other Services (except Public Administration),814100,Private Households,T
+814610,810000,Other Services (except Public Administration),814110,Private Households,T
+920500,920000,Public Administration,920000,Public Administration,T
+921500,920000,Public Administration,921000,Executive Legislative and Other General Government Support,T
+921600,920000,Public Administration,921100,Executive Legislative and Other General Government Support,T
+921610,920000,Public Administration,921110,Executive Offices,T
+921620,920000,Public Administration,921120,Legislative Bodies,T
+921630,920000,Public Administration,921130,Public Finance Activities,T
+921640,920000,Public Administration,921140,Executive and Legislative Offices Combined,T
+921650,920000,Public Administration,921150,American Indian and Alaska Native Tribal Governments,T
+921690,920000,Public Administration,921190,Other General Government Support,T
+922500,920000,Public Administration,922000,Justice Public Order and Safety Activities,T
+922600,920000,Public Administration,922100,Justice Public Order and Safety Activities,T
+922610,920000,Public Administration,922110,Courts,T
+922620,920000,Public Administration,922120,Police Protection,T
+922630,920000,Public Administration,922130,Legal Counsel and Prosecution,T
+922640,920000,Public Administration,922140,Correctional Institutions,T
+922650,920000,Public Administration,922150,Parole Offices and Probation Offices,T
+922660,920000,Public Administration,922160,Fire Protection,T
+922690,920000,Public Administration,922190,Other Justice Public Order and Safety Activities,T
+923500,920000,Public Administration,923000,Administration of Human Resource Programs,T
+923600,920000,Public Administration,923100,Administration of Human Resource Programs,T
+923610,920000,Public Administration,923110,Administration of Education Programs,T
+923620,920000,Public Administration,923120,Administration of Public Health Programs,T
+923630,920000,Public Administration,923130,Administration of Human Resource Programs (except Education Public Health and Veterans Affairs Programs),T
+923640,920000,Public Administration,923140,Administration of Veterans Affairs,T
+924500,920000,Public Administration,924000,Administration of Environmental Quality Programs,T
+924600,920000,Public Administration,924100,Administration of Environmental Quality Programs,T
+924610,920000,Public Administration,924110,Administration of Air and Water Resource and Solid Waste Management Programs,T
+924620,920000,Public Administration,924120,Administration of Conservation Programs,T
+925500,920000,Public Administration,925000,Administration of Housing Programs Urban Planning and Community Development,T
+925600,920000,Public Administration,925100,Administration of Housing Programs Urban Planning and Community Development,T
+925610,920000,Public Administration,925110,Administration of Housing Programs,T
+925620,920000,Public Administration,925120,Administration of Urban Planning and Community and Rural Development,T
+926500,920000,Public Administration,926000,Administration of Economic Programs,T
+926600,920000,Public Administration,926100,Administration of Economic Programs,T
+926610,920000,Public Administration,926110,Administration of General Economic Programs,T
+926620,920000,Public Administration,926120,Regulation and Administration of Transportation Programs,T
+926630,920000,Public Administration,926130,Regulation and Administration of Communications Electric Gas and Other Utilities,T
+926640,920000,Public Administration,926140,Regulation of Agricultural Marketing and Commodities,T
+926650,920000,Public Administration,926150,Regulation Licensing and Inspection of Miscellaneous Commercial Sectors,T
+927500,920000,Public Administration,927000,Space Research and Technology,T
+927600,920000,Public Administration,927100,Space Research and Technology,T
+927610,920000,Public Administration,927110,Space Research and Technology,T
+928500,920000,Public Administration,928000,National Security and International Affairs,T
+928600,920000,Public Administration,928100,National Security and International Affairs,T
+928610,920000,Public Administration,928110,National Security,T
+928620,920000,Public Administration,928120,International Affairs,T

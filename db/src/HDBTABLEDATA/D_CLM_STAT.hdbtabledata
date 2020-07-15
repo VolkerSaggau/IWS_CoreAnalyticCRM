@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CLM_STAT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CLM_STAT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CLM_STAT_ID"                       : 1,
+            "CLM_STAT_NAME"                     : 2,
+            "CLM_STAT_DESC"                     : 3,
+            "PCCS_ALL_ENTR_IND"                 : 4
+         
+         }
+      }
+   ]
+}

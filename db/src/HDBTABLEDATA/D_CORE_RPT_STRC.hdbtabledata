@@ -1,0 +1,51 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CORE_RPT_STRC",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CORE_RPT_STRC.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "COR_RPT_STRC_ID"                   : 1,
+            "CHNL_ENTY_ID"                      : 2,
+            "CHNL_MGT_UNIT_ID"                  : 3,
+            "CHNL_CS_TRD_DATE"                  : 4,
+            "CRS_BEGIN_DATE"                    : 5,
+            "CRS_END_DATE"                      : 6,
+            "COST_CENTER_IND"                   : 7,
+            "PROFIT_CENTER_IND"                 : 8,
+            "BOOKING_UNIT_IND"                  : 9,
+            "ASN_CATEGORY"                      : 10,
+            "DISTRICT"                          : 11,
+            "HOLDING_COMPANY"                   : 12,
+            "ORG_TYPE"                          : 13,
+            "ORG_TYPE_DESC"                     : 14,
+            "ORG_NAME"                          : 15,
+            "AREA"                              : 16,
+            "REGION"                            : 17,
+            "TEAM_TYPE"                         : 18,
+            "TEAM"                              : 19,
+            "PERSON_NAME"                       : 20,
+            "PERSON_GRADE"                      : 21,
+            "PERSON_TYPE"                       : 22,
+            "CHNL_CATEGORY"                     : 23,
+            "CHNL_TYPE"                         : 24,
+            "CHNL_SUBCAT"                       : 25,
+            "CHNL_NAME"                         : 26,
+            "CHNL_CITY"                         : 27,
+            "CHNL_POSTCODE"                     : 28,
+            "CHNL_UNIT_ID_NBR"                  : 29,
+            "REV_COST_CTR_IND"                  : 30,
+            "CRS_ALL_ENTR_IND"                  : 31
+         
+         }
+      }
+   ]
+}

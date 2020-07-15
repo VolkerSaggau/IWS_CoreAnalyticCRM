@@ -1,0 +1,38 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_ACCOUNT_PRFL",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_ACCOUNT_PRFL.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ACCOUNT_ID"                        : 1,
+            "ACCOUNT_NUMBER"                    : 2,
+            "ACCOUNT_TYPE_ID"                   : 3,
+            "ACCT_TERMS_ID"                     : 4,
+            "ACCT_STATUS_ID"                    : 5,
+            "STMT_CYCLE_ID"                     : 6,
+            "CUSTOMER_ID"                       : 7,
+            "HOUSEHOLD_ID"                      : 8,
+            "EMP_ID"                            : 9,
+            "PRODUCT_ID"                        : 10,
+            "PD_OWNERSHIP_ID"                   : 11,
+            "COR_RPT_STRC_ID"                   : 12,
+            "GEO_ID"                            : 13,
+            "BEGIN_DATE_PRD_ID"                 : 14,
+            "END_DATE_PRD_ID"                   : 15,
+            "BEHAVIOR_SCORE_ID"                 : 16,
+            "ACCT_HIER_TYPE"                    : 17,
+            "NBR_OF_ACCT_HOLDER"                : 18
+         
+         }
+      }
+   ]
+}

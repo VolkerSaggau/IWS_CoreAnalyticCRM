@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CPGN_PD_GRP",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CPGN_PD_GRP.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "PRODUCT_ID"                        : 1,
+            "PRM_EPSD_ID"                       : 2,
+            "CPG_DESC"                          : 3,
+            "CP_ALL_ENTRIES_IND"                : 4
+         
+         }
+      }
+   ]
+}

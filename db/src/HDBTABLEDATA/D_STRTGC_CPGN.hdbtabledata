@@ -1,0 +1,23 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_STRTGC_CPGN",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_STRTGC_CPGN.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "STRTGC_CPGN_ID"                    : 1,
+            "STGC_ALL_ENTRIES_I"                : 2,
+            "DESCRIPTION"                       : 3
+         
+         }
+      }
+   ]
+}

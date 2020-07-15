@@ -1,0 +1,1000 @@
+1,e-mail,5:00PM-10:00PM,Y,Y,N,Y,T
+2,regular mail,5:00PM-10:00PM,N,Y,N,N,T
+3,regular mail,6:00PM-9:00PM,N,N,Y,Y,T
+4,regular mail,any time,N,N,Y,Y,T
+5,telephone,any time,Y,Y,Y,N,T
+6,telephone,9:00AM-12:00PM,Y,N,Y,N,T
+7,e-mail,unknown,Y,Y,Y,Y,T
+8,fax,unknown,N,N,N,Y,T
+9,regular mail,any time,Y,Y,Y,Y,T
+10,regular mail,any time,N,Y,N,N,T
+11,fax,9:00AM-12:00PM,N,N,N,N,T
+12,telephone,8:00AM-5:00PM,Y,Y,N,Y,T
+13,telephone,12:00PM-3:00PM,N,N,N,Y,T
+14,e-mail,12:00PM-8:00AM,Y,Y,Y,N,T
+15,telephone,unknown,N,Y,Y,N,T
+16,telephone,any time,Y,N,Y,Y,T
+17,e-mail,9:00AM-12:00PM,Y,N,N,N,T
+18,regular mail,12:00PM-3:00PM,N,Y,Y,Y,T
+19,telephone,3:00PM-6:00PM,N,N,N,N,T
+20,e-mail,6:00PM-9:00PM,N,Y,N,N,T
+21,e-mail,8:00AM-5:00PM,Y,N,Y,N,T
+22,telephone,3:00PM-6:00PM,N,Y,N,Y,T
+23,e-mail,12:00PM-3:00PM,Y,Y,N,Y,T
+24,regular mail,any time,N,N,N,Y,T
+25,telephone,5:00PM-10:00PM,N,Y,Y,N,T
+26,regular mail,any time,Y,N,Y,N,T
+27,telephone,5:00PM-10:00PM,N,Y,N,N,T
+28,e-mail,12:00PM-8:00AM,N,N,N,N,T
+29,telephone,12:00PM-8:00AM,N,Y,N,N,T
+30,regular mail,unknown,Y,N,N,Y,T
+31,telephone,unknown,N,Y,N,N,T
+32,regular mail,8:00AM-5:00PM,N,N,Y,N,T
+33,regular mail,unknown,Y,Y,N,N,T
+34,fax,8:00AM-5:00PM,N,N,Y,Y,T
+35,regular mail,any time,Y,Y,Y,N,T
+36,regular mail,8:00AM-5:00PM,N,Y,Y,N,T
+37,regular mail,9:00AM-12:00PM,Y,Y,N,N,T
+38,telephone,12:00PM-8:00AM,N,Y,N,Y,T
+39,telephone,12:00PM-3:00PM,Y,N,Y,N,T
+40,e-mail,5:00PM-10:00PM,Y,Y,N,N,T
+41,regular mail,5:00PM-10:00PM,N,Y,Y,N,T
+42,regular mail,12:00PM-8:00AM,N,N,N,N,T
+43,fax,3:00PM-6:00PM,N,Y,N,N,T
+44,telephone,any time,N,Y,N,Y,T
+45,fax,9:00AM-12:00PM,N,N,N,Y,T
+46,regular mail,3:00PM-6:00PM,N,N,Y,N,T
+47,e-mail,unknown,N,N,Y,N,T
+48,fax,9:00AM-12:00PM,Y,N,Y,Y,T
+49,telephone,any time,N,N,N,N,T
+50,e-mail,6:00PM-9:00PM,N,Y,N,N,T
+51,fax,12:00PM-3:00PM,Y,Y,Y,N,T
+52,telephone,3:00PM-6:00PM,N,N,Y,N,T
+53,telephone,any time,N,Y,N,N,T
+54,regular mail,6:00PM-9:00PM,Y,Y,Y,N,T
+55,fax,12:00PM-3:00PM,N,N,Y,N,T
+56,fax,8:00AM-5:00PM,Y,Y,N,Y,T
+57,telephone,12:00PM-3:00PM,N,Y,N,N,T
+58,telephone,12:00PM-3:00PM,Y,Y,N,Y,T
+59,fax,12:00PM-8:00AM,N,N,Y,N,T
+60,e-mail,any time,Y,Y,N,N,T
+61,telephone,12:00PM-3:00PM,Y,N,Y,N,T
+62,e-mail,9:00AM-12:00PM,N,Y,N,N,T
+63,telephone,3:00PM-6:00PM,Y,N,Y,Y,T
+64,e-mail,8:00AM-5:00PM,N,Y,Y,N,T
+65,e-mail,5:00PM-10:00PM,Y,N,Y,Y,T
+66,telephone,9:00AM-12:00PM,Y,Y,N,Y,T
+67,telephone,unknown,N,N,Y,N,T
+68,e-mail,3:00PM-6:00PM,N,Y,N,Y,T
+69,e-mail,12:00PM-8:00AM,Y,Y,N,N,T
+70,fax,unknown,Y,N,Y,Y,T
+71,e-mail,8:00AM-5:00PM,Y,N,Y,Y,T
+72,regular mail,any time,N,Y,N,Y,T
+73,fax,unknown,Y,N,Y,Y,T
+74,regular mail,12:00PM-8:00AM,Y,N,N,Y,T
+75,telephone,5:00PM-10:00PM,Y,N,Y,N,T
+76,fax,6:00PM-9:00PM,Y,Y,Y,N,T
+77,fax,8:00AM-5:00PM,Y,Y,N,Y,T
+78,fax,9:00AM-12:00PM,Y,N,Y,N,T
+79,fax,3:00PM-6:00PM,Y,N,N,N,T
+80,regular mail,3:00PM-6:00PM,Y,Y,Y,N,T
+81,telephone,any time,Y,Y,Y,Y,T
+82,telephone,9:00AM-12:00PM,Y,Y,Y,Y,T
+83,fax,3:00PM-6:00PM,Y,Y,N,Y,T
+84,telephone,9:00AM-12:00PM,Y,N,Y,N,T
+85,e-mail,12:00PM-8:00AM,Y,Y,N,N,T
+86,telephone,8:00AM-5:00PM,N,Y,N,N,T
+87,fax,8:00AM-5:00PM,Y,Y,N,Y,T
+88,telephone,5:00PM-10:00PM,N,N,N,Y,T
+89,fax,any time,N,N,Y,Y,T
+90,e-mail,9:00AM-12:00PM,N,N,N,N,T
+91,fax,unknown,Y,N,Y,Y,T
+92,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+93,e-mail,9:00AM-12:00PM,Y,N,Y,N,T
+94,fax,5:00PM-10:00PM,N,Y,N,Y,T
+95,e-mail,unknown,Y,Y,Y,Y,T
+96,telephone,any time,N,Y,Y,Y,T
+97,regular mail,8:00AM-5:00PM,N,Y,Y,Y,T
+98,telephone,any time,Y,N,Y,Y,T
+99,telephone,12:00PM-8:00AM,Y,Y,N,Y,T
+100,e-mail,unknown,N,N,Y,N,T
+101,fax,8:00AM-5:00PM,Y,N,Y,N,T
+102,fax,6:00PM-9:00PM,Y,Y,N,N,T
+103,telephone,12:00PM-8:00AM,Y,Y,Y,Y,T
+104,fax,12:00PM-8:00AM,Y,N,N,N,T
+105,fax,6:00PM-9:00PM,N,N,Y,Y,T
+106,e-mail,unknown,Y,N,N,N,T
+107,fax,9:00AM-12:00PM,Y,Y,N,Y,T
+108,fax,12:00PM-8:00AM,N,N,N,N,T
+109,e-mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+110,fax,12:00PM-3:00PM,Y,N,Y,N,T
+111,fax,8:00AM-5:00PM,Y,Y,Y,Y,T
+112,e-mail,unknown,Y,Y,N,N,T
+113,e-mail,9:00AM-12:00PM,Y,Y,Y,Y,T
+114,regular mail,unknown,Y,N,N,Y,T
+115,regular mail,5:00PM-10:00PM,N,N,N,Y,T
+116,fax,5:00PM-10:00PM,Y,N,N,Y,T
+117,fax,8:00AM-5:00PM,N,N,N,Y,T
+118,e-mail,any time,N,N,Y,N,T
+119,telephone,6:00PM-9:00PM,Y,N,Y,Y,T
+120,e-mail,5:00PM-10:00PM,Y,Y,Y,Y,T
+121,fax,3:00PM-6:00PM,N,N,N,Y,T
+122,fax,3:00PM-6:00PM,Y,Y,Y,Y,T
+123,e-mail,12:00PM-3:00PM,Y,Y,Y,N,T
+124,fax,5:00PM-10:00PM,N,N,N,N,T
+125,telephone,6:00PM-9:00PM,Y,N,N,N,T
+126,regular mail,5:00PM-10:00PM,Y,N,Y,Y,T
+127,e-mail,8:00AM-5:00PM,N,N,Y,N,T
+128,fax,5:00PM-10:00PM,Y,N,N,Y,T
+129,e-mail,6:00PM-9:00PM,Y,N,N,Y,T
+130,e-mail,any time,N,N,Y,N,T
+131,e-mail,any time,N,Y,N,Y,T
+132,telephone,12:00PM-3:00PM,Y,N,N,N,T
+133,regular mail,5:00PM-10:00PM,N,Y,N,Y,T
+134,regular mail,3:00PM-6:00PM,Y,Y,Y,Y,T
+135,telephone,9:00AM-12:00PM,N,N,Y,Y,T
+136,fax,5:00PM-10:00PM,Y,N,Y,Y,T
+137,telephone,6:00PM-9:00PM,Y,N,Y,Y,T
+138,e-mail,9:00AM-12:00PM,N,N,Y,N,T
+139,telephone,9:00AM-12:00PM,N,Y,Y,N,T
+140,regular mail,any time,N,Y,Y,N,T
+141,e-mail,12:00PM-8:00AM,Y,Y,Y,N,T
+142,fax,12:00PM-3:00PM,N,N,N,Y,T
+143,e-mail,unknown,Y,N,N,N,T
+144,telephone,3:00PM-6:00PM,N,Y,N,N,T
+145,e-mail,8:00AM-5:00PM,Y,Y,Y,Y,T
+146,telephone,any time,N,Y,N,Y,T
+147,regular mail,8:00AM-5:00PM,N,N,Y,Y,T
+148,regular mail,9:00AM-12:00PM,N,Y,Y,Y,T
+149,telephone,unknown,N,Y,N,Y,T
+150,regular mail,8:00AM-5:00PM,N,N,Y,N,T
+151,telephone,12:00PM-3:00PM,N,Y,Y,Y,T
+152,e-mail,9:00AM-12:00PM,Y,Y,Y,N,T
+153,e-mail,12:00PM-3:00PM,Y,Y,N,Y,T
+154,telephone,5:00PM-10:00PM,Y,N,Y,Y,T
+155,telephone,8:00AM-5:00PM,Y,Y,N,Y,T
+156,regular mail,3:00PM-6:00PM,Y,N,Y,Y,T
+157,telephone,8:00AM-5:00PM,Y,N,N,Y,T
+158,telephone,12:00PM-3:00PM,Y,N,N,Y,T
+159,e-mail,6:00PM-9:00PM,N,Y,Y,Y,T
+160,e-mail,3:00PM-6:00PM,N,N,Y,N,T
+161,e-mail,any time,N,Y,Y,Y,T
+162,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+163,telephone,6:00PM-9:00PM,N,Y,Y,Y,T
+164,fax,12:00PM-8:00AM,N,Y,Y,Y,T
+165,fax,3:00PM-6:00PM,Y,N,N,N,T
+166,e-mail,3:00PM-6:00PM,Y,N,Y,N,T
+167,fax,8:00AM-5:00PM,Y,N,N,Y,T
+168,telephone,unknown,Y,Y,N,Y,T
+169,regular mail,8:00AM-5:00PM,Y,N,N,N,T
+170,telephone,9:00AM-12:00PM,N,Y,Y,Y,T
+171,regular mail,8:00AM-5:00PM,Y,Y,Y,Y,T
+172,e-mail,any time,N,N,N,Y,T
+173,regular mail,3:00PM-6:00PM,N,N,N,N,T
+174,fax,3:00PM-6:00PM,N,N,N,N,T
+175,e-mail,3:00PM-6:00PM,N,N,Y,Y,T
+176,regular mail,9:00AM-12:00PM,Y,N,Y,N,T
+177,regular mail,9:00AM-12:00PM,Y,N,Y,Y,T
+178,regular mail,12:00PM-3:00PM,N,N,N,Y,T
+179,telephone,3:00PM-6:00PM,Y,N,Y,Y,T
+180,e-mail,3:00PM-6:00PM,Y,Y,Y,N,T
+181,regular mail,6:00PM-9:00PM,N,Y,Y,N,T
+182,fax,6:00PM-9:00PM,N,Y,Y,Y,T
+183,e-mail,6:00PM-9:00PM,N,Y,N,Y,T
+184,regular mail,8:00AM-5:00PM,Y,Y,N,N,T
+185,e-mail,12:00PM-8:00AM,Y,Y,N,N,T
+186,e-mail,5:00PM-10:00PM,N,N,N,N,T
+187,regular mail,any time,Y,Y,N,N,T
+188,e-mail,12:00PM-8:00AM,Y,N,Y,Y,T
+189,fax,8:00AM-5:00PM,N,N,N,N,T
+190,regular mail,5:00PM-10:00PM,Y,Y,N,Y,T
+191,telephone,8:00AM-5:00PM,Y,Y,Y,N,T
+192,fax,8:00AM-5:00PM,Y,Y,N,N,T
+193,fax,6:00PM-9:00PM,Y,N,Y,N,T
+194,telephone,any time,Y,N,N,Y,T
+195,e-mail,6:00PM-9:00PM,Y,Y,N,N,T
+196,e-mail,8:00AM-5:00PM,Y,Y,Y,N,T
+197,regular mail,9:00AM-12:00PM,N,N,Y,Y,T
+198,telephone,9:00AM-12:00PM,Y,N,Y,N,T
+199,fax,6:00PM-9:00PM,N,Y,Y,Y,T
+200,telephone,unknown,Y,N,Y,Y,T
+201,fax,unknown,Y,Y,Y,N,T
+202,regular mail,unknown,Y,N,N,Y,T
+203,fax,unknown,N,Y,N,N,T
+204,fax,5:00PM-10:00PM,N,Y,N,Y,T
+205,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+206,fax,6:00PM-9:00PM,Y,Y,Y,Y,T
+207,regular mail,6:00PM-9:00PM,N,N,N,Y,T
+208,telephone,12:00PM-8:00AM,N,N,N,N,T
+209,e-mail,any time,Y,N,N,N,T
+210,telephone,12:00PM-8:00AM,Y,Y,N,N,T
+211,telephone,8:00AM-5:00PM,N,N,N,Y,T
+212,telephone,6:00PM-9:00PM,N,N,Y,Y,T
+213,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+214,telephone,6:00PM-9:00PM,N,N,Y,Y,T
+215,telephone,3:00PM-6:00PM,N,N,N,N,T
+216,regular mail,12:00PM-8:00AM,Y,Y,N,Y,T
+217,regular mail,6:00PM-9:00PM,N,N,N,N,T
+218,e-mail,12:00PM-8:00AM,N,N,Y,N,T
+219,e-mail,12:00PM-3:00PM,Y,Y,Y,N,T
+220,fax,9:00AM-12:00PM,N,Y,Y,Y,T
+221,fax,unknown,N,Y,N,Y,T
+222,fax,9:00AM-12:00PM,N,Y,N,Y,T
+223,telephone,unknown,Y,Y,N,N,T
+224,e-mail,9:00AM-12:00PM,N,Y,Y,Y,T
+225,fax,unknown,N,N,N,N,T
+226,telephone,6:00PM-9:00PM,N,Y,N,N,T
+227,telephone,12:00PM-8:00AM,Y,Y,N,N,T
+228,telephone,12:00PM-3:00PM,N,Y,Y,N,T
+229,fax,3:00PM-6:00PM,Y,N,Y,N,T
+230,regular mail,8:00AM-5:00PM,Y,Y,Y,N,T
+231,e-mail,5:00PM-10:00PM,Y,Y,N,N,T
+232,telephone,5:00PM-10:00PM,Y,Y,N,Y,T
+233,e-mail,12:00PM-3:00PM,Y,N,N,Y,T
+234,e-mail,3:00PM-6:00PM,N,Y,N,Y,T
+235,e-mail,9:00AM-12:00PM,N,N,N,N,T
+236,regular mail,8:00AM-5:00PM,N,N,N,N,T
+237,regular mail,unknown,Y,Y,Y,Y,T
+238,regular mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+239,regular mail,9:00AM-12:00PM,Y,N,N,N,T
+240,regular mail,3:00PM-6:00PM,Y,Y,N,Y,T
+241,regular mail,9:00AM-12:00PM,N,Y,N,Y,T
+242,e-mail,6:00PM-9:00PM,N,Y,N,N,T
+243,e-mail,9:00AM-12:00PM,Y,Y,N,N,T
+244,regular mail,3:00PM-6:00PM,Y,Y,Y,Y,T
+245,fax,6:00PM-9:00PM,Y,N,Y,Y,T
+246,telephone,any time,Y,N,Y,N,T
+247,e-mail,12:00PM-3:00PM,Y,N,Y,Y,T
+248,e-mail,12:00PM-3:00PM,N,Y,Y,Y,T
+249,e-mail,unknown,Y,Y,N,Y,T
+250,regular mail,unknown,N,N,Y,Y,T
+251,regular mail,8:00AM-5:00PM,N,N,N,N,T
+252,regular mail,6:00PM-9:00PM,N,N,Y,Y,T
+253,e-mail,3:00PM-6:00PM,Y,N,Y,Y,T
+254,telephone,5:00PM-10:00PM,Y,Y,Y,N,T
+255,regular mail,6:00PM-9:00PM,Y,Y,Y,N,T
+256,fax,5:00PM-10:00PM,N,Y,Y,Y,T
+257,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+258,fax,9:00AM-12:00PM,Y,N,Y,N,T
+259,telephone,5:00PM-10:00PM,N,N,Y,Y,T
+260,regular mail,12:00PM-8:00AM,N,Y,Y,N,T
+261,e-mail,9:00AM-12:00PM,Y,N,Y,Y,T
+262,e-mail,6:00PM-9:00PM,N,Y,N,N,T
+263,telephone,8:00AM-5:00PM,N,N,N,Y,T
+264,fax,any time,N,Y,N,Y,T
+265,e-mail,8:00AM-5:00PM,Y,Y,N,N,T
+266,fax,12:00PM-3:00PM,Y,N,Y,N,T
+267,telephone,5:00PM-10:00PM,N,N,Y,N,T
+268,telephone,3:00PM-6:00PM,Y,N,N,Y,T
+269,e-mail,unknown,N,N,Y,N,T
+270,regular mail,9:00AM-12:00PM,N,N,N,N,T
+271,fax,any time,N,N,N,N,T
+272,telephone,unknown,Y,N,N,N,T
+273,telephone,5:00PM-10:00PM,Y,N,Y,N,T
+274,regular mail,6:00PM-9:00PM,N,Y,Y,Y,T
+275,telephone,8:00AM-5:00PM,N,N,Y,Y,T
+276,telephone,3:00PM-6:00PM,Y,N,Y,Y,T
+277,regular mail,any time,Y,N,N,N,T
+278,telephone,unknown,Y,Y,N,Y,T
+279,fax,5:00PM-10:00PM,N,Y,Y,N,T
+280,e-mail,8:00AM-5:00PM,Y,N,Y,N,T
+281,regular mail,12:00PM-8:00AM,Y,N,Y,Y,T
+282,regular mail,3:00PM-6:00PM,Y,Y,N,Y,T
+283,telephone,8:00AM-5:00PM,Y,Y,Y,N,T
+284,telephone,any time,Y,N,Y,Y,T
+285,telephone,12:00PM-8:00AM,N,Y,N,N,T
+286,regular mail,6:00PM-9:00PM,Y,Y,Y,N,T
+287,regular mail,any time,Y,Y,N,N,T
+288,telephone,9:00AM-12:00PM,Y,Y,N,Y,T
+289,telephone,9:00AM-12:00PM,N,N,N,Y,T
+290,regular mail,6:00PM-9:00PM,N,N,Y,N,T
+291,regular mail,any time,N,Y,Y,N,T
+292,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+293,e-mail,12:00PM-3:00PM,N,N,N,Y,T
+294,fax,12:00PM-8:00AM,Y,N,N,N,T
+295,e-mail,12:00PM-3:00PM,N,N,Y,N,T
+296,fax,unknown,Y,N,N,N,T
+297,fax,5:00PM-10:00PM,N,N,Y,Y,T
+298,e-mail,3:00PM-6:00PM,Y,N,Y,N,T
+299,regular mail,3:00PM-6:00PM,N,Y,Y,N,T
+300,e-mail,9:00AM-12:00PM,N,N,N,Y,T
+301,regular mail,unknown,N,Y,Y,N,T
+302,telephone,5:00PM-10:00PM,Y,N,N,N,T
+303,e-mail,unknown,N,N,N,Y,T
+304,e-mail,8:00AM-5:00PM,Y,Y,Y,Y,T
+305,telephone,6:00PM-9:00PM,N,N,Y,Y,T
+306,fax,8:00AM-5:00PM,Y,Y,Y,Y,T
+307,e-mail,9:00AM-12:00PM,N,Y,N,N,T
+308,regular mail,9:00AM-12:00PM,Y,N,Y,Y,T
+309,fax,3:00PM-6:00PM,N,Y,Y,N,T
+310,telephone,6:00PM-9:00PM,Y,Y,N,Y,T
+311,fax,any time,Y,Y,N,Y,T
+312,telephone,12:00PM-3:00PM,N,Y,Y,N,T
+313,e-mail,any time,Y,Y,Y,N,T
+314,regular mail,unknown,Y,Y,N,N,T
+315,e-mail,6:00PM-9:00PM,N,N,Y,N,T
+316,e-mail,unknown,N,N,Y,Y,T
+317,e-mail,12:00PM-8:00AM,N,Y,Y,N,T
+318,regular mail,unknown,Y,Y,N,N,T
+319,telephone,any time,N,N,Y,N,T
+320,e-mail,unknown,Y,Y,N,Y,T
+321,e-mail,8:00AM-5:00PM,N,Y,Y,N,T
+322,e-mail,3:00PM-6:00PM,N,N,N,N,T
+323,regular mail,12:00PM-3:00PM,Y,N,Y,N,T
+324,e-mail,any time,N,N,N,N,T
+325,fax,6:00PM-9:00PM,N,N,Y,Y,T
+326,telephone,unknown,N,Y,Y,Y,T
+327,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+328,regular mail,any time,N,N,N,Y,T
+329,fax,12:00PM-8:00AM,N,Y,Y,Y,T
+330,fax,12:00PM-8:00AM,N,Y,Y,N,T
+331,e-mail,unknown,N,N,N,Y,T
+332,fax,12:00PM-3:00PM,Y,Y,Y,N,T
+333,telephone,3:00PM-6:00PM,Y,Y,Y,N,T
+334,fax,5:00PM-10:00PM,N,Y,N,N,T
+335,regular mail,8:00AM-5:00PM,Y,Y,Y,Y,T
+336,regular mail,unknown,Y,Y,N,N,T
+337,regular mail,12:00PM-8:00AM,Y,Y,N,Y,T
+338,telephone,any time,Y,Y,N,N,T
+339,telephone,6:00PM-9:00PM,N,N,Y,N,T
+340,fax,any time,Y,N,N,Y,T
+341,e-mail,8:00AM-5:00PM,Y,Y,Y,N,T
+342,telephone,12:00PM-3:00PM,N,Y,Y,Y,T
+343,e-mail,6:00PM-9:00PM,N,N,Y,Y,T
+344,fax,unknown,Y,N,Y,N,T
+345,e-mail,12:00PM-8:00AM,Y,Y,N,N,T
+346,e-mail,9:00AM-12:00PM,N,N,N,Y,T
+347,fax,unknown,N,Y,Y,N,T
+348,fax,9:00AM-12:00PM,Y,Y,N,N,T
+349,e-mail,any time,N,N,N,N,T
+350,fax,unknown,N,N,Y,Y,T
+351,fax,9:00AM-12:00PM,Y,N,Y,Y,T
+352,regular mail,12:00PM-8:00AM,N,N,Y,N,T
+353,telephone,3:00PM-6:00PM,Y,Y,Y,N,T
+354,telephone,6:00PM-9:00PM,N,Y,N,Y,T
+355,fax,any time,N,Y,N,Y,T
+356,fax,9:00AM-12:00PM,N,Y,N,N,T
+357,regular mail,12:00PM-8:00AM,Y,Y,Y,Y,T
+358,regular mail,any time,N,N,Y,N,T
+359,e-mail,9:00AM-12:00PM,Y,Y,N,Y,T
+360,e-mail,12:00PM-3:00PM,Y,Y,N,N,T
+361,telephone,3:00PM-6:00PM,Y,Y,Y,Y,T
+362,telephone,12:00PM-3:00PM,N,Y,Y,N,T
+363,regular mail,any time,Y,N,Y,Y,T
+364,telephone,6:00PM-9:00PM,N,Y,N,N,T
+365,telephone,unknown,Y,Y,Y,Y,T
+366,regular mail,6:00PM-9:00PM,N,Y,N,Y,T
+367,telephone,unknown,Y,N,N,N,T
+368,fax,12:00PM-3:00PM,N,Y,N,N,T
+369,regular mail,6:00PM-9:00PM,Y,Y,N,Y,T
+370,telephone,3:00PM-6:00PM,Y,N,N,N,T
+371,telephone,3:00PM-6:00PM,N,Y,Y,N,T
+372,telephone,12:00PM-8:00AM,N,N,Y,Y,T
+373,regular mail,12:00PM-8:00AM,Y,N,Y,Y,T
+374,fax,unknown,Y,N,Y,Y,T
+375,e-mail,8:00AM-5:00PM,Y,Y,N,N,T
+376,regular mail,9:00AM-12:00PM,N,Y,Y,N,T
+377,fax,12:00PM-3:00PM,Y,Y,N,N,T
+378,telephone,12:00PM-8:00AM,Y,Y,Y,N,T
+379,fax,12:00PM-3:00PM,N,Y,Y,Y,T
+380,telephone,9:00AM-12:00PM,Y,Y,Y,Y,T
+381,e-mail,6:00PM-9:00PM,N,N,N,Y,T
+382,fax,unknown,N,Y,Y,N,T
+383,telephone,8:00AM-5:00PM,N,N,Y,N,T
+384,fax,8:00AM-5:00PM,N,Y,Y,Y,T
+385,telephone,3:00PM-6:00PM,N,N,N,N,T
+386,regular mail,8:00AM-5:00PM,N,Y,Y,N,T
+387,fax,12:00PM-8:00AM,Y,Y,N,Y,T
+388,telephone,12:00PM-3:00PM,Y,N,Y,Y,T
+389,telephone,any time,Y,N,Y,N,T
+390,fax,12:00PM-8:00AM,Y,N,N,Y,T
+391,telephone,12:00PM-8:00AM,Y,Y,N,Y,T
+392,fax,3:00PM-6:00PM,Y,Y,Y,Y,T
+393,fax,5:00PM-10:00PM,Y,Y,N,Y,T
+394,regular mail,12:00PM-8:00AM,Y,N,N,N,T
+395,e-mail,9:00AM-12:00PM,N,N,N,N,T
+396,e-mail,5:00PM-10:00PM,N,N,Y,Y,T
+397,regular mail,unknown,Y,Y,N,Y,T
+398,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+399,telephone,6:00PM-9:00PM,Y,Y,Y,Y,T
+400,fax,9:00AM-12:00PM,N,Y,Y,N,T
+401,fax,5:00PM-10:00PM,Y,Y,N,Y,T
+402,telephone,any time,Y,Y,Y,N,T
+403,fax,6:00PM-9:00PM,N,Y,Y,N,T
+404,e-mail,5:00PM-10:00PM,N,N,N,N,T
+405,telephone,12:00PM-3:00PM,N,Y,N,Y,T
+406,regular mail,9:00AM-12:00PM,Y,N,N,Y,T
+407,regular mail,unknown,Y,N,N,N,T
+408,telephone,8:00AM-5:00PM,N,Y,N,Y,T
+409,fax,5:00PM-10:00PM,Y,Y,Y,N,T
+410,telephone,3:00PM-6:00PM,Y,Y,Y,N,T
+411,telephone,any time,N,Y,Y,N,T
+412,e-mail,any time,Y,Y,N,N,T
+413,telephone,5:00PM-10:00PM,N,Y,N,Y,T
+414,fax,12:00PM-8:00AM,N,N,N,N,T
+415,fax,9:00AM-12:00PM,Y,Y,Y,Y,T
+416,telephone,any time,Y,N,N,N,T
+417,fax,6:00PM-9:00PM,Y,N,Y,N,T
+418,telephone,3:00PM-6:00PM,Y,Y,Y,Y,T
+419,telephone,9:00AM-12:00PM,Y,Y,Y,Y,T
+420,e-mail,unknown,Y,N,Y,Y,T
+421,fax,12:00PM-8:00AM,N,N,N,Y,T
+422,telephone,12:00PM-3:00PM,Y,Y,N,N,T
+423,telephone,5:00PM-10:00PM,N,N,Y,Y,T
+424,regular mail,3:00PM-6:00PM,Y,N,N,Y,T
+425,telephone,6:00PM-9:00PM,N,N,Y,Y,T
+426,fax,unknown,Y,N,N,Y,T
+427,e-mail,3:00PM-6:00PM,Y,N,Y,Y,T
+428,regular mail,5:00PM-10:00PM,N,Y,N,Y,T
+429,e-mail,unknown,N,Y,Y,N,T
+430,regular mail,6:00PM-9:00PM,N,Y,N,N,T
+431,regular mail,9:00AM-12:00PM,N,Y,N,N,T
+432,telephone,unknown,Y,Y,N,N,T
+433,fax,3:00PM-6:00PM,Y,N,N,Y,T
+434,telephone,12:00PM-8:00AM,N,N,Y,N,T
+435,regular mail,9:00AM-12:00PM,Y,Y,Y,N,T
+436,regular mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+437,telephone,12:00PM-8:00AM,N,Y,N,N,T
+438,e-mail,any time,Y,Y,N,Y,T
+439,e-mail,12:00PM-3:00PM,Y,N,N,Y,T
+440,fax,5:00PM-10:00PM,N,Y,Y,Y,T
+441,e-mail,9:00AM-12:00PM,N,Y,Y,N,T
+442,regular mail,3:00PM-6:00PM,N,N,N,Y,T
+443,telephone,8:00AM-5:00PM,N,Y,N,N,T
+444,regular mail,6:00PM-9:00PM,Y,Y,N,N,T
+445,telephone,3:00PM-6:00PM,N,Y,N,N,T
+446,fax,9:00AM-12:00PM,N,Y,Y,N,T
+447,telephone,9:00AM-12:00PM,N,Y,Y,N,T
+448,telephone,8:00AM-5:00PM,N,N,Y,Y,T
+449,fax,8:00AM-5:00PM,N,Y,Y,N,T
+450,regular mail,5:00PM-10:00PM,Y,Y,Y,N,T
+451,fax,5:00PM-10:00PM,Y,Y,N,N,T
+452,regular mail,unknown,N,N,N,Y,T
+453,telephone,3:00PM-6:00PM,Y,Y,N,N,T
+454,e-mail,5:00PM-10:00PM,N,Y,N,N,T
+455,regular mail,any time,Y,N,N,Y,T
+456,telephone,12:00PM-8:00AM,Y,Y,Y,Y,T
+457,regular mail,12:00PM-8:00AM,N,N,Y,Y,T
+458,fax,unknown,N,Y,Y,N,T
+459,telephone,any time,N,N,Y,Y,T
+460,fax,5:00PM-10:00PM,N,N,N,N,T
+461,regular mail,12:00PM-3:00PM,N,N,N,Y,T
+462,fax,6:00PM-9:00PM,N,N,Y,N,T
+463,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+464,telephone,12:00PM-3:00PM,N,N,Y,Y,T
+465,telephone,5:00PM-10:00PM,N,Y,Y,N,T
+466,telephone,unknown,Y,Y,Y,N,T
+467,telephone,8:00AM-5:00PM,N,Y,Y,N,T
+468,fax,3:00PM-6:00PM,Y,N,Y,N,T
+469,regular mail,5:00PM-10:00PM,Y,N,Y,Y,T
+470,telephone,8:00AM-5:00PM,N,N,N,N,T
+471,regular mail,5:00PM-10:00PM,Y,N,N,Y,T
+472,e-mail,12:00PM-3:00PM,N,Y,N,N,T
+473,telephone,5:00PM-10:00PM,Y,N,Y,Y,T
+474,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+475,e-mail,3:00PM-6:00PM,N,Y,Y,Y,T
+476,regular mail,3:00PM-6:00PM,Y,Y,N,N,T
+477,fax,12:00PM-3:00PM,Y,N,N,N,T
+478,fax,6:00PM-9:00PM,N,Y,N,N,T
+479,regular mail,9:00AM-12:00PM,N,N,N,N,T
+480,telephone,12:00PM-3:00PM,Y,Y,N,Y,T
+481,e-mail,any time,N,Y,N,Y,T
+482,fax,any time,N,N,Y,N,T
+483,fax,9:00AM-12:00PM,Y,N,N,N,T
+484,regular mail,unknown,N,N,N,N,T
+485,regular mail,12:00PM-3:00PM,N,Y,N,Y,T
+486,e-mail,3:00PM-6:00PM,N,N,N,N,T
+487,regular mail,5:00PM-10:00PM,N,N,Y,N,T
+488,regular mail,12:00PM-8:00AM,Y,N,N,Y,T
+489,regular mail,3:00PM-6:00PM,N,Y,Y,N,T
+490,telephone,9:00AM-12:00PM,Y,N,N,Y,T
+491,telephone,any time,N,N,Y,N,T
+492,fax,3:00PM-6:00PM,Y,N,N,N,T
+493,e-mail,8:00AM-5:00PM,Y,Y,N,N,T
+494,e-mail,12:00PM-8:00AM,N,Y,N,Y,T
+495,regular mail,8:00AM-5:00PM,Y,N,Y,Y,T
+496,telephone,6:00PM-9:00PM,N,Y,N,Y,T
+497,regular mail,6:00PM-9:00PM,N,Y,Y,Y,T
+498,fax,unknown,N,Y,Y,Y,T
+499,telephone,any time,Y,N,Y,Y,T
+500,fax,12:00PM-3:00PM,N,Y,Y,N,T
+501,regular mail,unknown,Y,Y,N,N,T
+502,regular mail,12:00PM-3:00PM,Y,N,Y,Y,T
+503,e-mail,unknown,N,N,Y,N,T
+504,regular mail,12:00PM-3:00PM,Y,N,Y,N,T
+505,regular mail,12:00PM-3:00PM,Y,Y,N,N,T
+506,telephone,6:00PM-9:00PM,N,Y,N,N,T
+507,regular mail,5:00PM-10:00PM,N,Y,N,Y,T
+508,fax,9:00AM-12:00PM,Y,Y,N,Y,T
+509,e-mail,3:00PM-6:00PM,Y,Y,Y,N,T
+510,telephone,unknown,Y,N,Y,Y,T
+511,telephone,unknown,Y,N,N,Y,T
+512,regular mail,5:00PM-10:00PM,N,Y,N,Y,T
+513,e-mail,8:00AM-5:00PM,N,N,Y,N,T
+514,fax,any time,Y,Y,Y,N,T
+515,regular mail,12:00PM-3:00PM,Y,N,N,Y,T
+516,e-mail,9:00AM-12:00PM,N,Y,Y,Y,T
+517,e-mail,3:00PM-6:00PM,N,N,N,Y,T
+518,fax,5:00PM-10:00PM,N,N,N,N,T
+519,regular mail,3:00PM-6:00PM,Y,Y,Y,Y,T
+520,telephone,3:00PM-6:00PM,N,Y,Y,N,T
+521,e-mail,12:00PM-3:00PM,N,N,Y,Y,T
+522,telephone,12:00PM-3:00PM,Y,N,N,N,T
+523,telephone,9:00AM-12:00PM,N,Y,Y,N,T
+524,e-mail,9:00AM-12:00PM,Y,N,N,N,T
+525,e-mail,unknown,Y,Y,Y,N,T
+526,e-mail,unknown,N,Y,Y,N,T
+527,regular mail,5:00PM-10:00PM,Y,N,N,N,T
+528,e-mail,any time,Y,Y,Y,Y,T
+529,regular mail,9:00AM-12:00PM,Y,N,N,Y,T
+530,regular mail,5:00PM-10:00PM,Y,Y,N,Y,T
+531,telephone,unknown,Y,N,Y,Y,T
+532,regular mail,9:00AM-12:00PM,Y,N,N,Y,T
+533,regular mail,unknown,Y,N,N,Y,T
+534,regular mail,3:00PM-6:00PM,N,N,N,N,T
+535,e-mail,9:00AM-12:00PM,Y,N,Y,N,T
+536,e-mail,12:00PM-8:00AM,Y,N,N,N,T
+537,regular mail,5:00PM-10:00PM,N,Y,Y,N,T
+538,telephone,12:00PM-8:00AM,Y,Y,Y,N,T
+539,telephone,12:00PM-3:00PM,Y,Y,Y,N,T
+540,e-mail,3:00PM-6:00PM,N,N,Y,N,T
+541,telephone,12:00PM-8:00AM,N,Y,N,Y,T
+542,regular mail,12:00PM-8:00AM,N,N,Y,N,T
+543,telephone,12:00PM-8:00AM,Y,Y,Y,Y,T
+544,regular mail,6:00PM-9:00PM,N,Y,N,N,T
+545,fax,3:00PM-6:00PM,N,N,Y,N,T
+546,regular mail,8:00AM-5:00PM,Y,N,Y,N,T
+547,e-mail,12:00PM-8:00AM,Y,Y,N,N,T
+548,e-mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+549,fax,8:00AM-5:00PM,N,N,Y,Y,T
+550,e-mail,12:00PM-8:00AM,Y,N,Y,N,T
+551,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+552,e-mail,5:00PM-10:00PM,N,Y,Y,N,T
+553,e-mail,9:00AM-12:00PM,N,N,Y,N,T
+554,fax,any time,N,Y,Y,N,T
+555,telephone,12:00PM-3:00PM,Y,Y,N,N,T
+556,fax,12:00PM-3:00PM,N,Y,Y,N,T
+557,fax,9:00AM-12:00PM,Y,N,N,N,T
+558,e-mail,5:00PM-10:00PM,Y,N,N,N,T
+559,fax,12:00PM-3:00PM,Y,N,N,Y,T
+560,regular mail,unknown,Y,Y,N,N,T
+561,regular mail,8:00AM-5:00PM,Y,Y,N,N,T
+562,e-mail,3:00PM-6:00PM,Y,Y,Y,Y,T
+563,e-mail,any time,Y,Y,Y,N,T
+564,telephone,8:00AM-5:00PM,Y,Y,N,N,T
+565,regular mail,6:00PM-9:00PM,N,Y,N,Y,T
+566,regular mail,any time,N,Y,Y,Y,T
+567,e-mail,9:00AM-12:00PM,N,N,Y,Y,T
+568,telephone,9:00AM-12:00PM,Y,N,Y,N,T
+569,e-mail,12:00PM-3:00PM,Y,Y,N,N,T
+570,telephone,any time,N,Y,Y,Y,T
+571,fax,8:00AM-5:00PM,Y,Y,Y,Y,T
+572,telephone,8:00AM-5:00PM,N,N,N,N,T
+573,e-mail,12:00PM-3:00PM,N,N,Y,Y,T
+574,fax,8:00AM-5:00PM,Y,N,N,N,T
+575,regular mail,unknown,N,N,N,N,T
+576,regular mail,12:00PM-8:00AM,Y,N,Y,Y,T
+577,fax,12:00PM-8:00AM,N,Y,Y,Y,T
+578,e-mail,5:00PM-10:00PM,N,Y,Y,Y,T
+579,regular mail,12:00PM-3:00PM,N,Y,N,Y,T
+580,regular mail,3:00PM-6:00PM,N,N,Y,N,T
+581,telephone,5:00PM-10:00PM,Y,Y,N,N,T
+582,telephone,6:00PM-9:00PM,N,N,N,Y,T
+583,telephone,6:00PM-9:00PM,Y,N,N,Y,T
+584,regular mail,9:00AM-12:00PM,N,Y,Y,Y,T
+585,regular mail,any time,N,Y,N,N,T
+586,e-mail,6:00PM-9:00PM,Y,Y,Y,N,T
+587,fax,9:00AM-12:00PM,N,Y,Y,N,T
+588,regular mail,8:00AM-5:00PM,N,N,Y,N,T
+589,fax,3:00PM-6:00PM,Y,N,N,Y,T
+590,e-mail,3:00PM-6:00PM,N,Y,Y,Y,T
+591,telephone,8:00AM-5:00PM,Y,Y,Y,Y,T
+592,e-mail,6:00PM-9:00PM,N,N,Y,Y,T
+593,e-mail,12:00PM-8:00AM,N,N,N,Y,T
+594,e-mail,3:00PM-6:00PM,Y,N,Y,Y,T
+595,fax,unknown,Y,Y,Y,N,T
+596,fax,6:00PM-9:00PM,N,Y,N,Y,T
+597,fax,5:00PM-10:00PM,N,N,Y,N,T
+598,regular mail,5:00PM-10:00PM,Y,N,Y,N,T
+599,fax,5:00PM-10:00PM,Y,Y,Y,Y,T
+600,e-mail,unknown,Y,N,N,Y,T
+601,e-mail,3:00PM-6:00PM,Y,N,Y,Y,T
+602,regular mail,3:00PM-6:00PM,Y,Y,Y,N,T
+603,regular mail,unknown,Y,Y,N,Y,T
+604,e-mail,6:00PM-9:00PM,N,Y,N,N,T
+605,e-mail,12:00PM-3:00PM,N,N,Y,Y,T
+606,e-mail,12:00PM-8:00AM,Y,Y,Y,Y,T
+607,regular mail,any time,N,N,N,Y,T
+608,fax,8:00AM-5:00PM,Y,Y,Y,Y,T
+609,telephone,12:00PM-8:00AM,Y,N,N,Y,T
+610,e-mail,3:00PM-6:00PM,Y,N,N,Y,T
+611,e-mail,6:00PM-9:00PM,N,N,N,Y,T
+612,fax,8:00AM-5:00PM,Y,Y,N,N,T
+613,fax,9:00AM-12:00PM,N,N,N,Y,T
+614,telephone,any time,N,Y,N,N,T
+615,regular mail,12:00PM-8:00AM,Y,Y,Y,Y,T
+616,regular mail,6:00PM-9:00PM,N,N,N,Y,T
+617,fax,9:00AM-12:00PM,N,N,Y,N,T
+618,telephone,12:00PM-8:00AM,N,N,Y,Y,T
+619,fax,any time,N,Y,N,N,T
+620,regular mail,12:00PM-3:00PM,Y,N,N,Y,T
+621,regular mail,12:00PM-3:00PM,Y,Y,Y,Y,T
+622,e-mail,5:00PM-10:00PM,N,Y,N,Y,T
+623,e-mail,8:00AM-5:00PM,N,Y,N,Y,T
+624,regular mail,12:00PM-3:00PM,N,Y,Y,Y,T
+625,regular mail,unknown,N,N,N,N,T
+626,fax,8:00AM-5:00PM,Y,Y,N,N,T
+627,regular mail,9:00AM-12:00PM,N,N,Y,Y,T
+628,fax,any time,N,Y,N,Y,T
+629,regular mail,8:00AM-5:00PM,N,N,Y,N,T
+630,e-mail,8:00AM-5:00PM,N,Y,N,N,T
+631,telephone,6:00PM-9:00PM,N,Y,N,Y,T
+632,e-mail,9:00AM-12:00PM,Y,Y,Y,Y,T
+633,telephone,12:00PM-8:00AM,N,N,N,N,T
+634,e-mail,9:00AM-12:00PM,N,Y,N,N,T
+635,regular mail,12:00PM-8:00AM,Y,N,N,Y,T
+636,regular mail,9:00AM-12:00PM,Y,Y,Y,Y,T
+637,regular mail,12:00PM-3:00PM,N,N,Y,N,T
+638,fax,8:00AM-5:00PM,N,N,Y,Y,T
+639,e-mail,9:00AM-12:00PM,N,N,N,Y,T
+640,fax,8:00AM-5:00PM,N,N,N,Y,T
+641,regular mail,12:00PM-3:00PM,N,Y,Y,N,T
+642,regular mail,12:00PM-3:00PM,Y,N,Y,N,T
+643,telephone,6:00PM-9:00PM,Y,N,Y,N,T
+644,e-mail,12:00PM-8:00AM,N,Y,N,Y,T
+645,regular mail,12:00PM-8:00AM,N,Y,N,N,T
+646,e-mail,any time,N,Y,Y,Y,T
+647,telephone,12:00PM-3:00PM,N,Y,N,Y,T
+648,e-mail,12:00PM-8:00AM,Y,N,Y,N,T
+649,e-mail,9:00AM-12:00PM,N,Y,N,Y,T
+650,telephone,12:00PM-3:00PM,Y,Y,N,N,T
+651,e-mail,6:00PM-9:00PM,Y,N,Y,Y,T
+652,telephone,5:00PM-10:00PM,Y,N,N,Y,T
+653,fax,5:00PM-10:00PM,N,Y,Y,N,T
+654,fax,12:00PM-8:00AM,Y,N,N,N,T
+655,fax,8:00AM-5:00PM,Y,Y,N,N,T
+656,e-mail,unknown,N,N,N,Y,T
+657,fax,3:00PM-6:00PM,N,N,Y,N,T
+658,telephone,5:00PM-10:00PM,Y,Y,Y,Y,T
+659,fax,any time,N,Y,Y,Y,T
+660,regular mail,6:00PM-9:00PM,Y,N,N,Y,T
+661,telephone,unknown,N,N,Y,N,T
+662,regular mail,8:00AM-5:00PM,N,N,Y,Y,T
+663,e-mail,unknown,N,N,N,N,T
+664,regular mail,12:00PM-8:00AM,N,Y,N,N,T
+665,e-mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+666,regular mail,5:00PM-10:00PM,Y,Y,Y,N,T
+667,e-mail,12:00PM-3:00PM,N,Y,Y,N,T
+668,e-mail,12:00PM-3:00PM,N,N,N,N,T
+669,e-mail,unknown,N,N,N,Y,T
+670,fax,9:00AM-12:00PM,N,Y,N,N,T
+671,fax,3:00PM-6:00PM,N,N,N,Y,T
+672,fax,12:00PM-3:00PM,Y,Y,N,Y,T
+673,fax,any time,Y,N,N,Y,T
+674,e-mail,12:00PM-8:00AM,Y,Y,Y,N,T
+675,e-mail,5:00PM-10:00PM,Y,N,N,N,T
+676,telephone,3:00PM-6:00PM,Y,N,Y,N,T
+677,fax,5:00PM-10:00PM,N,N,N,Y,T
+678,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+679,fax,9:00AM-12:00PM,N,Y,N,N,T
+680,fax,5:00PM-10:00PM,N,Y,N,N,T
+681,fax,12:00PM-3:00PM,N,Y,N,Y,T
+682,regular mail,5:00PM-10:00PM,N,Y,N,N,T
+683,fax,6:00PM-9:00PM,N,Y,Y,N,T
+684,fax,unknown,N,Y,Y,Y,T
+685,fax,12:00PM-8:00AM,N,Y,N,Y,T
+686,e-mail,unknown,N,Y,Y,Y,T
+687,e-mail,any time,N,Y,Y,Y,T
+688,e-mail,unknown,Y,Y,N,Y,T
+689,e-mail,3:00PM-6:00PM,Y,N,N,N,T
+690,fax,8:00AM-5:00PM,N,Y,N,Y,T
+691,fax,5:00PM-10:00PM,Y,N,Y,N,T
+692,fax,3:00PM-6:00PM,N,Y,Y,Y,T
+693,regular mail,3:00PM-6:00PM,Y,Y,N,N,T
+694,regular mail,9:00AM-12:00PM,N,Y,Y,N,T
+695,regular mail,unknown,Y,N,N,Y,T
+696,telephone,6:00PM-9:00PM,N,N,Y,Y,T
+697,telephone,5:00PM-10:00PM,Y,N,Y,Y,T
+698,e-mail,12:00PM-3:00PM,Y,Y,N,Y,T
+699,telephone,12:00PM-8:00AM,N,Y,Y,Y,T
+700,e-mail,any time,N,Y,Y,Y,T
+701,fax,6:00PM-9:00PM,Y,Y,N,N,T
+702,regular mail,any time,N,N,Y,N,T
+703,telephone,12:00PM-3:00PM,Y,N,N,N,T
+704,fax,6:00PM-9:00PM,N,N,Y,Y,T
+705,telephone,8:00AM-5:00PM,N,Y,N,Y,T
+706,fax,5:00PM-10:00PM,Y,N,Y,Y,T
+707,regular mail,12:00PM-3:00PM,Y,N,N,N,T
+708,fax,unknown,Y,N,Y,N,T
+709,e-mail,unknown,N,Y,Y,Y,T
+710,telephone,6:00PM-9:00PM,Y,N,Y,Y,T
+711,e-mail,6:00PM-9:00PM,N,N,Y,Y,T
+712,telephone,6:00PM-9:00PM,N,Y,Y,N,T
+713,fax,12:00PM-8:00AM,Y,N,N,Y,T
+714,telephone,12:00PM-8:00AM,Y,Y,Y,Y,T
+715,regular mail,unknown,Y,Y,Y,N,T
+716,e-mail,5:00PM-10:00PM,Y,Y,N,Y,T
+717,telephone,any time,N,Y,N,Y,T
+718,regular mail,6:00PM-9:00PM,Y,Y,Y,Y,T
+719,telephone,8:00AM-5:00PM,Y,N,Y,N,T
+720,e-mail,5:00PM-10:00PM,Y,N,Y,N,T
+721,e-mail,12:00PM-8:00AM,N,N,Y,N,T
+722,regular mail,6:00PM-9:00PM,N,Y,N,Y,T
+723,e-mail,3:00PM-6:00PM,Y,Y,Y,Y,T
+724,fax,12:00PM-8:00AM,N,Y,Y,N,T
+725,fax,12:00PM-3:00PM,Y,Y,N,Y,T
+726,e-mail,5:00PM-10:00PM,Y,Y,Y,Y,T
+727,fax,3:00PM-6:00PM,Y,N,N,Y,T
+728,regular mail,12:00PM-8:00AM,Y,N,Y,Y,T
+729,e-mail,5:00PM-10:00PM,Y,Y,N,Y,T
+730,telephone,12:00PM-8:00AM,Y,Y,Y,Y,T
+731,fax,any time,N,N,Y,N,T
+732,regular mail,6:00PM-9:00PM,Y,N,N,N,T
+733,fax,unknown,Y,N,Y,Y,T
+734,e-mail,8:00AM-5:00PM,N,Y,Y,N,T
+735,e-mail,6:00PM-9:00PM,N,Y,Y,Y,T
+736,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+737,fax,6:00PM-9:00PM,Y,N,N,N,T
+738,telephone,8:00AM-5:00PM,Y,N,N,N,T
+739,regular mail,unknown,N,N,N,Y,T
+740,e-mail,8:00AM-5:00PM,Y,Y,Y,Y,T
+741,regular mail,12:00PM-3:00PM,Y,Y,N,Y,T
+742,fax,any time,N,Y,Y,Y,T
+743,e-mail,6:00PM-9:00PM,Y,Y,N,Y,T
+744,e-mail,6:00PM-9:00PM,N,N,N,Y,T
+745,regular mail,6:00PM-9:00PM,Y,N,N,N,T
+746,fax,6:00PM-9:00PM,N,N,Y,Y,T
+747,telephone,12:00PM-8:00AM,N,N,Y,Y,T
+748,e-mail,6:00PM-9:00PM,N,N,N,Y,T
+749,e-mail,6:00PM-9:00PM,N,N,Y,Y,T
+750,e-mail,8:00AM-5:00PM,N,N,Y,N,T
+751,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+752,fax,12:00PM-3:00PM,N,N,Y,Y,T
+753,e-mail,any time,N,Y,N,N,T
+754,e-mail,12:00PM-8:00AM,Y,N,Y,N,T
+755,regular mail,5:00PM-10:00PM,Y,N,Y,Y,T
+756,fax,9:00AM-12:00PM,Y,N,Y,N,T
+757,e-mail,unknown,N,Y,N,Y,T
+758,fax,any time,Y,N,Y,N,T
+759,fax,12:00PM-8:00AM,N,N,Y,Y,T
+760,fax,9:00AM-12:00PM,N,N,Y,Y,T
+761,e-mail,any time,Y,N,N,Y,T
+762,fax,3:00PM-6:00PM,N,Y,N,Y,T
+763,regular mail,9:00AM-12:00PM,N,N,N,N,T
+764,e-mail,12:00PM-3:00PM,Y,Y,N,N,T
+765,telephone,12:00PM-3:00PM,N,N,N,N,T
+766,regular mail,3:00PM-6:00PM,Y,Y,N,Y,T
+767,fax,6:00PM-9:00PM,N,N,N,N,T
+768,regular mail,6:00PM-9:00PM,N,N,N,Y,T
+769,e-mail,12:00PM-8:00AM,N,Y,Y,Y,T
+770,fax,any time,Y,Y,Y,N,T
+771,e-mail,8:00AM-5:00PM,N,N,N,Y,T
+772,regular mail,any time,N,Y,N,Y,T
+773,fax,6:00PM-9:00PM,Y,N,N,N,T
+774,fax,any time,N,Y,Y,N,T
+775,fax,6:00PM-9:00PM,N,N,Y,Y,T
+776,e-mail,8:00AM-5:00PM,Y,N,N,N,T
+777,telephone,12:00PM-3:00PM,N,Y,Y,N,T
+778,regular mail,12:00PM-3:00PM,N,N,Y,N,T
+779,telephone,6:00PM-9:00PM,N,Y,N,Y,T
+780,fax,3:00PM-6:00PM,Y,Y,N,Y,T
+781,e-mail,unknown,N,N,N,Y,T
+782,telephone,any time,Y,Y,Y,N,T
+783,telephone,6:00PM-9:00PM,N,Y,Y,N,T
+784,telephone,9:00AM-12:00PM,N,N,N,N,T
+785,fax,9:00AM-12:00PM,N,Y,N,Y,T
+786,regular mail,12:00PM-8:00AM,Y,Y,N,N,T
+787,e-mail,3:00PM-6:00PM,Y,Y,N,N,T
+788,e-mail,8:00AM-5:00PM,Y,N,N,N,T
+789,fax,9:00AM-12:00PM,N,Y,N,N,T
+790,regular mail,3:00PM-6:00PM,Y,Y,Y,N,T
+791,regular mail,9:00AM-12:00PM,Y,Y,N,Y,T
+792,fax,3:00PM-6:00PM,N,N,Y,Y,T
+793,fax,6:00PM-9:00PM,N,Y,Y,N,T
+794,telephone,9:00AM-12:00PM,N,Y,Y,Y,T
+795,telephone,12:00PM-8:00AM,N,N,N,N,T
+796,telephone,3:00PM-6:00PM,Y,N,Y,Y,T
+797,telephone,any time,Y,Y,N,N,T
+798,e-mail,5:00PM-10:00PM,Y,Y,N,Y,T
+799,fax,6:00PM-9:00PM,N,N,N,Y,T
+800,fax,12:00PM-8:00AM,N,Y,Y,Y,T
+801,e-mail,any time,Y,Y,N,N,T
+802,regular mail,9:00AM-12:00PM,N,Y,N,N,T
+803,fax,12:00PM-3:00PM,Y,N,N,Y,T
+804,fax,12:00PM-8:00AM,Y,Y,N,N,T
+805,telephone,12:00PM-8:00AM,Y,N,N,N,T
+806,e-mail,unknown,N,Y,N,N,T
+807,e-mail,unknown,N,N,Y,Y,T
+808,telephone,3:00PM-6:00PM,N,Y,Y,N,T
+809,regular mail,12:00PM-3:00PM,Y,N,N,N,T
+810,e-mail,9:00AM-12:00PM,N,Y,Y,N,T
+811,telephone,unknown,N,N,N,Y,T
+812,telephone,3:00PM-6:00PM,N,Y,N,N,T
+813,fax,8:00AM-5:00PM,Y,N,N,Y,T
+814,regular mail,3:00PM-6:00PM,N,Y,Y,Y,T
+815,regular mail,any time,N,N,Y,N,T
+816,fax,9:00AM-12:00PM,N,Y,Y,Y,T
+817,e-mail,12:00PM-8:00AM,Y,N,Y,N,T
+818,fax,12:00PM-3:00PM,Y,Y,N,Y,T
+819,e-mail,9:00AM-12:00PM,Y,Y,Y,N,T
+820,fax,unknown,Y,Y,Y,Y,T
+821,telephone,12:00PM-3:00PM,N,Y,Y,N,T
+822,e-mail,6:00PM-9:00PM,Y,N,N,N,T
+823,e-mail,5:00PM-10:00PM,Y,N,N,Y,T
+824,telephone,5:00PM-10:00PM,Y,N,Y,Y,T
+825,telephone,6:00PM-9:00PM,N,N,N,Y,T
+826,fax,9:00AM-12:00PM,Y,N,Y,Y,T
+827,regular mail,8:00AM-5:00PM,N,Y,Y,Y,T
+828,e-mail,6:00PM-9:00PM,Y,Y,Y,N,T
+829,e-mail,12:00PM-3:00PM,Y,N,N,N,T
+830,telephone,9:00AM-12:00PM,Y,N,Y,N,T
+831,regular mail,12:00PM-8:00AM,N,Y,Y,N,T
+832,regular mail,9:00AM-12:00PM,N,Y,N,N,T
+833,e-mail,3:00PM-6:00PM,N,Y,Y,N,T
+834,e-mail,9:00AM-12:00PM,N,N,N,Y,T
+835,fax,unknown,Y,N,Y,Y,T
+836,telephone,8:00AM-5:00PM,N,N,Y,N,T
+837,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+838,e-mail,any time,Y,N,N,N,T
+839,fax,5:00PM-10:00PM,Y,N,N,N,T
+840,fax,5:00PM-10:00PM,N,Y,N,N,T
+841,regular mail,12:00PM-8:00AM,Y,Y,N,N,T
+842,fax,12:00PM-3:00PM,N,Y,Y,N,T
+843,telephone,8:00AM-5:00PM,Y,Y,N,N,T
+844,e-mail,3:00PM-6:00PM,Y,Y,N,Y,T
+845,telephone,3:00PM-6:00PM,Y,N,N,N,T
+846,telephone,5:00PM-10:00PM,N,Y,Y,Y,T
+847,telephone,3:00PM-6:00PM,Y,Y,N,N,T
+848,fax,12:00PM-3:00PM,N,N,N,N,T
+849,e-mail,12:00PM-8:00AM,Y,N,N,Y,T
+850,fax,unknown,N,Y,Y,N,T
+851,telephone,6:00PM-9:00PM,Y,N,N,Y,T
+852,regular mail,12:00PM-8:00AM,N,Y,Y,N,T
+853,regular mail,9:00AM-12:00PM,Y,Y,Y,Y,T
+854,e-mail,6:00PM-9:00PM,Y,N,Y,Y,T
+855,telephone,5:00PM-10:00PM,Y,N,Y,Y,T
+856,e-mail,6:00PM-9:00PM,Y,N,N,Y,T
+857,regular mail,8:00AM-5:00PM,N,Y,Y,Y,T
+858,regular mail,8:00AM-5:00PM,N,N,N,N,T
+859,telephone,12:00PM-3:00PM,N,N,N,Y,T
+860,regular mail,5:00PM-10:00PM,Y,N,N,N,T
+861,fax,9:00AM-12:00PM,N,N,Y,Y,T
+862,fax,6:00PM-9:00PM,Y,Y,Y,Y,T
+863,telephone,12:00PM-8:00AM,N,N,Y,Y,T
+864,fax,9:00AM-12:00PM,N,Y,Y,Y,T
+865,fax,3:00PM-6:00PM,Y,Y,Y,N,T
+866,regular mail,any time,N,N,Y,Y,T
+867,e-mail,12:00PM-3:00PM,Y,Y,N,Y,T
+868,e-mail,12:00PM-3:00PM,Y,Y,Y,N,T
+869,e-mail,8:00AM-5:00PM,N,Y,Y,N,T
+870,fax,8:00AM-5:00PM,Y,Y,N,Y,T
+871,e-mail,12:00PM-8:00AM,N,N,Y,Y,T
+872,telephone,any time,Y,Y,N,Y,T
+873,e-mail,6:00PM-9:00PM,N,Y,N,Y,T
+874,telephone,12:00PM-3:00PM,N,Y,Y,Y,T
+875,e-mail,6:00PM-9:00PM,N,N,Y,Y,T
+876,fax,12:00PM-8:00AM,N,N,Y,N,T
+877,regular mail,6:00PM-9:00PM,Y,Y,N,N,T
+878,e-mail,3:00PM-6:00PM,N,N,Y,N,T
+879,regular mail,12:00PM-3:00PM,N,Y,N,Y,T
+880,telephone,3:00PM-6:00PM,Y,Y,Y,N,T
+881,fax,any time,Y,Y,N,Y,T
+882,fax,12:00PM-3:00PM,N,Y,Y,N,T
+883,telephone,9:00AM-12:00PM,Y,Y,Y,Y,T
+884,e-mail,8:00AM-5:00PM,N,N,Y,Y,T
+885,regular mail,3:00PM-6:00PM,N,N,N,Y,T
+886,e-mail,3:00PM-6:00PM,N,Y,Y,Y,T
+887,regular mail,unknown,N,N,Y,Y,T
+888,telephone,any time,Y,N,N,Y,T
+889,telephone,8:00AM-5:00PM,N,Y,Y,Y,T
+890,telephone,any time,Y,N,Y,Y,T
+891,fax,8:00AM-5:00PM,Y,Y,Y,N,T
+892,telephone,any time,N,N,N,Y,T
+893,fax,any time,Y,Y,N,N,T
+894,telephone,3:00PM-6:00PM,Y,N,N,Y,T
+895,regular mail,unknown,N,N,N,Y,T
+896,e-mail,3:00PM-6:00PM,N,N,N,Y,T
+897,regular mail,5:00PM-10:00PM,N,N,N,N,T
+898,e-mail,8:00AM-5:00PM,N,N,N,N,T
+899,telephone,12:00PM-8:00AM,N,Y,N,Y,T
+900,telephone,3:00PM-6:00PM,N,Y,Y,N,T
+901,e-mail,any time,N,N,Y,Y,T
+902,telephone,12:00PM-8:00AM,Y,Y,N,Y,T
+903,e-mail,12:00PM-8:00AM,Y,N,N,Y,T
+904,e-mail,3:00PM-6:00PM,N,Y,N,N,T
+905,regular mail,8:00AM-5:00PM,Y,N,Y,Y,T
+906,regular mail,8:00AM-5:00PM,N,N,N,Y,T
+907,regular mail,6:00PM-9:00PM,N,Y,N,Y,T
+908,telephone,8:00AM-5:00PM,Y,N,N,N,T
+909,regular mail,12:00PM-3:00PM,N,Y,N,N,T
+910,telephone,5:00PM-10:00PM,Y,Y,Y,N,T
+911,regular mail,5:00PM-10:00PM,Y,Y,Y,Y,T
+912,telephone,9:00AM-12:00PM,N,Y,Y,N,T
+913,e-mail,12:00PM-8:00AM,Y,N,N,Y,T
+914,e-mail,12:00PM-3:00PM,Y,N,N,Y,T
+915,telephone,unknown,N,Y,Y,Y,T
+916,fax,any time,Y,N,N,N,T
+917,e-mail,5:00PM-10:00PM,N,N,N,N,T
+918,regular mail,12:00PM-8:00AM,N,Y,Y,N,T
+919,regular mail,6:00PM-9:00PM,N,N,N,N,T
+920,telephone,9:00AM-12:00PM,N,N,Y,N,T
+921,telephone,unknown,N,Y,Y,Y,T
+922,fax,6:00PM-9:00PM,N,N,Y,N,T
+923,regular mail,5:00PM-10:00PM,Y,N,Y,N,T
+924,fax,unknown,N,Y,Y,Y,T
+925,regular mail,5:00PM-10:00PM,N,Y,N,Y,T
+926,fax,12:00PM-3:00PM,Y,N,Y,N,T
+927,telephone,12:00PM-3:00PM,N,N,N,N,T
+928,telephone,5:00PM-10:00PM,N,Y,N,Y,T
+929,telephone,5:00PM-10:00PM,Y,N,N,N,T
+930,telephone,3:00PM-6:00PM,N,Y,N,N,T
+931,e-mail,5:00PM-10:00PM,N,N,N,Y,T
+932,telephone,9:00AM-12:00PM,N,N,Y,Y,T
+933,telephone,3:00PM-6:00PM,Y,N,Y,N,T
+934,telephone,any time,Y,Y,N,Y,T
+935,fax,unknown,Y,Y,Y,N,T
+936,fax,9:00AM-12:00PM,Y,N,Y,N,T
+937,regular mail,12:00PM-8:00AM,Y,N,Y,Y,T
+938,regular mail,unknown,Y,Y,N,Y,T
+939,regular mail,any time,N,Y,Y,Y,T
+940,e-mail,6:00PM-9:00PM,Y,N,Y,N,T
+941,telephone,8:00AM-5:00PM,N,Y,Y,N,T
+942,fax,9:00AM-12:00PM,N,N,N,N,T
+943,e-mail,any time,Y,N,N,N,T
+944,e-mail,8:00AM-5:00PM,N,Y,Y,Y,T
+945,fax,8:00AM-5:00PM,Y,N,N,Y,T
+946,e-mail,any time,N,Y,Y,Y,T
+947,fax,12:00PM-8:00AM,Y,N,Y,Y,T
+948,e-mail,12:00PM-3:00PM,Y,N,Y,N,T
+949,fax,8:00AM-5:00PM,N,Y,Y,Y,T
+950,fax,5:00PM-10:00PM,Y,Y,N,N,T
+951,regular mail,12:00PM-8:00AM,N,N,N,Y,T
+952,telephone,any time,N,Y,N,N,T
+953,telephone,12:00PM-3:00PM,N,Y,N,Y,T
+954,fax,8:00AM-5:00PM,Y,Y,Y,N,T
+955,fax,unknown,N,Y,N,Y,T
+956,regular mail,9:00AM-12:00PM,N,Y,Y,Y,T
+957,fax,6:00PM-9:00PM,Y,N,Y,N,T
+958,regular mail,8:00AM-5:00PM,Y,Y,N,Y,T
+959,telephone,6:00PM-9:00PM,Y,N,Y,Y,T
+960,telephone,8:00AM-5:00PM,N,Y,Y,N,T
+961,e-mail,8:00AM-5:00PM,N,N,Y,N,T
+962,telephone,3:00PM-6:00PM,N,Y,Y,N,T
+963,e-mail,12:00PM-3:00PM,N,Y,N,N,T
+964,e-mail,any time,Y,Y,N,N,T
+965,e-mail,6:00PM-9:00PM,N,Y,Y,N,T
+966,regular mail,5:00PM-10:00PM,N,Y,Y,N,T
+967,telephone,unknown,N,N,N,N,T
+968,regular mail,9:00AM-12:00PM,Y,N,Y,N,T
+969,e-mail,5:00PM-10:00PM,Y,N,Y,Y,T
+970,regular mail,9:00AM-12:00PM,N,Y,Y,Y,T
+971,e-mail,unknown,N,Y,Y,N,T
+972,fax,8:00AM-5:00PM,N,Y,Y,Y,T
+973,e-mail,6:00PM-9:00PM,N,N,Y,N,T
+974,regular mail,3:00PM-6:00PM,Y,N,Y,N,T
+975,regular mail,3:00PM-6:00PM,N,N,N,N,T
+976,fax,unknown,N,Y,N,Y,T
+977,fax,12:00PM-8:00AM,N,N,N,Y,T
+978,e-mail,6:00PM-9:00PM,Y,N,N,Y,T
+979,telephone,any time,Y,N,Y,Y,T
+980,telephone,5:00PM-10:00PM,N,Y,N,Y,T
+981,telephone,12:00PM-3:00PM,Y,N,Y,N,T
+982,e-mail,5:00PM-10:00PM,Y,N,Y,N,T
+983,telephone,12:00PM-8:00AM,N,Y,Y,Y,T
+984,e-mail,unknown,Y,N,Y,N,T
+985,regular mail,12:00PM-8:00AM,Y,N,N,Y,T
+986,fax,12:00PM-3:00PM,N,Y,N,Y,T
+987,fax,any time,N,N,Y,N,T
+988,regular mail,unknown,Y,Y,Y,N,T
+989,telephone,6:00PM-9:00PM,N,Y,N,Y,T
+990,fax,unknown,N,N,Y,Y,T
+991,fax,3:00PM-6:00PM,Y,N,N,Y,T
+992,telephone,5:00PM-10:00PM,N,N,N,Y,T
+993,e-mail,any time,Y,Y,Y,N,T
+994,e-mail,3:00PM-6:00PM,Y,Y,N,Y,T
+995,telephone,3:00PM-6:00PM,N,N,N,N,T
+996,regular mail,12:00PM-3:00PM,N,N,Y,N,T
+997,e-mail,12:00PM-8:00AM,Y,Y,N,Y,T
+998,telephone,unknown,N,Y,Y,N,T
+999,fax,12:00PM-8:00AM,N,Y,N,N,T
+1000,e-mail,6:00PM-9:00PM,N,Y,N,Y,T

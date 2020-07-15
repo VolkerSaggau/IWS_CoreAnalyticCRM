@@ -1,0 +1,23 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_CUS_ST_STSF_RT",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_CUS_ST_STSF_RT.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "CUS_STSF_RT_ID"                    : 1,
+            "DESCRIPTION"                       : 2,
+            "CSSR_ALL_ENTRIES_I"                : 3
+         
+         }
+      }
+   ]
+}

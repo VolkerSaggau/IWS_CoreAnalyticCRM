@@ -1,0 +1,24 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_DOC_TYP",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_DOC_TYP.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "DOC_TYPE_ID"                       : 1,
+            "DOC_TYPE_NAME"                     : 2,
+            "DOC_TYPE_DESC"                     : 3,
+            "CDT_ALL_ENTR_IND"                  : 4
+         
+         }
+      }
+   ]
+}

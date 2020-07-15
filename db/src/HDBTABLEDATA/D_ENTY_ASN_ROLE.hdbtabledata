@@ -1,0 +1,23 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "D_ENTY_ASN_ROLE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "D_ENTY_ASN_ROLE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ROLE_ID"                           : 1,
+            "ROLE_DESCRIPTION"                  : 2,
+            "ERO_ALL_ENTRIES_IN"                : 3
+         
+         }
+      }
+   ]
+}

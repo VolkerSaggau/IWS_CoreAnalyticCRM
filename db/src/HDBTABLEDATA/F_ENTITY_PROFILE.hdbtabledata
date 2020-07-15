@@ -1,0 +1,41 @@
+{
+   "format_version" : 1,   
+   "imports" :[
+      {
+         "target_table": "F_ENTITY_PROFILE",
+         "source_data": {
+            "data_type": "CSV",
+            "file_name": "F_ENTITY_PROFILE.csv", 
+            "has_header": false,
+            "type_config": {
+               "delimiter": ","
+            }
+         },
+         "include_filter" : [],
+         "column_mappings": {
+            "ENTY_PRFL_ID"                      : 1,
+            "PSYCH_ID"                          : 2,
+            "ADDRESS_ID"                        : 3,
+            "DEMO_ID"                           : 4,
+            "ASSET_ID"                          : 5,
+            "PROFESSION_ID"                     : 6,
+            "LANGUAGE_ID"                       : 7,
+            "PN_BHVR_SCOR_ID"                   : 8,
+            "AFFILIATION_ID"                    : 9,
+            "FNCL_SCOR_ID"                      : 10,
+            "GEO_ID"                            : 11,
+            "CNTC_ISTR_ID"                      : 12,
+            "BEGIN_DATE_PRD_ID"                 : 13,
+            "END_DATE_PRD_ID"                   : 14,
+            "ENTY_ID"                           : 15,
+            "CUS_SINCE_PRD_ID"                  : 16,
+            "PD_OWNERSHIP_ID"                   : 17,
+            "COR_RPT_STRC_ID"                   : 18,
+            "USAGE_PRFL_ID"                     : 19,
+            "QIK_RPTG_PRFL_ID"                  : 20,
+            "ENTY_PROFILE_TYPE"                 : 21
+         
+         }
+      }
+   ]
+}
