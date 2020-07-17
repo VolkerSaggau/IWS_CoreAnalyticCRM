@@ -1,7 +1,7 @@
 column table "D_GEOGRAPHY" (
 "GEO_ID"    BIGINT   NOT NULL   comment 'Geographic ID',
-"GEO_BEGIN_DATE"    DATE    comment 'Effective Date Period ID',
-"GEO_END_DATE"    DATE    comment 'End Date Period ID',
+"GEO_BEGIN_DATE"    DATETIME    comment 'Effective Date Period ID',
+"GEO_END_DATE"    DATETIME    comment 'End Date Period ID',
 "GEO_POSTAL_CODE"    NVARCHAR(10)    comment 'POSTAL CODE',
 "GEO_CITY"    NVARCHAR(30)    comment 'City',
 "POSTAL_CD_PFX"    NCHAR(3)    comment 'POSTAL CODE PREFIX',
