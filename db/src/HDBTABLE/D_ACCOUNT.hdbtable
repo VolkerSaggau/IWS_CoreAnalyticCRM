@@ -4,7 +4,7 @@ column table "D_ACCOUNT" (
 "ACCT_END_DATE"    DATE    comment 'End Date Period ID',
 "ACCOUNT_NUMBER"    NVARCHAR(18),
 "ACCOUNT_DESC"    NVARCHAR(255),
-"DEROG_CODE"    NCHAR(3),
+"DEROG_CODE"    NCHAR(4),
 "ACCT_ALL_ENTRIES_I"    NCHAR(1)    comment 'All Entries Indicator',
 primary key cpbtree (ACCOUNT_ID)
 )
