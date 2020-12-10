@@ -5,7 +5,7 @@ column table "D_CLAIM" (
 "CLAIM_TYPE"    NCHAR(3)    comment 'Claim Type',
 "CLM_AMT_BND"    NVARCHAR(50),
 "REINS_AMT_BND"    NVARCHAR(50),
-"INSC_ALL_ENTR_IND"    NCHAR(1)    comment 'All Entries Indicator',
+"INSC_ALL_ENTR_IND"    NCHAR(2)    comment 'All Entries Indicator',
 primary key cpbtree (CLAIM_ID)
 )
  comment 'PC Claim'
